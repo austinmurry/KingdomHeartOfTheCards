@@ -1,3 +1,19 @@
+
+
+Brought to you by DJ Firewolf, formerly of KH Impulse and KH Excursion.
+Produced in partnership with KH-Recharged.com
+
+Do NOT claim as your own! However, enjoy!
+
+2/13/2020 - Script begun.
+
+7/13/2020 - Script finished.
+
+Minor note: Keep in mind that "Chi" is a letter from the Greek alphabet 
+symbolized as a stylized X, and therefore must be read "Kee".
+
+------------------------------------------------------------------------------
+
 (The water ripples in the breeze as the seagulls fly overhead. The ubiqui-
 tous windmills of this bright white world turn, their heavy creaking sound 
 sailing on the air. Beneath the water, schools of fish swim in slow currents. 
@@ -134,7 +150,7 @@ Sora: Let's go!
 
 (They stand at attention toward Yen Sid)
 
-Sora, Donald & Goofy: Count on us!
+Sora, Donald &amp; Goofy: Count on us!
 
 (Later, the three fly in the Gummi Ship, seemingly going nowhere. Donald 
 and Sora cross their arms impatiently. Sora whines as Donald glares at him)
@@ -195,7 +211,7 @@ Sora: I've got it!
 (He summons the Keyblade and aims it forward. The tip glows brightly and a 
 portal opens ahead of the ship)
 
-Donald & Goofy: It's a gate!
+Donald &amp; Goofy: It's a gate!
 
 (Sora sits in his chair)
 
@@ -803,7 +819,7 @@ dust cloud blasts toward them. They look up as the last of the fallen
 rocks trickle to the ground. Goofy dispels his shield as Sora walks 
 toward the rubble)
 
-Sora, Donald & Goofy: Hercules!
+Sora, Donald &amp; Goofy: Hercules!
 
 (Facing no response, the trio frowns before hearing footsteps. A large 
 figure walks out of the cloud of dust, the hero himself coming into view. 
@@ -947,7 +963,7 @@ Hercules: Yeah. Dad's king of the gods.
 
 (He takes off before they can respond)
 
-Sora, Donald & Goofy: Whaaat?!
+Sora, Donald &amp; Goofy: Whaaat?!
 
 Sora: His father is a god? But doesn't that mean Herc is a god too?
 
@@ -979,7 +995,7 @@ Sora: C'mon!
 (The three of them continue forward, when a loud boom shakes the ground. 
 They look over to see part of the mountain moving)
 
-Donald & Goofy: Titan!
+Donald &amp; Goofy: Titan!
 
 (The colossal Rock Titan tosses a gigantic boulder over the mountainside. 
 The trio run away as it crashes, splitting into pieces. One rock blocks 
@@ -1074,7 +1090,7 @@ Hercules: Sora, Donald, Goofy!
 
 Hercules: It's on!
 
-Sora, Donald & Goofy: Yeah!
+Sora, Donald &amp; Goofy: Yeah!
 
 (They ascend the hardened lava cone to get a better vantage point of 
 the Lava and Ice Titans while the Tornado Titan swirls in the wind 
@@ -1521,7 +1537,7 @@ Sora: We were here before, but you didn't wait.
 (Donald and Goofy each knock Sora aside to get to Mickey, causing him 
 to fall over)
 
-Donald & Goofy: Your Majesty!
+Donald &amp; Goofy: Your Majesty!
 
 Mickey: Hey there, fellas. So, what've you three been up to?
 
@@ -1584,7 +1600,7 @@ Sora: I'll save her.
 
 (Donald and Goofy jump in surprise)
 
-Riku & Mickey: Huh?
+Riku &amp; Mickey: Huh?
 
 Donald: You can't!
 
@@ -1617,13 +1633,13 @@ need to get replacements before we can continue.
 Yen Sid: In that case, rendezvous with Kairi and Lea. They are 
 continuing their training under the tutelage of the wizard Merlin.
 
-(Mickey & Riku bow)
+(Mickey &amp; Riku bow)
 
 Mickey: Yes, sir.
 
 Yen Sid: Also, I would like you to deliver these for me.
 
-(He waves a hand over the table and two briefcases appear, one black & 
+(He waves a hand over the table and two briefcases appear, one black &amp; 
 pink and one red)
 
 Mickey: Are they...
@@ -1676,7 +1692,7 @@ smallest of umbrellas)
 
 Jiminy Cricket: Hey, wait! Don't forget about me!
 
-Sora, Donald & Goofy: Jiminy!
+Sora, Donald &amp; Goofy: Jiminy!
 
 Jiminy: Every journey worth goin' on needs a cricket to keep track of 
 it. And I can't let ya start this one without ol' Jiminy Cricket by 
@@ -1711,7 +1727,7 @@ Yen Sid (whispering): May your heart be your guiding key.
 
 Goofy: See?
 
-(Sora and Donald agree. Sora, Donald, Goofy & Jiminy leave the 
+(Sora and Donald agree. Sora, Donald, Goofy &amp; Jiminy leave the 
 Mysterious Tower in their trusty Gummi Ship. Sora sits back in his chair 
 as the ship chugs along)
 
@@ -1806,7 +1822,7 @@ Garden)
 Aeleus is here too.
 
 (Aeleus walks behind Ienzo silently. He narrows his eyes and stops)
-Ienzo: Aeleus, whatever's between you and Roxas, it's in the past.
+</pre><pre id="faqspan-2">Ienzo: Aeleus, whatever's between you and Roxas, it's in the past.
 
 (Aeleus continues walking and Ienzo sighs, turning back to the phone)
 
@@ -1848,12 +1864,12 @@ Ansem the Wise, look a close look at your heart. And what he found...
 
 Ienzo: ...is that your heart doesn't belong just to you.
 
-Donald, Goofy & Jiminy: It doesn't?
+Donald, Goofy &amp; Jiminy: It doesn't?
 
 Goofy: Gawrsh, you don't seem surprised.
 
 Sora: Yeah. Honestly, I suspected as much. There's another heart inside 
-mine. I think it's Roxas's. Just like Naminé is still inside Kairi's.
+mine. I think it's Roxas's. Just like NaminÃ© is still inside Kairi's.
 
 Ienzo: Interesting... Well, no one knows your heart better than you.
 
@@ -1881,7 +1897,7 @@ Jiminy: Leave it to me.
 Sora: I have to find Roxas and save him. The others are following Aqua's 
 heart, so I'll follow Roxas's heart!
 
-(Donald, Goofy & Jiminy nod)
+(Donald, Goofy &amp; Jiminy nod)
 
 Goofy: Trust the guidance that your heart gives ya, Sora. That's what 
 Master Yen Sid said.
@@ -2099,7 +2115,7 @@ Pence: That's a great idea!
 
 Pence: Wait, who's taking it?
 
-(Hayner, Sora & Donald share a bemused look. Hayner and Sora look at 
+(Hayner, Sora &amp; Donald share a bemused look. Hayner and Sora look at 
 Donald. A moment later, Sora poses with Hayner, Pence and Olette while 
 Donald holds the camera)
 
@@ -2131,7 +2147,7 @@ Olette: Oh yeah, they are HUGE right now. Supposedly, these things are
 hidden all over town. And if you get a picture of them, they'll bring 
 you good luck.
 
-(Sora, Donald & Goofy are impressed)
+(Sora, Donald &amp; Goofy are impressed)
 
 Sora: Cool! Wait. Look, guys! Is that...
 
@@ -2454,7 +2470,7 @@ Sora: Yeah. See ya, Hayner!
 
 Olette: Bye, Donald! Goofy!
 
-Donald & Goofy (waving): Good-bye!
+Donald &amp; Goofy (waving): Good-bye!
 
 Pence: Oh, and since I'm manning the computer here, you guys're in charge 
 of earning my share.
@@ -2527,13 +2543,13 @@ Ansem: Go on then. The shadows are never out of reach.
 (Ansem smirks as a herd of Neoshadow Heartless appear behind them. Xemnas 
 waves his hand and Dusk Nobodies join them. Sora glares at them)
 
-Ansem & Xemnas: Now, set your heart free.
+Ansem &amp; Xemnas: Now, set your heart free.
 
 (The two disappear)
 
 Sora: Wait!
 
-Donald & Goofy: Sora!
+Donald &amp; Goofy: Sora!
 
 (The knight and the wizard face the creatures and Sora summons his Keyblade)
 
@@ -2550,7 +2566,7 @@ it is. I'm getting Roxas out.
 
 Sora: Are you with me, Donald? Goofy?
 
-Donald & Goofy (brightly): You betcha!
+Donald &amp; Goofy (brightly): You betcha!
 
 Sora: I don't know what Ansem and Xemnas want, but I think we'd better 
 tell the others to watch out.
@@ -2602,7 +2618,7 @@ Sora: What is it?
 
 (He opens the box seeing a decadent dessert topped with fruit)
 
-Sora, Donald & Goofy: Wow, cake!
+Sora, Donald &amp; Goofy: Wow, cake!
 
 (Scrooge's top hat twitches, getting his attention)
 
@@ -2684,7 +2700,7 @@ Hayner: Umm... Do we?
 
 Olette: He gave us a short job putting up these special posters.
 
-(She unravels the black-and-white poster which is titled "Mickey & Sora 
+(She unravels the black-and-white poster which is titled "Mickey &amp; Sora 
 in 'GIANTLAND'" depicting a club-carrying bearded giant, holding up a 
 rogue-dressed Mickey Mouse who looks ready to fight)
 
@@ -2760,7 +2776,7 @@ Hayner: Well, what is it? Don't make it too tough.
 Sora: I know how Roxas feels. To be lost. But Donald and Goofy...Kairi...
 brought me back by wishing with all their hearts.
 
-(Donald & Goofy nod)
+(Donald &amp; Goofy nod)
 
 Sora: So...I was hoping the three of you would do the same, and wish for 
 Roxas.
@@ -3149,7 +3165,7 @@ Goofy: Gawrsh...
 
 Goofy: Who's gonna protect the order from them?
 
-Sora & Donald: Heartless!
+Sora &amp; Donald: Heartless!
 
 (They summons their weapons and run at the Heartless)
 
@@ -3221,7 +3237,7 @@ Buzz (to Woody): Gotta be smart, Woody.
 
 Woody: So, you're...Andy's new toys?
 
-Sora, Donald & Goofy: Toys?
+Sora, Donald &amp; Goofy: Toys?
 
 Woody: You sure did a number on those intruders.
 
@@ -3369,7 +3385,7 @@ a matter of fact, he's the only other toy we've seen, outside of you three.
 
 Sora: A black hood? (gasp) But that would mean...
 
-Donald & Goofy: The Organization!
+Donald &amp; Goofy: The Organization!
 
 Woody: You know who it is?
 
@@ -3567,7 +3583,7 @@ Goofy: Thought we were friends, not strangers.
 
 Sora: Look, I get that it seems weird, but we know something's wrong with 
 this place. We should stick together.
-Woody: Sora's right. They helped with the intruders, so they might help 
+</pre><pre id="faqspan-3">Woody: Sora's right. They helped with the intruders, so they might help 
 find our friends.
 
 (Buzz starts walking toward the red Gigas)
@@ -3598,7 +3614,7 @@ Woody: Come on. We have got to find them!
 
 Sora: Please, let us help!
 
-Donald & Goofy: Yeah!
+Donald &amp; Goofy: Yeah!
 
 (Woody looks over his shoulder at Buzz who hasn't budged and runs back 
 over to him)
@@ -3801,7 +3817,7 @@ Rex: Yes, sir!
 (Rex makes a determined fist with his little arm and Buzz salutes him. 
 Sora and the rest chuckle and make their way up into the ventilation 
 shaft. Using the vents to reach the third floor of Galaxy Toys they exit 
-into the Dolls section of Babies & Toddlers)
+into the Dolls section of Babies &amp; Toddlers)
 
 Woody: This is Babies and Toddlers. Where do you guys think we should start?
 
@@ -4110,9 +4126,9 @@ Hamm: Hey, thanks, buddy. You just take care of your old self.
 
 Woody: Now, let's follow that UFO!
 
-Sora, Donald & Goofy: Right!
+Sora, Donald &amp; Goofy: Right!
 
-(They enter the Outdoor playplace of Babies & Toddlers where the UFO is 
+(They enter the Outdoor playplace of Babies &amp; Toddlers where the UFO is 
 flying through. The Aliens spot it with glee)
 
 Little Green Man 1: They have come for us.
@@ -4136,7 +4152,7 @@ Buzz: It's getting away!
 
 Sora: Don't go!
 
-(Surrounded by Toy Trooper Heartless, Sora, Donald, Goofy, Woody & Buzz 
+(Surrounded by Toy Trooper Heartless, Sora, Donald, Goofy, Woody &amp; Buzz 
 take down the possessed UFO. It drops the Aliens and falters in the air, 
 eventually losing power and sinking to the floor)
 
@@ -4412,7 +4428,7 @@ Sora: There's got to be a way out. Buzz, Woody, hang on!
 (After a few minutes, Sora leaps out of the television screen to the 
 delighted faces of his friends)
 
-Donald & Goofy: Sora!
+Donald &amp; Goofy: Sora!
 
 Woody: Y'all right, Sora?
 
@@ -4454,7 +4470,7 @@ Woody: Sarge, you're a lifesaver!
 
 Woody: You guys in?
 
-Sora, Donald & Goofy: Yeah!
+Sora, Donald &amp; Goofy: Yeah!
 
 Rex: Please promise you'll bring Buzz home.
 
@@ -4466,7 +4482,7 @@ Little Green Man 2: Farewell!
 
 Woody: Don't worry. WE'RE gonna get our friend back.
 
-(They return to the Outdoor section of Babies & Toddlers)
+(They return to the Outdoor section of Babies &amp; Toddlers)
 
 Woody: Sora, look!
 
@@ -4536,7 +4552,7 @@ him and spreading through the air. Young Xehanort waits for them, waves of
 dark energy covering the floor as pieces of toys are scattered about the 
 abyss, floating on invisible strings)
 
-Sora & Woody: Buzz!
+Sora &amp; Woody: Buzz!
 
 Sora: Xehanort!
 
@@ -4710,7 +4726,7 @@ Little Green Men: Oh nooo.
 Buzz: A shame we'll have to stay a little longer...with our new best 
 friends.
 
-Sora, Donald & Goofy: Huh?
+Sora, Donald &amp; Goofy: Huh?
 
 (Woody walks up and leans on Sora's shoulder)
 
@@ -4808,7 +4824,7 @@ Sora: Yeah, why not.
 
 Mickey: Oh! Hiya, Sora!
 
-Donald & Goofy: Your Majesty!
+Donald &amp; Goofy: Your Majesty!
 
 (They shove themselves into the view of the camera)
 
@@ -4854,7 +4870,7 @@ Sora: That's perfect!
 Mickey: I'll talk to Ienzo. He was in the Organization back then, so he 
 might know more.
 
-Sora: Great. Thanks. Wait... (to Donald & Goofy) Do you guys think THEY'RE 
+Sora: Great. Thanks. Wait... (to Donald &amp; Goofy) Do you guys think THEY'RE 
 after replicas too?
 
 Goofy: No, they definitely said "a black box."
@@ -4874,12 +4890,12 @@ Sora: Huh?
 
 (They explain what they discovered about Terra)
 
-Mickey: So, let the rest of us worry about Roxas and Naminé for now. You 
+Mickey: So, let the rest of us worry about Roxas and NaminÃ© for now. You 
 journey on, and keep an eye out for Terra.
 
 (Donald and Goofy block Sora again)
 
-Donald & Goofy: Yes, Your Majesty!
+Donald &amp; Goofy: Yes, Your Majesty!
 
 Sora: Stop that!
 
@@ -5005,7 +5021,7 @@ Sora: I say we investigate.
 
 Donald: He couldn't have come this way.
 
-(Sora sees no exit nearby and turns to face Donald & Goofy, his back to 
+(Sora sees no exit nearby and turns to face Donald &amp; Goofy, his back to 
 a patch of leafy vines)
 
 Sora: Well, at least he got away safe. Right?
@@ -5454,7 +5470,7 @@ Rapunzel: Oh, no, you're not picking on these rabbits.
 Rapunzel: Don't worry. It's safe now.
 
 (They dash away)
-Rapunzel: Oh, maybe they want to show us something. Let's follow them!
+</pre><pre id="faqspan-4">Rapunzel: Oh, maybe they want to show us something. Let's follow them!
 
 (They follow the rabbits to a chest hidden through a path in the trees)
 
@@ -5489,7 +5505,7 @@ Sora: Okay. You're in for it!
 (He summons the Keyblade and splashes the water into the air. The water 
 droplets sparkle in the clear sun creating a band of colors)
 
-Sora & Rapunzel: Whoa!
+Sora &amp; Rapunzel: Whoa!
 
 Rapunzel: A rainbow!
 
@@ -5584,7 +5600,7 @@ it is to see you again, Sora.
 
 Sora: "Again"?
 
-(He turns to Donald & Goofy)
+(He turns to Donald &amp; Goofy)
 
 Sora: YOU know 'im?
 
@@ -5603,7 +5619,7 @@ Marluxia: Now, if you'll permit me, I've come to ask a favor.
 
 Sora: Favor? You have got to be kidding me.
 
-(Donald & Goofy nod in agreement)
+(Donald &amp; Goofy nod in agreement)
 
 Marluxia: Please hear what I have to say. I'm sure you've noticed...
 
@@ -5614,7 +5630,7 @@ Marluxia: Well, perhaps not. But you should know that maiden with you,
 Rapunzel, is the very light of this world. I would see you guard her 
 from its dark horrors.
 
-Sora, Donald & Goofy (surprised): Huh? 
+Sora, Donald &amp; Goofy (surprised): Huh? 
 
 (They take defensive stances)
 
@@ -5944,7 +5960,7 @@ Sora: It's time for these wet blankets to go!
 
 (They summon their weapons)
 
-Donald & Goofy: Yeah!
+Donald &amp; Goofy: Yeah!
 
 (They take care of the Nobodies plaguing the wharf as Rapunzel waits 
 by the shore with Pascal. Out of the fog over the water emerges a small 
@@ -6063,7 +6079,7 @@ it's lights out for you.
 (Marluxia extends a hand, blowing a pink wind toward Sora. He drops the 
 Keyblade, his eyes drooping)
 
-Donald & Goofy: Sora!
+Donald &amp; Goofy: Sora!
 
 (They run towards him as his vision gets hazy, his ears muffled)
 
@@ -6183,7 +6199,7 @@ this! Max, give him a wash!
 sleep. Sora opens his eyes seeing Flynn and Maximus looking down at him. 
 Donald and Goofy peek into view)
 
-Donald & Goofy: Sora!
+Donald &amp; Goofy: Sora!
 
 (Sora sits up)
 
@@ -6471,7 +6487,7 @@ Flynn (smiling): Fine.
 
 Sora: You're gonna be great.
 
-Rapunzel & Flynn: Huh?
+Rapunzel &amp; Flynn: Huh?
 
 Sora: We haven't seen the guy controlling the monsters in a while, so 
 that's one less worry.
@@ -6613,19 +6629,19 @@ Mickey: We'd better go tell Master Yen Sid. And Sora, and the others, too!
 two figures stand atop thirteen pillars of earth. Both in black cloaks, 
 the man with blue hair speaks first)
 
-Saïx: Humanity is a precious gift. And yet you desire to return to the 
+SaÃ¯x: Humanity is a precious gift. And yet you desire to return to the 
 Organization?
 
 ?????: Oh, yes...of course. One eradication at Axel's hands was enough 
 to learn where NOT to place my trust.
 
-Saïx: He gave you a second lease on life.
+SaÃ¯x: He gave you a second lease on life.
 
 ?????: He ripped me away from the one thing I care about. I don't require 
 humanity. Give me my research. I must see it to fruition, no matter the 
 cost.
 
-Saïx: The replicas.
+SaÃ¯x: The replicas.
 
 ?????: Yes.
 
@@ -6634,13 +6650,13 @@ Saïx: The replicas.
 ?????: Soon they will replace, not just replicate. Given a heart, they can 
 become just as real as any human.
 
-Saïx: What excellent tidings. I would hate to think we invited you back 
+SaÃ¯x: What excellent tidings. I would hate to think we invited you back 
 into our ranks only for you to fail to deliver our final vessel...
 
 (The man takes off his hood, revealing the yellow eyes and ashy blond hair 
 of...)
 
-Saïx: Vexen.
+SaÃ¯x: Vexen.
 
 (Sora, Donald and Goofy return to Le Grand Bistrot in Twilight Town to bring 
 ingredients they've found to Little Chef. Scrooge walks into the kitchen 
@@ -6823,7 +6839,7 @@ Sulley: What's the matter, Boo?
 (Behind Donald, a group of blue pointy creatures with red eyes appear. 
 They rush to the danger, summoning their weapons)
 
-Donald & Goofy: Heartless!
+Donald &amp; Goofy: Heartless!
 
 (Several more appear, bringing with them a giant crab-like creature as 
 well, bearing an unfamiliar symbol which catches Sora's attention)
@@ -6910,7 +6926,7 @@ Goofy: Uh-oh!
 
 (Donald and Goofy jump at Sora, covering his mouth)
 
-Donald & Goofy: Order!
+Donald &amp; Goofy: Order!
 
 (They let go of Sora, who tries to rectify the suddenly awkward situation)
 
@@ -7072,7 +7088,7 @@ systems takes the group through a long tunnel into a gigantic vault where
 thousands of doors hang on rails. Sora, Donald and Goofy gasp in awe of 
 the enormous sight. Sora perks up at the appearance of...)
 
-Sora, Donald & Goofy: Heartless!
+Sora, Donald &amp; Goofy: Heartless!
 
 (Sulley bares his fangs)
 
@@ -7193,7 +7209,7 @@ Sora: Who's he?
 
 Sulley: A creep we banished for trying to collect screams by force. He used 
 to be Boo's scarer.
-(Boo also glares at Randall, trying out her own roar)
+</pre><pre id="faqspan-5">(Boo also glares at Randall, trying out her own roar)
 
 Mike: How did you even get back here? The door we sent you through is 
 sawdust!
@@ -7500,7 +7516,7 @@ Donald: I'll do it!
 
 Mike: Hey, hey! Show a little finesse!
 
-(Mike runs over and Sora & Donald get out of his way. He presses a few 
+(Mike runs over and Sora &amp; Donald get out of his way. He presses a few 
 buttons and then slams his fist on the control board)
 
 Mike: Rats! Randall must have messed this up. Nothin' works!
@@ -8151,7 +8167,7 @@ Vanitas: Stay out of this.
 (With a wave of his arm, he swipes Donald and Goofy away in a streak of 
 darkness. With Sora left defenseless, they gasp)
 
-Donald & Goofy: Sora!
+Donald &amp; Goofy: Sora!
 
 (Vanitas walks closer as Sora stands and summons his Keyblade. Vanitas 
 knocks it away in seconds with his own and aims it at Sora's chest. The 
@@ -8234,11 +8250,11 @@ Mike: Better. I'll see ya, kid.
 
 (He waves as Sulley leads her to her flowery door)
 
-Sora, Donald & Goofy: Boo!
+Sora, Donald &amp; Goofy: Boo!
 
 (They reveal a trio of silly faces from under their hands)
 
-Sora, Donald & Goofy: So looong!
+Sora, Donald &amp; Goofy: So looong!
 
 (Boo laughs and waves goodbye. Later, the trio returns to the lobby with 
 Mike and Sulley)
@@ -8285,7 +8301,7 @@ Sulley: Happy exterminating!
 
 (Sora chuckles and shrugs at Donald and Goofy)
 
-Sora, Donald & Goofy: Thank you!
+Sora, Donald &amp; Goofy: Thank you!
 
 (The group returns to the gummi ship. Sora taps his foot and a finger 
 impatiently to the concern of Donald and Goofy. Sora stands up on his 
@@ -8319,7 +8335,7 @@ gummiphone begins to ring)
 
 Sora: Huh?
 
-Donald & Goofy (excited): The King?
+Donald &amp; Goofy (excited): The King?
 
 Sora (excited): Riku?
 
@@ -9044,7 +9060,7 @@ hurt anyone.
 Sora: Oh... Is it that bad? You must've been through a lot.
 
 Donald: We know what that's like, don't we?
-Goofy: Sure, adventuring's fun, but it definitely has its ups and downs. 
+</pre><pre id="faqspan-6">Goofy: Sure, adventuring's fun, but it definitely has its ups and downs. 
 When the going gets tough, us friends have to stick together!
 
 Sora: Exactly! Although, Donald, you DO lose your temper a lot, so...I can 
@@ -9504,7 +9520,7 @@ Donald: Look!
 (An enormous avalanche tumbles down the mountain toward them, encasing tree 
 and rock alike)
 
-Sora, Donald & Goofy: Avalaaaaaanche!
+Sora, Donald &amp; Goofy: Avalaaaaaanche!
 
 (Goofy summons his shield)
 
@@ -9803,7 +9819,7 @@ Kristoff: It's not a stick. Well, it IS a stick, but it--
 
 Kristoff: It's Olaf's arm. (sigh) He's fallen apart again.
 
-Sora, Donald & Goofy: Fallen apart?!
+Sora, Donald &amp; Goofy: Fallen apart?!
 
 Donald: Uh, how come you're not upset?
 
@@ -10028,7 +10044,7 @@ horde of Winterhorns, Flutterings, and Satyrs)
 
 Sora: We better catch up!
 
-Donald & Goofy: Yeah!
+Donald &amp; Goofy: Yeah!
 
 (They travel out of the Valley of Ice to the Frozen Wall, where an icy wind 
 starts to pick up)
@@ -10097,7 +10113,7 @@ Sora: I hope our friends are okay.
 
 (The doors slam open and a giant snow monster appears in the doorway)
 
-Sora, Donald & Goofy: What?
+Sora, Donald &amp; Goofy: What?
 
 (The monster walks out with Olaf, Anna, Kristoff in his clutches)
 
@@ -10315,7 +10331,7 @@ Donald: Yippee...
 
 Sora: Donald! Goofy! C'mon.
 
-Donald & Goofy: Wait for us!
+Donald &amp; Goofy: Wait for us!
 
 (They catch up and continue through the Snowfield. As they get nearer to 
 Arendelle, they hear a voice up ahead)
@@ -10470,7 +10486,7 @@ Sora opens his eyes and they find themselves in a wide landscape with a
 giant glowing orb of darkness in the center. Particles dance around it 
 and it changes form, growing long tail. Claws surface, stomping the 
 ground, and two glowing red eyes appear as a giant wolf's head emerges 
-bearing the symbol of the Heartless. The Sköll howls, leaping into the 
+bearing the symbol of the Heartless. The SkÃ¶ll howls, leaping into the 
 air and hovering)
 
 Goofy: Do ya really think this will help Anna?
@@ -10481,7 +10497,7 @@ Sora: I don't know...but we'd better try something!
 
 Donald: Let's get it.
 
-(The Sköll begins by tackling them head on and running around the field. 
+(The SkÃ¶ll begins by tackling them head on and running around the field. 
 Sora strikes, but it knocks him back with a giant claw. With a wailing 
 howl, it sails high into the clouds spinning itself into a giant ball of 
 darkness. It grows larger and larger, getting spherical, undulating 
@@ -10503,7 +10519,7 @@ that's only purpose is to crush them. Suddenly, the dark breaks beneath
 his fingers, giving way to light as cracks form on the orb's surface. The 
 orange tendrils snake their way through the giant dark sphere, light 
 shining outward from every crevice. The orb shatters into ice and the 
-Sköll falls to the ground. After a few more minutes of fighting, the Sköll 
+SkÃ¶ll falls to the ground. After a few more minutes of fighting, the SkÃ¶ll 
 leaps into the air for a second chance, creating another black sun, however 
 this last-ditch effort cannot sustain the fusion and it explodes brightly, 
 expelling its energy in a giant blast. Marshmallow steps in front of Sora, 
@@ -10658,7 +10674,7 @@ still have to find her first.
 
 Sora: I'll go.
 
-Donald & Goofy: What?!
+Donald &amp; Goofy: What?!
 
 Mickey: Is that wise?
 
@@ -10715,7 +10731,7 @@ while Mickey and Riku will focus on the search for Aqua.
 
 (They stand at attention)
 
-Sora, Donald, Goofy, Riku & Mickey: Yes, sir!
+Sora, Donald, Goofy, Riku &amp; Mickey: Yes, sir!
 
 (In the Badlands on the outskirts of the Keyblade Graveyard, Marluxia and 
 Larxene stand atop thirteen pillars of earth)
@@ -10763,7 +10779,7 @@ Demyx: 'Course not. I got benched.
 
 Larxene: Huh?
 
-Marluxia: Saïx brought Vexen on board. They must be planning to use replicas.
+Marluxia: SaÃ¯x brought Vexen on board. They must be planning to use replicas.
 
 Larxene: Those windup toys?
 
@@ -10806,7 +10822,7 @@ apprentices to Ansem the Wise, and the seventh and eighth members joined
 thereafter. The thirteenth member was Roxas, a Keyblade wielder. So. What 
 about you? How do you suppose I chose numbers nine through twelve?
 
-Larxene: Because our hearts are über powerful.
+Larxene: Because our hearts are Ã¼ber powerful.
 
 Xemnas: Wrong. You have been brought together for another purpose.
 
@@ -10921,7 +10937,7 @@ Sora: Aye! We're runnin' outta sea.
 
 (He chuckles, then glancing at Donald, realizes what Goofy said)
 
-Sora & Donald: Running OUT?!
+Sora &amp; Donald: Running OUT?!
 
 (Up ahead, the ocean water rushes forward and down into an abyss, dragging 
 the raft with the current. The raft rocks, knocking Goofy over while Sora 
@@ -10933,8 +10949,7 @@ Sora: Hard to starboard!
 
 Goofy: But there's no time, Captain!
 
-(The raft reaches the edge and careens over the waterfall, sending Sora, 
-Donald and Goofy screaming over the world's end. In the midst of Davy 
+(The raft reaches the edge and careens over the waterfall, sending Sora, </pre><pre id="faqspan-7">Donald and Goofy screaming over the world's end. In the midst of Davy 
 Jones' Locker, the trio awake and sit up, surrounded on all sides by 
 endless dry sand. The three sigh together)
 
@@ -10965,7 +10980,7 @@ Goofy: Oh boy!
 (Strangely enough, the ship comes clearer into view, drifting through the 
 sand as if by magic)
 
-Sora, Donald & Goofy: It IS a ship!
+Sora, Donald &amp; Goofy: It IS a ship!
 
 (They run to catch up to the forward vessel, being pulled by an incalculable 
 amount of odd white crabs. From behind, a familiar man gains on them and 
@@ -11397,7 +11412,7 @@ Sora: We can!
 
 (Sora runs forward before they can stop him)
 
-Donald & Goofy: Sora!
+Donald &amp; Goofy: Sora!
 
 (He jumps off the ship's deck and onto a blue smoke trail, riding it up 
 into the sky)
@@ -11433,7 +11448,7 @@ Goofy: Sora?
 
 (He opens his eyes, seeing the faces of Donald and Goofy staring down at him)
 
-Donald & Goofy: Sora!
+Donald &amp; Goofy: Sora!
 
 (He lies on a sandy beach with the sound of the waves in his ears)
 
@@ -11453,7 +11468,7 @@ Jack: That eager to sail under Captain Jack Sparrow?
 
 (They turn to see Jack approach from behind)
 
-Sora, Donald & Goofy: Jack!
+Sora, Donald &amp; Goofy: Jack!
 
 (A white crab falls out from behind his leg and scuttles away. Meanwhile, 
 aboard another ship, the Endeavour, the real Jack Sparrow has been pulled 
@@ -11954,7 +11969,7 @@ Sora: But a fight for pirates...
 
 (He gets Donald and Goofy to join him)
 
-Sora, Donald & Goofy: ...is a fight for us!
+Sora, Donald &amp; Goofy: ...is a fight for us!
 
 (The three of them punch the sky)
 
@@ -12577,12 +12592,12 @@ Kairi: Our training's almost finished.
 
 Axel: Yeah...
 
-Kairi: Somewhere inside me is Naminé. If we can free Roxas, we can free her 
+Kairi: Somewhere inside me is NaminÃ©. If we can free Roxas, we can free her 
 too.
 
 Axel: I guess so.
 
-Kairi: Naminé was made when Sora freed me from his heart. So, now that she's 
+Kairi: NaminÃ© was made when Sora freed me from his heart. So, now that she's 
 a part of me again, I figured all was right. But she can't look at this 
 forest, feel the wind on her face, none of it. And if she could, it would be 
 different for her. Her time was short, but she lived it, and that makes it 
@@ -12657,11 +12672,11 @@ research... So make things right.
 Ansem the Wise: I told you I did not take her. Her disappearance was why I 
 put a stop to the research.
 
-Ansem: And that makes you honorable? You used Roxas and Naminé and threw 
+Ansem: And that makes you honorable? You used Roxas and NaminÃ© and threw 
 them away. I doubt there's a merciful bone in your body. You took the girl, 
 and hid her. Now, show me the data you are hiding here.
 
-Ansem the Wise: Roxas and Naminé... If there is any reason that I still 
+Ansem the Wise: Roxas and NaminÃ©... If there is any reason that I still 
 draw breath, it is to atone for what I did to them.
 
 (Olette and Pence gasp)
@@ -12678,7 +12693,7 @@ Pence: Yeah.
 
 Ansem the Wise: If you do find the girl, what is it that you expect will 
 happen?
-Ansem: The child's memory holds a mystery to unravel--one concerning the 
+</pre><pre id="faqspan-8">Ansem: The child's memory holds a mystery to unravel--one concerning the 
 battle we seek between light and darkness. You know something and that...
 is why you stopped the experiments.
 
@@ -13176,7 +13191,7 @@ Hiro: Okay, guys. Go through the rings and head for the goal.
 
 (A tunnel of colored rings appear in Sora's vision through the AR device)
 
-Sora & Company: Okay!
+Sora &amp; Company: Okay!
 
 Hiro: I'll be here to help you out remotely.
 
@@ -13315,7 +13330,7 @@ attacked by--
 
 (Hiro closes the broadcast and turns to Sora, who nods)
 
-Sora & Hiro: Go time.
+Sora &amp; Hiro: Go time.
 
 (The rest of the group agree. They make it to the South District, where 
 people are fleeing the chaos. Sora turns down an alley, finding a large 
@@ -13726,7 +13741,7 @@ Hiro: You protect the others.
 
 Hiro: I'll mark their position for you on your AR display.
 
-Sora, Donald & Goofy: We got it!
+Sora, Donald &amp; Goofy: We got it!
 
 (They summon their weapons)
 
@@ -14048,7 +14063,7 @@ hearts in.
 
 Sora: Vessels?
 
-Donald & Goofy: Replicas!
+Donald &amp; Goofy: Replicas!
 
 Dark Riku: That's right. The Replica Program was a success. We are as real 
 as people.
@@ -14237,7 +14252,7 @@ Sora: A heart's more than that!
 
 Wasabi: It's working together.
 
-Donald & Goofy: Smiling at something funny.
+Donald &amp; Goofy: Smiling at something funny.
 
 Hiro: Trusting friends.
 
@@ -14337,7 +14352,7 @@ swipes them away. Sora, Donald and Goofy hold Dark Baymax back from Hiro,
 when Baymax 2.0 punches him away. Dark Baymax sails through the air and 
 over the edge of the building. The others run back to Hiro)
 
-Go Go, Wasabi, Honey Lemon & Fred: Hiro...
+Go Go, Wasabi, Honey Lemon &amp; Fred: Hiro...
 
 (Dark Baymax rises back to the roof, his Darkube arm becoming more of a 
 claw. Donald and Goofy run forward)
@@ -14396,7 +14411,7 @@ barrage of magical bolts as Baymax pummels Dark Baymax)
 
 Baymax: Knife Hand. Roundhouse. Hammer Fist.
 
-(Sora leaps off of Baymax from above his dark doppelgänger and as Baymax 
+(Sora leaps off of Baymax from above his dark doppelgÃ¤nger and as Baymax 
 persues Dark Baymax from behind, Sora drops in above him, knocking him 
 away. Baymax swoops by and Sora grabs his extended hand, leaping onto his 
 back again and dispelling his Keyblade. Baymax jolts, being pulled backwards 
@@ -14460,7 +14475,7 @@ Hiro: Ow?
 Baymax: Hello, I am Baymax, your personal healthcare companion.
 
 (They rejoice as Baymax is restored and Hiro rushes to hug him)
-Fred: Two Baymaxes!
+</pre><pre id="faqspan-9">Fred: Two Baymaxes!
 
 (Baymax 2.0 hugs Hiro as well as Goofy and Donald laugh, everyone chattering 
 excitedly)
@@ -14551,7 +14566,7 @@ Sora: Huh?
 Chip: We totally lost contact with the King and Riku! They're all on their 
 own in the realm of darkness!
 
-Sora, Donald, Goofy & Jiminy: Whaaat?!
+Sora, Donald, Goofy &amp; Jiminy: Whaaat?!
 
 Sora: See? I knew I shoulda gone!
 
@@ -14572,7 +14587,7 @@ Sora: 'Cause you wouldn't LET me ask.
 
 Dale: Only King Mickey can open a door to the realm of darkness.
 
-Sora, Donald & Goofy: Huh?
+Sora, Donald &amp; Goofy: Huh?
 
 (Chip pushes Dale away and Jiminy hops down)
 
@@ -14590,7 +14605,7 @@ Sora: May my heart be our guiding key. It'll show us the way.
 (Sora stands and summons the Keyblade, aiming it ahead of him. The tip 
 glows and a portal opens outside the ship)
 
-Jiminy, Donald & Goofy: A gate!
+Jiminy, Donald &amp; Goofy: A gate!
 
 (Sora puts away the Keyblade)
 
@@ -14637,7 +14652,7 @@ Donald: Let's go.
 
 Sora: Not you guys.
 
-Donald & Goofy: Huh?
+Donald &amp; Goofy: Huh?
 
 (Sora takes a few steps forward)
 
@@ -14809,7 +14824,7 @@ Anti-Aqua: I've waited for so long...
 Anti-Aqua: Now you can share in the terror I've felt!
 
 (Sora sends multiple projectile attacks until they hit their mark, exposing 
-the true Anti-Aqua as the doppelgängers disappear. As Anti-Aqua reels back 
+the true Anti-Aqua as the doppelgÃ¤ngers disappear. As Anti-Aqua reels back 
 from the onslaught, Sora goes in for the final blow. She takes a few steps 
 back, holding her head as darkness pools at her feet. With labored breaths, 
 she stumbles backwards, releasing her hold on the Star Cluster Keyblade. It 
@@ -14878,7 +14893,7 @@ Sora: You're home.
 
 (His smile is infectious)
 
-Donald & Goofy: You're home!
+Donald &amp; Goofy: You're home!
 
 (Donald rushes forward to hug her, along with Mickey. Goofy joins in)
 
@@ -15156,7 +15171,7 @@ shine.
 backwards as it expands. Sora places a hand while Goofy bangs his fist on 
 the barrier)
 
-Sora, Donald & Goofy: Aqua!
+Sora, Donald &amp; Goofy: Aqua!
 
 (Vanitas readies to fight. Demonstrating years of honing her craft, Aqua 
 fights circles around Vanitas. All of the darkness he can muster fails to 
@@ -15372,7 +15387,7 @@ Jiminy (proudly): Mm-hmm.
 
 Mickey: Welp, we've got our seven guardians.
 
-Sora: Yeah. But...I do wish that Roxas, and Naminé, and Terra could be here 
+Sora: Yeah. But...I do wish that Roxas, and NaminÃ©, and Terra could be here 
 with us too.
 
 Riku: Since when do you mope, Sora? Come on. Terra's gotta be with the 
@@ -15385,7 +15400,7 @@ needs me.
 
 Axel: And I'll figure Roxas out. Don't know how, but...I'll get him back.
 
-Kairi: Naminé is right here, safe with me.
+Kairi: NaminÃ© is right here, safe with me.
 
 (She places a hand over her heart)
 
@@ -15483,39 +15498,39 @@ Axel: Well, Roxas... I shoulda been there for you by now, but here we are.
 
 ????: Shouldn't you say good-bye to your REAL home?
 
-(He looks up, stunned, as Saïx enters from around the corner)
+(He looks up, stunned, as SaÃ¯x enters from around the corner)
 
 Axel: Why...
 
 (He sits next to Axel on the ledge)
 
-Saïx: I'm not here to fight. Relax.
+SaÃ¯x: I'm not here to fight. Relax.
 
-(Saïx takes one of the ice cream bars)
+(SaÃ¯x takes one of the ice cream bars)
 
 Axel: Hey!
 
-Saïx: You can't eat all this. Why did you buy three of them? One for Roxas...
+SaÃ¯x: You can't eat all this. Why did you buy three of them? One for Roxas...
 
 (Axel looks at them)
 
-Saïx: ...and two for good luck?
+SaÃ¯x: ...and two for good luck?
 
 Axel (grumpy): I dunno. Because I felt like it, okay? Why are you here?
 
-(Saïx begins to eat his ice cream)
+(SaÃ¯x begins to eat his ice cream)
 
-Saïx: Got it memorized? Back when we were still friends, we used to sneak 
+SaÃ¯x: Got it memorized? Back when we were still friends, we used to sneak 
 into the castle. 
 
 Axel: Yeah...
 
-Saïx: And we made a friend there, a girl. We apprenticed to Ansem the Wise 
+SaÃ¯x: And we made a friend there, a girl. We apprenticed to Ansem the Wise 
 to rescue her.
 
 Axel: Yeah, and we failed. One day she was just gone!
 
-Saïx: You gave up.
+SaÃ¯x: You gave up.
 
 (These words sting Axel)
 
@@ -15523,23 +15538,23 @@ Axel: I did not give up. One day we're apprentices, the next Ansem the Wise
 has up and vanished, the day after we're Nobodies, day after that we're 
 doing icky jobs for Xemnas. I couldn't keep up with you.
 
-Saïx: Following Xehanort's Nobody was the only way to discover what 
+SaÃ¯x: Following Xehanort's Nobody was the only way to discover what 
 happened to her. She was his lab rat.
 
 Axel: So? You found her? I helped you rise up the ranks, so I hope it paid 
 off.
 
-Saïx: I'm afraid not. Nary a trace. I started to wonder if we'd imagined 
+SaÃ¯x: I'm afraid not. Nary a trace. I started to wonder if we'd imagined 
 her. Maybe she never existed. And then, in time, I awakened to a new 
 purpose. I realized I could be stronger.
 
 Axel: Well, then, you blew it! Wise up already and just quit.
 
-Saïx: Face it. Roxas is just like our other friend.
+SaÃ¯x: Face it. Roxas is just like our other friend.
 
 (Axel's eyes widen)
 
-Saïx: Gone forever. You need to accept that.
+SaÃ¯x: Gone forever. You need to accept that.
 
 Axel: You wish. I'm getting her back. All of 'em!
 
@@ -15547,21 +15562,21 @@ Axel: You wish. I'm getting her back. All of 'em!
 
 Axel: Especially Roxas! I'm even dragging YOU home.
 
-(Saïx finishes his ice cream)
+(SaÃ¯x finishes his ice cream)
 
-Saïx: The marks under your eyes. They're gone.
+SaÃ¯x: The marks under your eyes. They're gone.
 
 Axel: Yeah. Don't need 'em.
 
-(Saïx stands up slowly)
+(SaÃ¯x stands up slowly)
 
-Saïx: Always told you they'd stop you from crying. The upside down tears.
+SaÃ¯x: Always told you they'd stop you from crying. The upside down tears.
 
 Axel: Would you get lost? I'll clobber you tomorrow.
 
-(Saïx smirks)
+(SaÃ¯x smirks)
 
-Saïx: I expect no less.
+SaÃ¯x: I expect no less.
 
 (He disappears in a corridor of darkness and Axel's face softens in the 
 light of the eternal sunset. On the Destiny Islands, Riku sits on the 
@@ -16111,7 +16126,7 @@ expressly commanded that none of the remaining staff take up my work. What
 can that mean, save that he saw me not as one among many, but as an 
 individual? That he feels my absence. Grieves for me. I am awash with 
 gratitude at the thought of it. I must do all that I can to reciprocate...
-Star 11: Oh, good. If you're speaking to me, I suppose I must exist. I feel 
+</pre><pre id="faqspan-10">Star 11: Oh, good. If you're speaking to me, I suppose I must exist. I feel 
 a consciousness, or memories, perhaps. Feelings. They pass through my mind 
 one after the next, but none of it feels real. And that was fine. I'd 
 resigned myself to simple forget. To let it all slip away. But there was 
@@ -16129,75 +16144,75 @@ Star 13: Sora?
 
 Sora: Yes?
 
-Star 13: It's me, Naminé.
+Star 13: It's me, NaminÃ©.
 
-Sora: Naminé?
+Sora: NaminÃ©?
 
-Naminé: I'm so glad that you managed to hold on to who you are.
+NaminÃ©: I'm so glad that you managed to hold on to who you are.
 
 Sora: Why are you here?
 
-Naminé: I was in Kairi's heart, but then we were struck by a powerful 
+NaminÃ©: I was in Kairi's heart, but then we were struck by a powerful 
 darkness...and I woke up here.
 
 Sora: And Kairi?
 
-Naminé: I can feel her heart. She's fighting with all her strength to keep 
+NaminÃ©: I can feel her heart. She's fighting with all her strength to keep 
 you from fading away.
 
 Sora: So, the reason I retained my form in this place...
 
-Naminé: It's because she's holding you together. Go to her.
+NaminÃ©: It's because she's holding you together. Go to her.
 
 Sora: I'm trying. But, what about you? I can't just leave you stuck here.
 
-Naminé: It's okay. Really. Kairi is where I came from. So, once she's safe 
+NaminÃ©: It's okay. Really. Kairi is where I came from. So, once she's safe 
 again, Kairi is where I'll return.
 
-Sora: Naminé, I know that I'm supposed to thank you. The datascape doesn't 
+Sora: NaminÃ©, I know that I'm supposed to thank you. The datascape doesn't 
 count. I need to say the words myself. But...not like this. You and Roxas 
 can't tell me you're okay with this. I know how much you're hurting. I...
 felt that pain through Roxas.
 
-Naminé: He's the one they all miss. It's...not me.
+NaminÃ©: He's the one they all miss. It's...not me.
 
 Sora: Wrong. What about me, Kairi, Donald, Goofy? The King! Roxas too, he 
 misses you! And someone else special I know won't let you down.
 
-(Even without a form, Naminé smiles)
+(Even without a form, NaminÃ© smiles)
 
-Naminé: Sora. Thank you.
+NaminÃ©: Sora. Thank you.
 
 Sora: Well, then I'm gonna go save Kairi so at least you'll be free of this 
 place. Okay?
 
 (He turns)
 
-Naminé: Oh, wait!
+NaminÃ©: Oh, wait!
 
 Sora: Huh?
 
-Naminé: While sifting through memories, I spoke to Terra, the Keyblade 
+NaminÃ©: While sifting through memories, I spoke to Terra, the Keyblade 
 Wielder you've been looking for. He has a strong will, and it keeps him 
 tethered to the realm of light. I'll try tracing that connection. Maybe 
 that'll be enough to tip the scales in the other direction.
 
 Sora: Huh?
 
-Naminé: Umm... Let's just say I've got your back?
+NaminÃ©: Umm... Let's just say I've got your back?
 
-Sora: That part of you--it reminds me of Kairi. Thanks, Naminé. (realizing) 
+Sora: That part of you--it reminds me of Kairi. Thanks, NaminÃ©. (realizing) 
 Oh! That's not the official thank-you!
 
 (She gives a small laugh)
 
-Naminé: Uh-huh.
+NaminÃ©: Uh-huh.
 
 Sora: Well, see ya!
 
 (He leaves)
 
-Naminé: Be careful.
+NaminÃ©: Be careful.
 
 (Sora enters the portal, ending up on a labyrinth of crystalline stone. As 
 his foot touches a cube in the ground, the ground shakes and he almost 
@@ -16757,7 +16772,7 @@ Sora: I'll stop it!
 
 (He rushes forward)
 
-Donald & Goofy: Sora!
+Donald &amp; Goofy: Sora!
 
 (A Demon Tide bursts from the cyclone toward him, but he knocks the core 
 away with his Keyblade and continues his assault. He leaps into the air just 
@@ -16955,7 +16970,7 @@ of Heartless. They shield their eyes from the massive burst of light and
 wind, eliminating a large number of Heartless surrounding them. Through the 
 dying of the light, they make out a tall figure dressed in blue)
 
-Sora, Donald, Goofy & Mickey: Master Yen Sid!
+Sora, Donald, Goofy &amp; Mickey: Master Yen Sid!
 
 (The sorcerer facing the Heartless opens his eyes with a glare. Magic erupts 
 from his fingertips and he closes his hands together. Raising them high, he 
@@ -17030,7 +17045,7 @@ Sora: Here we go.
 
 (They nod and run ahead as Master Xehanort smiles to himself, light and 
 darkness clashing at last. Sora crosses the Trail of Valediction and finds 
-Riku fighting Xigbar, Dark Riku, and Ansem. Riku and his dark doppelgänger 
+Riku fighting Xigbar, Dark Riku, and Ansem. Riku and his dark doppelgÃ¤nger 
 clash blades while Ansem watches them. They struggle for a moment, metal 
 against metal, before Riku pushes him back and knocks the Soul Eater away. 
 He spins in attempt to strike Dark Riku, but he dodges backwards. Xigbar 
@@ -17150,9 +17165,9 @@ Riku Replica: No.
 Riku Replica: The world already has you. There's someone else who needs the 
 replica more. You know who I mean.
 
-Riku: Naminé. You're saving her.
+Riku: NaminÃ©. You're saving her.
 
-(The Riku Replica remembers his promise with Naminé and smiles)
+(The Riku Replica remembers his promise with NaminÃ© and smiles)
 
 Riku Replica: Good luck.
 
@@ -17195,7 +17210,7 @@ his hand helplessly as Xigbar falls back off the ledge. They stand there
 stunned and the arrowguns fade away. The last of darkness that covered the 
 field gradually ebbs away as Riku shows Sora the empty replica)
 
-Sora: Is that a replica, for Naminé?
+Sora: Is that a replica, for NaminÃ©?
 
 (Riku nods)
 
@@ -17476,7 +17491,7 @@ Sora: Aqua! Ven!
 
 (They turn to see Sora enter)
 
-Aqua & Ven: Sora.
+Aqua &amp; Ven: Sora.
 
 (He nods to each of them in turn and the battle begins)
 
@@ -17601,15 +17616,14 @@ the ground, creating a pool of darkness as Sora gets back to his feet. Out
 of the ground emerge purple spikes before the Dark Figure shoots back up, 
 knocking Ventus off kilter. Individually, they attempt to distract Xehanort 
 while another moves in for a strike. From his Keyblade, he emits dark 
-projectiles which grow in number, but are sent back toward him with a 
-powerful Reflega spell)
+projectiles which grow in number, but are sent back toward him with a </pre><pre id="faqspan-11">powerful Reflega spell)
 
 Terra-Xehanort: What...? How?
 
 (Xehanort's darkness is wrenched away from him, and he falls to the ground. 
 Aqua and Ventus dispel their Keyblades, as does Sora)
 
-Aqua & Ven: Terra!
+Aqua &amp; Ven: Terra!
 
 (They run past Sora and kneel over him, pulling him up to a kneeled position)
 
@@ -17754,10 +17768,10 @@ Aqua: Sora, go. We'll catch up with you.
 Sora: Right. I got this.
 
 (Sora continues through the labyrinth. Meanwhile, Kairi and Axel are 
-fighting Saïx and a smaller figure who remains hooded. They swing at Kairi, 
+fighting SaÃ¯x and a smaller figure who remains hooded. They swing at Kairi, 
 their Keyblades clashing. Kairi dodges backwards, but the figure pursues 
 her, knocking her away. The figure continues the pursuit when Axel rushes 
-them, blocking with his Keyblade. He knocks them away, when Saïx rushes 
+them, blocking with his Keyblade. He knocks them away, when SaÃ¯x rushes 
 him, their weapons clashing against each other. A blue burst of energy 
 beneath their standoff forces Axel to leap away)
 
@@ -17775,24 +17789,24 @@ Axel: Nice to see ya.
 
 (They face down their foes)
 
-Saïx: The moon shines down!
+SaÃ¯x: The moon shines down!
 
-(Saïx raises his Claymore, glowing a bright blue, entering a berserk state. 
+(SaÃ¯x raises his Claymore, glowing a bright blue, entering a berserk state. 
 He hovers in the air and slams his weapon against the ground, creating a 
 wave of blue energy. The hooded figure, now also wielding a Claymore, 
 follows his lead, almost copying his movements exactly. Kairi, following 
-their movements, goes after the smaller one, while Axel strikes Saïx with 
-his Keyblade. Sora takes over, knocking Saïx back, as Axel transforms his 
-Keyblade into his red and white chakrams and flings them at Saïx. The hooded 
+their movements, goes after the smaller one, while Axel strikes SaÃ¯x with 
+his Keyblade. Sora takes over, knocking SaÃ¯x back, as Axel transforms his 
+Keyblade into his red and white chakrams and flings them at SaÃ¯x. The hooded 
 enemy teleports away from Kairi and pummels Sora with a Keyblade, flinging 
 him into the air. Switching at the apex, they slam him back down to the 
 ground with their Claymore)
 
-Saïx: I call on the moon's pale light.
+SaÃ¯x: I call on the moon's pale light.
 
 Axel: STOP IT! JUST STOP!
 
-(Axel strikes at Saïx, but he is fixed in a trance. Saïx rises into the air, 
+(Axel strikes at SaÃ¯x, but he is fixed in a trance. SaÃ¯x rises into the air, 
 glowing with blue energy. His Claymore floating behind him, he flings his 
 arms wide. Grabbing the Claymore, he swings it down toward Sora and Kairi, 
 tossing them to the ground. The blue aura pulsing through him, he runs at 
@@ -17800,9 +17814,9 @@ the two on the ground)
 
 Axel: Stop it! Isa!
 
-(Axel jumps between them, seeing the great X-shaped scar on Saïx's face wide 
+(Axel jumps between them, seeing the great X-shaped scar on SaÃ¯x's face wide 
 open, his eyes glowing yellow and void of emotion. Axel raises his blade as 
-Saïx strikes it, knocking him back a foot. Axel falls to his knees and Saïx 
+SaÃ¯x strikes it, knocking him back a foot. Axel falls to his knees and SaÃ¯x 
 raises his Claymore high over him. Axel scowls at the face of his former 
 friend as Xemnas suddenly appears behind him. Axel glares at his former 
 leader, who walks towards him)
@@ -17832,7 +17846,7 @@ and energy bolts crackle around Xemnas's clenched fist. He lashes his arms
 out wide, leaving a trail of energy. Thorns surround the battlefield and 
 they are surrounded by a million points of light. Out of the circular 
 darkness, the ethereal blades strike Axel one at a time. He grunts through 
-the pain, unable to move, as Saïx, still in his berserk state, watches from 
+the pain, unable to move, as SaÃ¯x, still in his berserk state, watches from 
 behind Xemnas. Axel falls to his knees again as Xemnas conjures a single 
 ethereal blade from the palm of his right hand and walks toward him)
 
@@ -17982,7 +17996,7 @@ in her hand)
 Xemnas: Just as we have more darknesses to replenish our ranks.
 
 (Sora runs toward Xemnas, but he disappears into a corridor of darkness and 
-Saïx takes his place. Roxas runs up to Sora and they nod at each other. Axel 
+SaÃ¯x takes his place. Roxas runs up to Sora and they nod at each other. Axel 
 stands, holding his arm and wincing. Xion holds an arm up in front of him)
 
 Xion: Rest, Axel. Roxas will fight in your place. And I'll fight for Kairi.
@@ -17991,72 +18005,72 @@ Axel: Yeah... When it comes to Keyblades, you're the old hands.
 
 (She nods at him, smiling, and joins Roxas and Sora)
 
-Saïx: No escape!
+SaÃ¯x: No escape!
 
-(Saïx surrounds himself with several Claymores and slams them into the 
+(SaÃ¯x surrounds himself with several Claymores and slams them into the 
 ground, creating blue shockwaves, that knock the three of them away from him)
 
 Roxas: Take this!
 
 (Roxas raises his Keyblades in front of him, forming a spiral and launching 
-a beam of light toward Saïx. He falls to the ground, knocked from his 
+a beam of light toward SaÃ¯x. He falls to the ground, knocked from his 
 berserk state)
 
-Saïx: Abandon hope.
+SaÃ¯x: Abandon hope.
 
-(Roxas and Xion exchange blows against him as Sora rushes forward. Saïx 
+(Roxas and Xion exchange blows against him as Sora rushes forward. SaÃ¯x 
 lurches into the air, impervious to the pillars of light generated by Xion, 
 and releases a shockwave through the air, sending Sora flying. Roxas lunges 
-at Saïx with his dual Keyblades just as Saïx tosses a Claymore in Sora's 
+at SaÃ¯x with his dual Keyblades just as SaÃ¯x tosses a Claymore in Sora's 
 direction. Rolling out of harm's way, Sora raises the Keyblade, sending a 
-bolt of lightning, which strikes Saïx down)
+bolt of lightning, which strikes SaÃ¯x down)
 
-Saïx: We still haven't achieved our goal...
+SaÃ¯x: We still haven't achieved our goal...
 
 (The darkness of Xehanort flees into the sky as shadows flee from moonlight. 
-Saïx plants his glowing Claymore into the ground, struggling to stand. The 
+SaÃ¯x plants his glowing Claymore into the ground, struggling to stand. The 
 Claymore bursts into light blue flames which quickly extinguish, sending 
 him to the rocky floor. He breathes heavily as Axel runs to him, intense 
 concern on his face)
 
-Saïx: Why...so sad?
+SaÃ¯x: Why...so sad?
 
 (Axel forces himself not to cry)
 
 Axel: You let them reduce you to THIS?
 
-Saïx: I thought...you outgrew the marks under your eyes.
+SaÃ¯x: I thought...you outgrew the marks under your eyes.
 
 (Axel touches his face, surprised at the comment)
 
 Axel: So?
 
-Saïx: You look...like you need them...
+SaÃ¯x: You look...like you need them...
 
 Axel: Stop it. The whole act. I thought this was all for her.
 
-Saïx: At first. I sacrificed everything to try and track her down. You're 
+SaÃ¯x: At first. I sacrificed everything to try and track her down. You're 
 the one who went off and made other friends. Left her and me both in the 
 dust. It infuriated me how you just exited our lives.
 
 (He grunts, clutching his side, his blue hair hanging in his face. Axel 
 runs to him)
 
-Saïx: I lost...all sense of purpose...
+SaÃ¯x: I lost...all sense of purpose...
 
 (Axel kneels beside him)
 
 Axel: I didn't forget you.
 
-Saïx: Yes...I know. You wouldn't do that.
+SaÃ¯x: Yes...I know. You wouldn't do that.
 
 (He looks over at Roxas and Xion, sadness on their faces)
 
-Saïx: But... I was jealous.
+SaÃ¯x: But... I was jealous.
 
 Axel: You admit it.
 
-Saïx: Well, if I make it back...you won't get it out of me a second time.
+SaÃ¯x: Well, if I make it back...you won't get it out of me a second time.
 
 (He tries to stand, but falls and Axel catches him. He begins to fade in 
 Axel's arms)
@@ -18542,7 +18556,7 @@ Donald: Admire it another time.
 
 Sora: Right. We need to find Master Xehanort.
 
-Donald & Goofy: Yeah!
+Donald &amp; Goofy: Yeah!
 
 Goofy: Xehanort has to be somewhere in town.
 
@@ -18957,7 +18971,7 @@ coalesces into the form of a tall serious-looking man in a white robe,
 Master Eraqus. Ventus and Aqua gasp at the sight of their former master. 
 He glows with a rich aura as Terra and Eraqus speak as one)
 
-Terra & Eraqus: Now, hand over the Chi-blade, Xehanort.
+Terra &amp; Eraqus: Now, hand over the Chi-blade, Xehanort.
 
 Master Xehanort (frustrated): It is too late.
 
@@ -19027,7 +19041,7 @@ Master Eraqus: Terra, Aqua, Ven. Forgive your foolish teacher.
 
 (The three start crying and rush over to him)
 
-Ventus & Aqua: Master!
+Ventus &amp; Aqua: Master!
 
 (Aqua and Ven embrace him as Terra approaches)
 
@@ -19069,8 +19083,7 @@ Mickey: Sora, let's close it.
 
 Sora: Everybody, help me out.
 
-(They nod and approach Sora, creating an arc around him. Sora holds the 
-Chi-blade with both hands and raises it skyward. He and his friends glow 
+(They nod and approach Sora, creating an arc around him. Sora holds the </pre><pre id="faqspan-12">Chi-blade with both hands and raises it skyward. He and his friends glow 
 with a yellow shine as blue and gold wisps of energy focus themselves into 
 the blade. A radiant orb of light erupts from the Chi-blade, sending a 
 beam towards Kingdom Hearts. As the beam strikes, a brilliant light flows 
@@ -19155,8 +19168,8 @@ take a bite but notices the arrival of Hayner, Pence and Olette, each with
 their own ice cream bar. Axel and Roxas raise theirs in greeting and the 
 trio sits next to Xion. They all begin to eat and a flying shadow passes 
 over them. In Radiant Garden, Even and Ansem the Wise are working on the 
-computer as Ienzo is monitoring a girl in the chair. Naminé's eyes flutter 
-open and Even and Ienzo smile. Later, Naminé is led out of the castle by 
+computer as Ienzo is monitoring a girl in the chair. NaminÃ©'s eyes flutter 
+open and Even and Ienzo smile. Later, NaminÃ© is led out of the castle by 
 Dilan and Aeleus. She squints at the brightness of the sun as the Gummi Ship 
 sails down to the square, blowing wind through her blonde hair and 
 scattering flower petals. Riku steps out to greet her. She smiles and he 
@@ -19164,7 +19177,7 @@ extends his hand. She returns the smile and takes it. The Gummi Ship sails
 back into the sky. Some time later, this much larger group of friends play 
 on the beach of the Destiny Islands. Riku, Roxas and Terra race along the 
 beach as Mickey and Aqua cheer them on. Ventus, Axel and Isa play frisbee 
-while Naminé and Xion look at seashells. Hayner, Pence, and Olette complete 
+while NaminÃ© and Xion look at seashells. Hayner, Pence, and Olette complete 
 their sand sculpture of the King's symbol while Donald proudly unveils his 
 and Goofy's sculpture of...himself. Donald hops in front, mimicking the 
 pose of the sculpture just as the frisbee crashes through it, dumping sand 
@@ -19351,3 +19364,27 @@ fingers, turning them to a heart-shape over the moon)
 "Reconnect."
 
 KINGDOM HEARTS
+
+
+------------------------------------------------------------------------------
+
+
+Please check out my other Kingdom Hearts scripts:
+
+Kingdom Hearts Final Mix - hosted on GameFAQs
+Kingdom Hearts II - hosted on GameFAQs
+Kingdom Hearts II Final Mix - hosted on GameFAQs
+Kingdom Hearts 358/2 Days - hosted on GameFAQs
+Kingdom Hearts Re:coded - hosted on GameFAQs
+Kingdom Hearts: Birth by Sleep - hosted on KH-Recharged.com
+Kingdom Hearts: Birth by Sleep Final Mix - hosted on GameFAQs
+Kingdom Hearts 3D: Dream Drop Distance - hosted on GameFAQs
+Kingdom Hearts Unchained X[chi] - hosted on GameFAQs
+Kingdom Hearts Dark Road - hosted on GameFAQs
+
+
+KINGDOM HEARTS III COPYRIGHT OF SQUARE ENIX AND DISNEY
+
+Any comments or feedback, please email me at dj_firewolf@hotmail.com
+
+------------------------------------------------------------------------------
