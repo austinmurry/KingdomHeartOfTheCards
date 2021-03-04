@@ -1,0 +1,25 @@
+Divide game scripts in sections something like this. 
+
+
+<root>
+   <prologue>
+       <cutscene>
+           <speaker>.....</speaker>
+           <speaker>.....</speaker>
+           ...
+       </cutscene>
+    </prologue>
+    <Agrabah>
+	<cutscene>
+		<speaker party="main">
+			<sora>
+		</speaker>
+		<speaker party="side">
+			<aladdin>
+		</speaker>
+		<speaker party="npc"
+			<the peddler>
+		</speaker>
+	</cutscene>
+    </Agrabah>
+</root>
