@@ -1,1 +1,6 @@
-element test { xsd:double }
+start = xml
+xml =  element xml {sp,cutscene}
+sp = element sp {speaker,text}
+speaker = element speaker {text}
+cutscene = element cutscene {desc,sp,text}
+desc = element desc {text}
