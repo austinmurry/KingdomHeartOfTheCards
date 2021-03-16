@@ -1,6 +1,7 @@
 start = xml
-xml =  element xml {sp,cutscene}
-sp = element sp {speaker,text}
+xml =  element xml {(sp | cutscene)+}
+sp = element sp {speaker,mixed{q*}}
 speaker = element speaker {text}
-cutscene = element cutscene {desc,sp,text}
-desc = element desc {text}
+cutscene = element cutscene {(desc |sp)+}
+desc = element desc {mixed{q*}}
+q = element q {text}
