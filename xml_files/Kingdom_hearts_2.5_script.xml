@@ -1,6 +1,7 @@
+<?xml-model href="KH-Relax_NG/Kingdom_hearts_1.5_script.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-Brought to you by DJ Firewolf, formerly of KH Impulse and KH Excursion.
-Produced and edited in partnership with KH-Recharged.com
+<!--<!-\-Brought to you by DJ Firewolf, formerly of KH Impulse and KH Excursion.
+Produced and edited in partnership with KH-Recharged.com-\->
 
 <sp><speaker>Do NOT claim as your own! However, enjoy!Nov 22, 2006 Update</speaker> Finally added the English secret ending.</sp>
 
@@ -8,19 +9,19 @@ Produced and edited in partnership with KH-Recharged.com
 
 <sp><speaker>Dec 11, 2010 Update</speaker> Added Lingering Sentiment encounter. Fixed translations.</sp>
 
-<sp><speaker>Jun 18, 2014 Update</speaker><speaker> Split KH2 &amp; KH2</speaker>FM separately.</sp>
+<sp><speaker>Jun 18, <!-\-2014 Update</speaker> Split KH2 &amp; KH2FM separately.</sp>-\->
 
-<sp><speaker>Oct 7, 2014 Update</speaker> Completed added Final Mix scenes.------------------------------------------------------------------------------</sp>
+<sp><speaker>Oct 7, 2014 Update</speaker> Completed added Final Mix scenes.-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-</sp>
 
-<cutscene><desc>Water flows behind gold letters which appear on the screen</desc></cutscene>
+<cutscene><desc>Water flows behind gold letters which appear on the screen</desc></cutscene>-->
 
-Buena Vista Games
+<cutscene><desc>Buena Vista Games
 
 Square Enix
 
-Kingdom Hearts II
+Kingdom Hearts II</desc>
 
-<cutscene><desc>The words rush the screen and the camera moves through them. Fade in to Sora
+<desc>The words rush the screen and the camera moves through them. Fade in to Sora
 standing at a crossroads. More words appear on the screen</desc></cutscene>
 
 <sp><speaker>Sora</speaker> A scattered dream that's like a far-off memory. A far-off memory that's
@@ -843,10 +844,10 @@ standing there, but disappears when he turns to look</desc></cutscene>
 <sp><speaker>Roxas</speaker> Huh...?</sp>
 
 <cutscene><desc>The words 'The 3rd Day' appear on the screen. Roxas walks into the Usual Spot
-and sees a letter on the couch</desc></cutscene>
+and sees a letter on the couch
 
 <q>Meet at the station. Today's the day we hit the beach--and don't sweat about
-the munny! -- Hayner</q>
+the munny! -- Hayner</q></desc></cutscene>
 
 <cutscene><desc>Roxas rides to the Market Street: Station Heights and sees Pence and Olette</desc></cutscene>
 
@@ -1155,7 +1156,7 @@ champion, Setzer!?</sp>
 
 <sp><speaker>Crowd</speaker> Setzer! Setzer! Setzer! Setzer! Setzer!</sp>
 
-<sp><speaker>Producer</speaker><speaker> Yes, the crowd is fired up, so you know what comes next</speaker> Let's...</sp>
+<sp><speaker>Producer</speaker> Yes, the crowd is fired up, so you know what comes next Let's...</sp>
 
 <sp><speaker>Crowd</speaker> STRUGGLE!</sp>
 
@@ -1164,10 +1165,10 @@ commentator to begin</desc></cutscene>
 
 <sp><speaker>Announcer</speaker> Hey, now. It's time to introduce today's combatants! The four bad
 boys who struggled their way through the preliminaries! Regular finalist and
-<speaker>head of the Twilight Disciplinary Committee</speaker> Seifer! Completely out of
+head of the Twilight Disciplinary Committee Seifer! Completely out of
 nowhere--who knew he'd make it so far this year? Vivi! An underground favorite
-<speaker>and local attitude problem</speaker> Hayner! It's his first trip to the finals! And
-<speaker>Struggler number 4, who happens to be my absolute favorite customer</speaker> Roxas!</sp>
+and local attitude problem Hayner! It's his first trip to the finals! And
+Struggler number 4, who happens to be my absolute favorite customer Roxas!</sp>
 
 <cutscene><desc>Hayner looks to Roxas, who returns his gaze, but looks away solemnly</desc></cutscene>
 
@@ -1282,7 +1283,7 @@ In a positively blistering comeback!</sp>
 
 <cutscene><desc>Roxas and Vivi stare each other down as the Producer leaves the stage</desc></cutscene>
 
-<sp><speaker>Announcer</speaker><speaker> And now, the match you've been waiting for</speaker> Roxas vs. Vivi!</sp>
+<sp><speaker>Announcer</speaker> And now, the match you've been waiting for Roxas vs. Vivi!</sp>
 
 <cutscene><desc>Roxas battles Vivi. As he goes in for one last strike, something stops him and
 Roxas notices that everything has frozen in time. Vivi suddenly turns into a
@@ -1584,7 +1585,7 @@ holds up a hand to pacify him. He looks to the leader, then looks away.
 The naginata vanishes, and the leader summons a sphere of energy. Electrical
 bolts shoot out from it toward the walls</desc></cutscene>
 
-<sp><speaker>Axel</speaker> So, you'll turn me into a Dusk... <cutscene><desc>He pauses</desc></cutscene> Tch, all right!
+<sp><speaker>Axel</speaker> So, you'll turn me into a Dusk... <desc>He pauses</desc> Tch, all right!
 I'll do it, if that's what you want!</sp>
 
 <cutscene><desc>Roxas is falling through space, when suddenly he wakes up back in his room.
@@ -1977,8 +1978,8 @@ completely whole again... He needs you.</sp>
 <sp><speaker>Naminé</speaker> That's what DiZ called me. But I don't know why I have this power...I
 just do. I'm not even sure there's a right way for me to use it.</sp>
 
-<sp><speaker>Roxas</speaker> Hmm...I can't help you there. <cutscene><desc>looking over at the drawing of himself
-and Axel</desc></cutscene> It's funny... Suddenly I feel like I don't know myself at all... I
+<sp><speaker>Roxas</speaker> Hmm...I can't help you there. <desc>looking over at the drawing of himself
+and Axel</desc> It's funny... Suddenly I feel like I don't know myself at all... I
 guess I would like to know. What do you know about me...that I don't?</sp>
 
 <sp><speaker>Naminé</speaker> You...you were never supposed to exist, Roxas.</sp>
@@ -2257,7 +2258,7 @@ wish to be whole. To that end, they're desperately searching for something.</sp>
 <sp><speaker>Naminé</speaker> Funny?</sp>
 
 <sp><speaker>Roxas</speaker> It's just, I think---I've been running away from the question I really
-<speaker>wanna ask</speaker></sp>
+wanna ask</sp>
 
 <cutscene><desc>Roxas walks to the table and leans against it</desc></cutscene>
 
@@ -2417,7 +2418,7 @@ who can move about the realm of light and destroy Organization XIII.</sp>
 
 <sp><speaker>Roxas</speaker> Why? Who are you?</sp>
 
-<sp><speaker>DiZ</speaker> I am a servant of the world. <cutscene><desc>laughs</desc></cutscene> And if I'm a servant, then you
+<sp><speaker>DiZ</speaker> I am a servant of the world. <desc>laughs</desc> And if I'm a servant, then you
 should consider yourself a tool, at best.</sp>
 
 <sp><speaker>Roxas</speaker> Was that... Was that supposed to be a joke?</sp>
@@ -2974,7 +2975,7 @@ the table</desc></cutscene>
 Study it carefully. Once you have finished, we will speak of the enemies you
 will surely confront.</sp>
 
-<cutscene><desc>Sora reads the book</desc></cutscene>
+<cutscene><desc>Sora reads the book
 
 <q>The Beginning</q> - Each journey gives rise to chance encounters, and each
 encounter brings forth a farewell. When a farewell leads to a journey, the
@@ -2992,7 +2993,7 @@ past, gaze anew at your steps...for there all confusion will end.
 will end? It is different things to different people. Can the reality be that
 which is hidden? The reason is mere existence. Still, memories can be believed.
 Be not afraid. Entrust your body to the soothing waves of your memories. By and
-by, your fleeting rest will be over...and everything will begin.
+by, your fleeting rest will be over...and everything will begin.</desc></cutscene>
 
 <sp><speaker>Sora</speaker> But wait a sec---how come the Heartless are still running around?</sp>
 
@@ -3221,7 +3222,7 @@ invisible ties. As do our hearts.</sp>
 <sp><speaker>Sora</speaker> Got it!</sp>
 
 <sp><speaker>Yen Sid</speaker> But be warned. As you proceed... The Heartless and the Nobodies will
-<speaker>be using their own paths</speaker> Corridors of darkness, to travel from world to world.
+be using their own paths Corridors of darkness, to travel from world to world.
 They may be attempting to link these dark pathways to the gates between the
 worlds.</sp>
 
@@ -3276,7 +3277,7 @@ Sora and company are hailed by Chip and Dale</desc></cutscene>
 
 <sp><speaker>Dale</speaker> Howdy, Sora! How ya doin'?</sp>
 
-<sp><speaker>Chip</speaker><speaker> It's your favorite Gummi engineers here, ready for duty</speaker> Chip...</sp>
+<sp><speaker>Chip</speaker> It's your favorite Gummi engineers here, ready for duty Chip...</sp>
 
 <sp><speaker>Dale</speaker> ...and Dale!</sp>
 
@@ -3597,7 +3598,7 @@ hands...</sp>
 <sp><speaker>??????</speaker> Now, do you think that's polite, shutting me down like that?</sp>
 
 <sp><speaker>Sora</speaker> I said get outta the way!
-<speaker>??????</speaker> As if! You can talk all you want, but that won't change a thing.</sp>
+?????? As if! You can talk all you want, but that won't change a thing.</sp>
 
 <sp><speaker>Donald</speaker> Then we're gonna MAKE you move!</sp>
 
@@ -3679,7 +3680,7 @@ room in various tall chairs</desc></cutscene>
 the Keyblade. He's nothing but a boy.</sp>
 
 <sp><speaker>?????? <desc>chuckling</desc></speaker> Give him a chance. It means he's straight as
-an arrow. <cutscene><desc>pointing ahead</desc></cutscene> He's pure of heart, unlike all of us here.</sp>
+an arrow. <desc>pointing ahead</desc> He's pure of heart, unlike all of us here.</sp>
 
 <sp><speaker>????</speaker> He'd better be, or else he's worthless.</sp>
 
@@ -3706,8 +3707,8 @@ comfortable with that.</sp>
 <sp><speaker>??????</speaker> You act as though you have a conscience... When was
 the last time any one of us felt anything?</sp>
 
-<sp><speaker>??????</speaker> Truer words were never spoken. <cutscene><desc>He makes his card
-vanish into his hand</desc></cutscene> Well, I suppose, the fun will have to wait.</sp>
+<sp><speaker>??????</speaker> Truer words were never spoken. <desc>He makes his card
+vanish into his hand</desc> Well, I suppose, the fun will have to wait.</sp>
 
 <sp><speaker>????</speaker> Do you know what happens to those who lose their true purpose?
 Inevitably, they destroy themselves.</sp>
@@ -3736,7 +3737,7 @@ is your big chance!</sp>
 <cutscene><desc>The shadow of a large dragon surrounded by red smoke on a large rock is
 talking with the soldier</desc></cutscene>
 
-<sp><speaker>Mushu</speaker><speaker> I can see it now</speaker> <q>Fa Mulan whups public enemy number one!</q> You gonna be
+<sp><speaker>Mushu</speaker> I can see it now <q>Fa Mulan whups public enemy number one!</q> You gonna be
 famous! I'm talkin' A-list!</sp>
 
 <sp><speaker>Mulan</speaker> Mushu, I'm not sure... I haven't even joined the army yet. I have to
@@ -4688,7 +4689,7 @@ clock!</sp>
 
 <sp><speaker>Goofy</speaker> A clock?</sp>
 
-Wardrobe You'll find out soon enough.
+<sp><speaker>Wardrobe</speaker> You'll find out soon enough.</sp>
 
 <sp><speaker>Sora</speaker> All right. Let's get going.</sp>
 
@@ -5467,9 +5468,9 @@ sword. Sora, Donald, and Goofy run in</desc></cutscene>
 <cutscene><desc>Auron knocks Hades back</desc></cutscene>
 
 <sp><speaker>Auron</speaker> Fight!
-<cutscene><desc>Auron strikes Hades, who stops the sword with his hand, and throws Auron back.
+<desc>Auron strikes Hades, who stops the sword with his hand, and throws Auron back.
 Hades punches Auron to the ground. He conjures two fireballs aiming at the
-fallen Auron. Sora runs between them and they dissipate</desc></cutscene></sp>
+fallen Auron. Sora runs between them and they dissipate</desc></sp>
 
 <sp><speaker>Sora</speaker> Get up!</sp>
 
@@ -5667,7 +5668,7 @@ in his hand. In the Foyer, Meg feels like she's being watched. Sora, Donald,
 and Goofy walk into the Coliseum Gates</desc></cutscene>
 
 <sp><speaker>Goofy</speaker> Gawrsh, this sure does bring back memories!
- <cutscene><desc>They walk to the Lobby doors and see a tired Hercules walk out</desc></cutscene></sp>
+ <desc>They walk to the Lobby doors and see a tired Hercules walk out</desc></sp>
 
 <sp><speaker>Hercules</speaker> Sora! Donald! Goofy! When'd you get here?</sp>
 
@@ -5719,7 +5720,7 @@ don't you go talk to Phil?</sp>
 
 <sp><speaker>Phil</speaker> Hey champ, how ya feeling? Better rest up for tomorrow's match. Nobody's
 gonna pay to see a worn-out hero...capiche? Remember what I told you. Victory
-<speaker>in the games comes down to two simple words</speaker> Eat, bathe, sleep!</sp>
+in the games comes down to two simple words Eat, bathe, sleep!</sp>
 
 <cutscene><desc>Goofy is counting the words on his fingers. The three look at each other and
 laugh. Phil jumps around, and realizes who's laughing. He runs over to them</desc></cutscene>
@@ -5807,7 +5808,7 @@ description...you know what I'm saying?</sp>
 
 <cutscene><desc>Hades flicks Sora to the ground</desc></cutscene>
 
-<sp><speaker>Hades</speaker><speaker> I came to share a bit of mildly-interesting news</speaker></sp>
+<sp><speaker>Hades</speaker> I came to share a bit of mildly-interesting news</sp>
 
 <cutscene><desc>Hercules sneaks behind Hades for a punch</desc></cutscene>
 
@@ -5834,7 +5835,7 @@ might happen.</sp>
 
 <sp><speaker>Sora</speaker> Yeah, accidents you cause.</sp>
 
-<sp><speaker>Hades</speaker><speaker> Like I said</speaker> details, who needs 'em?</sp>
+<sp><speaker>Hades</speaker> Like I said details, who needs 'em?</sp>
 
 <sp><speaker>Hercules</speaker> You're just a coward.</sp>
 
@@ -6715,7 +6716,7 @@ Why, when I was startin' out...</sp>
 <cutscene><desc>Pete looks down</desc></cutscene>
 
 <sp><speaker>Pete</speaker> Oh...I miss those good ol' days... What I wouldn't give to go back in
-time... <cutscene><desc>sniff</desc></cutscene> What I wouldn't give...</sp>
+time... <desc>sniff</desc> What I wouldn't give...</sp>
 
 <cutscene><desc>A white door appears behind Pete and he turns around</desc></cutscene>
 
@@ -6908,7 +6909,7 @@ steamboat!</sp>
 
 <sp><speaker>Donald</speaker> Yeah! It was you!</sp>
 
-<sp><speaker>Captain Pete <desc>pointing to himself</desc></speaker> Right, me! <cutscene><desc>realizing</desc></cutscene> No! No! It wasn't
+<sp><speaker>Captain Pete <desc>pointing to himself</desc></speaker> Right, me! <desc>realizing</desc> No! No! It wasn't
 me! It's just somebody who looks like me!</sp>
 
 <cutscene><desc>The Captain saunters to the Waterway</desc></cutscene>
@@ -7328,7 +7329,7 @@ play now. It's very easy, come on in! Just take a chance and shake a fin!</sp>
 <cutscene><desc>Donald, Goofy, and Flounder dance inside shells, as the band plays</desc></cutscene>
 
 <sp><speaker>Sebastian</speaker> Drum solo! Here's the sign. Give him the cue!
-<cutscene><desc>Sebastian points with his wand to the octopus on drums</desc></cutscene></sp>
+<desc>Sebastian points with his wand to the octopus on drums</desc></sp>
 
 <sp><speaker>Ariel <desc>singing</desc></speaker> Count him in so he'll know to begin to drum, drum, drum!</sp>
 
@@ -7400,7 +7401,7 @@ Please, come out so I can thank you.</sp>
 
 <cutscene><desc>Sebastian swims up to Ariel</desc></cutscene>
 
-<sp><speaker>Sebastian</speaker> Ariel? <cutscene><desc>to himself</desc></cutscene> Dat girl's acting strange again. Probably been
+<sp><speaker>Sebastian</speaker> Ariel? <desc>to himself</desc> Dat girl's acting strange again. Probably been
 flittin' around on da surface... Ohhh, da Sea King's gonna have my claws for
 dis!</sp>
 
@@ -7608,7 +7609,7 @@ mistake.</sp>
 
 <sp><speaker>Sebastian <desc>singing</desc></speaker> Just look at the world around you, right here on the ocean
 floor.
- <cutscene><desc>Goofy and Donald spin to the music</desc></cutscene></sp>
+ <desc>Goofy and Donald spin to the music</desc></sp>
 
 <sp><speaker>Sebastian <desc>singing</desc></speaker> Such wonderful things surround you. What more is you
 looking for?</sp>
@@ -8137,7 +8138,7 @@ can't be rid of me, not that easily.</sp>
 <cutscene><desc>The points of her tentacles reach the surface, sending water everywhere. Ariel
 and Eric swim away. Ursula raises the trident</desc></cutscene>
 
-<sp><speaker>Ursula <desc>singing</desc></speaker><speaker> And like all who dare defy me, he will learn his lesson well</speaker>
+<sp><speaker>Ursula <desc>singing</desc></speaker> And like all who dare defy me, he will learn his lesson well
 Never toy with a girl like me.</sp>
 
 <cutscene><desc>Sora, Donald, and Goofy come up out of the water</desc></cutscene>
@@ -8157,11 +8158,11 @@ to my side.</sp>
 
 <sp><speaker>Ursula <desc>singing</desc></speaker> Right now! Mommy needs you.</sp>
 
-<cutscene><desc>They swim away, but Sora follows them
+<cutscene><desc>They swim away, but Sora follows them</desc>
 
 <sp><speaker>Ursula <desc>singing</desc></speaker> Crush those stupid fools, make them writhe!</sp>
 
-(Sora, Donald, and Goofy dodge Ursula's tentacles. Sora swims through the eels,
+<desc>(Sora, Donald, and Goofy dodge Ursula's tentacles. Sora swims through the eels,
 and obliterates them with his Keyblade</desc></cutscene>
 
 <sp><speaker>Sora</speaker> All right!</sp>
@@ -8192,9 +8193,9 @@ his Keyblade, but she blocks with the trident</desc></cutscene>
 <sp><speaker>Ursula <desc>singing</desc></speaker> Flotsam and Jetsam! Loyal darlings, strong as the tide.</sp>
 
 <cutscene><desc>She tries to hit Donald and Goofy with her Keyblade, but they dodge, still
-flying for her head. Goofy hits her in the forehead, while Donald gets her chin.
+flying for her head. Goofy hits her in the forehead, while Donald gets her chin.</desc></cutscene>
 
-<sp><speaker>Ursula <desc>singing</desc></speaker> Sweetest poopsies, hasten to my side.</sp>
+<sp><speaker>Ursula <desc>singing</desc></speaker> Sweetest poopsies, hasten to my side.</sp><cutscene><desc>
 
 (Donald and Goofy fall back into the water</desc></cutscene>
 
@@ -8340,7 +8341,7 @@ yours?</sp>
 
 <cutscene><desc>Atina and Andrina swim around Ariel and swim offstage</desc></cutscene>
 
-<sp><speaker>Ariel <desc>singing</desc></speaker><speaker> Come take a bow</speaker> Donald, Goofy, and Sora.</sp>
+<sp><speaker>Ariel <desc>singing</desc></speaker> Come take a bow Donald, Goofy, and Sora.</sp>
 
 <cutscene><desc>Sora, Donald, and Goofy swim in, spinning around</desc></cutscene>
 
@@ -8365,7 +8366,7 @@ loyal friends.</sp>
 
 <cutscene><desc>King Triton swims in on a sleigh, tugged by three dolphins</desc></cutscene>
 
-<sp><speaker>Ariel <desc>singing</desc></speaker><speaker> Please say hello</speaker> Daddy, Sebastian, Flounder.</sp>
+<sp><speaker>Ariel <desc>singing</desc></speaker> Please say hello Daddy, Sebastian, Flounder.</sp>
 
 <sp><speaker>Triton</speaker> Ariel, I'm so happy for you.</sp>
 
@@ -8384,7 +8385,7 @@ the wings?</sp>
 <cutscene><desc>Atina and Andrina swim into the orchestra pit and make a circle around
 Sebastian and Flounder</desc></cutscene>
 
-<sp><speaker>Ariel <desc>singing</desc></speaker><speaker> Come say hello</speaker> All my friends from ev'ry corner of the world.</sp>
+<sp><speaker>Ariel <desc>singing</desc></speaker> Come say hello All my friends from ev'ry corner of the world.</sp>
 
 <cutscene><desc>A manta ray swims in with red fish and glowing jellyfish</desc></cutscene>
 
@@ -8417,7 +8418,7 @@ thunderous applause. They bow as a curtain of bubbles comes up</desc></cutscene>
 
 <sp><speaker>Donald</speaker> I won't do it! We'll never say goodbye!</sp>
 
-<sp><speaker>Goofy</speaker><speaker> That's right! A-one, two, three, four</speaker></sp>
+<sp><speaker>Goofy</speaker> That's right! A-one, two, three, four</sp>
 
 <sp><speaker>Sora, Donald &amp; Goofy <desc>singing</desc></speaker> Even though we're hittin' the road, our worlds
 are all connected.</sp>
@@ -11842,7 +11843,7 @@ was who made it?</sp>
 
 <sp><speaker>Sora</speaker> Okay, we'll just have to find your user and ask him. What's his name?</sp>
 
-<sp><speaker>Tron</speaker><speaker> You mean you don't know? My user is the user of this system</speaker> Ansem the
+<sp><speaker>Tron</speaker> You mean you don't know? My user is the user of this system Ansem the
 Wise.</sp>
 
 <sp><speaker>Sora, Donald, &amp; Goofy</speaker> Ansem!?</sp>
@@ -12047,7 +12048,7 @@ and high walls. The ground is laced with a blue-lit grid pattern</desc></cutscen
 <sp><speaker>Sora</speaker> Game grid?</sp>
 
 <sp><speaker>Sark</speaker> That's right, you've been chosen to play a few games. Lose, and you will
-be subject to immediate de-resolution. Win? Well, <cutscene><desc>chuckle</desc></cutscene> no one wins.</sp>
+be subject to immediate de-resolution. Win? Well, <desc>chuckle</desc> no one wins.</sp>
 
 <sp><speaker>Donald</speaker> We're not gonna play your games!</sp>
 
@@ -12753,9 +12754,9 @@ down. The chains and symbols glow white, eminating from the central chair.
 The glow crawls toward a blue figure lying on the floor</desc></cutscene>
 
 <sp><speaker>??????</speaker> It has been far too long...friend.
-<cutscene><desc>A pile of blue armor lay on the floor next to a keyblade. The scene flashes
+<desc>A pile of blue armor lay on the floor next to a keyblade. The scene flashes
 back to a previous event in time. Zexion walks through Twilight's View
-in a mysterious castle</desc></cutscene></sp>
+in a mysterious castle</desc></sp>
 
 <sp><speaker>Vexen</speaker> Zexion! Zexion!</sp>
 
@@ -13226,7 +13227,7 @@ okay!?</sp>
 
 <sp><speaker>Saïx</speaker> If it's Kairi you're worried about, don't. We're taking very good care of
 her.
-<speaker> Sora</speaker> Take me to her.</sp>
+ Sora Take me to her.</sp>
 
 <sp><speaker>Saïx</speaker> Is she that important to you?</sp>
 
@@ -13678,7 +13679,7 @@ whispers about.</sp>
 
 <sp><speaker>Sora</speaker> Th-that's right!</sp>
 
-<sp><speaker>Emperor</speaker><speaker> Indeed. That is true</speaker> We need not worry while you protect us.</sp>
+<sp><speaker>Emperor</speaker> Indeed. That is true We need not worry while you protect us.</sp>
 
 <sp><speaker>Donald</speaker> Hurry!</sp>
 
@@ -13698,9 +13699,9 @@ the Storm Rider Heartless starts to fall to the ground directly over Mulan</desc
 
 <cutscene><desc>Shang runs to Mulan, just as the Heartless comes down. A giant heart flies out
 of the creature and disappears into the sky. The Heartless vanishes, leaving
-Shang holding Mulan.
+Shang holding Mulan.</desc></cutscene>
 
-<sp><speaker>Sora</speaker> Way to go!</sp>
+<sp><speaker>Sora</speaker> Way to go!</sp><cutscene><desc>
 
 (Shang helps Mulan up and they smile at each other. They look over at Sora,
 Donald, and Goofy, then back at each other. Realizing they're still holding
@@ -14299,7 +14300,7 @@ today. Thank ye. We're turning for home.</sp>
 <cutscene><desc>The figure holds out a hand</desc></cutscene>
 
 <sp><speaker>??????</speaker> The Darkness of men's hearts---drawn to these cursed medallions; and
-<speaker>this Heartless---a veritable maelstrom of avarice</speaker></sp>
+this Heartless---a veritable maelstrom of avarice</sp>
 
 <cutscene><desc>The large Grim Reaper Heartless appears swinging his pendulum-like axe</desc></cutscene>
 
@@ -14335,7 +14336,7 @@ not be harmed 'til negotiations are complete.</sp>
 <sp><speaker>Sora</speaker> This is no time for rules!</sp>
 
 <sp><speaker>Jack Sparrow</speaker> True. But as we're honorable pirates we should always stick to
-the Code. <cutscene><desc>to Luxord</desc></cutscene> All right, you. Out with it!</sp>
+the Code. <desc>to Luxord</desc> All right, you. Out with it!</sp>
 
 <sp><speaker>Luxord</speaker> I surrender the chest with my humblest apologies.</sp>
 
@@ -14694,7 +14695,7 @@ could always just, I dunno, LOSE?</sp>
 mighty snobs up on Olympus. I stand for the masses! And have I got a massive
 idea! The games, ladies and gentlemen...are back! Yours truly, Hades---the one
 and only Lord of the Dead---brings you the ultimate games, to celebrate the
-<speaker>re-opening of the ultimate coliseum! We'll finally answer the age-old question</speaker>
+re-opening of the ultimate coliseum! We'll finally answer the age-old question
 Who deserves the title <q>Ultimate Hero</q>? These games are gonna settle the debate
 once and for all! The winner reigns supreme. Of what? You guessed it! The Hades
 Cup! And I assure you that the <q>Great</q> Hercules will be there. Otherwise...</sp>
@@ -14816,7 +14817,7 @@ Auron and Hades. Donald walks in, and Sora pulls him to his hiding spot</desc></
 
 <cutscene><desc>Donald shushes him</desc></cutscene>
 
-<sp><speaker>Hades</speaker><speaker> Okay, so you made one lousy mistake</speaker> you exist. But hey, I'm a forgiving
+<sp><speaker>Hades</speaker> Okay, so you made one lousy mistake you exist. But hey, I'm a forgiving
 guy. You keep your end of our little deal, and I'm willing to overlook a
 transgression or two.</sp>
 
@@ -14998,7 +14999,7 @@ C'mon, is that really so wrong? Huh?</sp>
 
 <cutscene><desc>Donald and Goofy laugh</desc></cutscene>
 
-<sp><speaker>Hades</speaker> Laugh, laugh, laugh all you want! <cutscene><desc>laughs weakly</desc></cutscene> Because the laughing
+<sp><speaker>Hades</speaker> Laugh, laugh, laugh all you want! <desc>laughs weakly</desc> Because the laughing
 is about to stop. Wanna know why? Because now we're gonna play by my rules.</sp>
 
 <cutscene><desc>He snaps his fingers and the stone gate behind him lifts up to reveal a
@@ -15057,7 +15058,7 @@ They look and see no one</desc></cutscene>
 <sp><speaker>Hades</speaker> But...you...</sp>
 
 <sp><speaker>Hercules <desc>smiling</desc></speaker> I owe you one, Hades. I didn't hesitate to give my life for
-<speaker>Meg's. And then, I remembered</speaker></sp>
+Meg's. And then, I remembered</sp>
 
 <cutscene><desc>Pegasus flies down</desc></cutscene>
 
@@ -15395,7 +15396,7 @@ slumps to the ground</desc></cutscene>
 <sp><speaker>Sora</speaker> You can't keep shady stuff secret for long.</sp>
 
 <sp><speaker>Peddler</speaker> So true. I had just snuck into the Palace to, er, borrow some treasure
-<speaker>when I heard this...voice. It said</speaker> <q>Release me, and I will give you an even
+when I heard this...voice. It said <q>Release me, and I will give you an even
 greater reward.</q> <q>Who are you?</q> I asked. The voice spoke again. <q>The true
 Sultan of Agrabah,</q> he said. <q>Imprisoned by villains.</q> Oh! Why did I believe
 such a tall, tall tale? Perhaps I was under Jafar's spell. Yes! That must be it!</sp>
@@ -16449,8 +16450,8 @@ Hall of the Cornerstone</desc></cutscene>
 <sp><speaker>Chip</speaker> Oh, Sora! You're here!</sp>
 
 <sp><speaker>Dale</speaker> Something bad has happened!
-<cutscene><desc>They turn and see a large dark portal in the wall behind the Cornerstone of 
-Light. The portal pulses with energy</desc></cutscene></sp>
+<desc>They turn and see a large dark portal in the wall behind the Cornerstone of 
+Light. The portal pulses with energy</desc></sp>
 
 <sp><speaker>Chip</speaker> Look! The Cornerstone of Light! Before you know it, it'll be surrounded!</sp>
 
@@ -17084,7 +17085,7 @@ dreadful name as Hollow Bastion!</sp>
 <sp><speaker>Aerith</speaker> You know, this town had another name once.</sp>
 
 <sp><speaker>Sora</speaker> Hm?
-<speaker> Aerith</speaker> Radiant Garden.</sp>
+ Aerith Radiant Garden.</sp>
 
 <cutscene><desc>Having found all the Torn Pages, Sora decides to check in on Pooh in the 100
 Acre Wood. He enters Piglet's House, where the leaves are falling from the
@@ -17541,7 +17542,7 @@ Pooh. They both sit together on the log under the gigantic moon</desc></cutscene
 
 <sp><speaker>Sora</speaker> So, what were you doing here?</sp>
 
-<sp><speaker>Pooh</speaker><speaker> I was thinking</speaker> Perhaps there's a way to make it so you won't go away.</sp>
+<sp><speaker>Pooh</speaker> I was thinking Perhaps there's a way to make it so you won't go away.</sp>
 
 <sp><speaker>Sora</speaker> You mean a way to make me stay?</sp>
 
@@ -18780,7 +18781,7 @@ darkness.</sp>
 
 <cutscene><desc>Donald, Goofy, and Kairi nod</desc></cutscene>
 
-<sp><speaker>Sora <desc>to Donald &amp; Goofy</desc></speaker><speaker> So how 'bout it</speaker> Think we can handle one last rumble
+<sp><speaker>Sora <desc>to Donald &amp; Goofy</desc></speaker> So how 'bout it Think we can handle one last rumble
 together? The King's waiting!</sp>
 
 <sp><speaker>Donald</speaker> Yeah! Let's get going!</sp>
@@ -18913,7 +18914,7 @@ Roxas, who blasts through it and continues his attack. He dodges again</desc></c
 <cutscene><desc>He places a hand near his mouth with an incredulous look</desc></cutscene>
 
 <sp><speaker>Riku</speaker> So it's true. You really are his Nobody. Guess DiZ was right after all.
-<speaker> Roxas</speaker> What are you talking about? I am me! Nobody else!</sp>
+ Roxas What are you talking about? I am me! Nobody else!</sp>
 
 <cutscene><desc>Roxas throws his hand up and the Oathkeeper flashes into it. He rushes Riku
 and jumps into the air. Riku dodges again. Roxas swings around and slashes the
@@ -19196,7 +19197,7 @@ again. Warriors of the Keyblade!</sp>
 
 <cutscene><desc>They each point at him with their appearing Keyblades</desc></cutscene>
 
-<sp><speaker>Xemnas</speaker><speaker> Denizens of light, answer this</speaker> Why do you hate the darkness?</sp>
+<sp><speaker>Xemnas</speaker> Denizens of light, answer this Why do you hate the darkness?</sp>
 
 <sp><speaker>Mickey</speaker> Aw, we don't hate it. It's just kinda...scary. But the world's made of
 light AND darkness. You can't have one without the other, 'cause darkness is
@@ -19255,7 +19256,7 @@ light</desc></cutscene>
 <sp><speaker>Donald</speaker> What!?</sp>
 
 <sp><speaker>Xemnas</speaker> Hear me, Kingdom Hearts! It seems we must begin anew. Ah, but know
-<speaker>this</speaker> I will give to you as many hearts as it takes. Mark my words! You can no
+this I will give to you as many hearts as it takes. Mark my words! You can no
 more be complete without me than I without you. Heed me, Kingdom Hearts! Lend
 me your power, so that we may be complete! The power to erase the fools that
 hinder us.</sp>
@@ -19523,9 +19524,9 @@ forever, too. But guess what, Xemnas?</sp>
 <sp><speaker>Xemnas</speaker> Anger and hate are supreme.</sp>
 
 <cutscene><desc>They attack Xemnas, dodging his thorned vines and red lasers. Xemnas blocks
-Sora in a sphere of blue energy.
+Sora in a sphere of blue energy.</desc></cutscene>
 
-<sp><speaker>Xemnas</speaker> Can you spare...a heart?</sp>
+<sp><speaker>Xemnas</speaker> Can you spare...a heart?</sp><cutscene><desc>
 
 (Riku jumps up to stop it, but is hit by the energy and knocked away</desc></cutscene>
 
@@ -19575,13 +19576,13 @@ Xemnas</desc></cutscene>
 
 <sp><speaker>Xemnas</speaker> Cursed...Keyblade...</sp>
 
-<cutscene><desc>Xemnas angrily reaches out to them as he fades away in wisps and smoke.
+<cutscene><desc>Xemnas angrily reaches out to them as he fades away in wisps and smoke.</desc></cutscene>
 
 <sp><speaker>Sora</speaker> We did it!</sp>
 
 <sp><speaker>Riku <desc>as Nobodies appear</desc></speaker> I wouldn't be too sure of that.</sp>
 
-(They ready themselves for the battle. The hundreds of Nobodies are eventually
+<cutscene><desc>(They ready themselves for the battle. The hundreds of Nobodies are eventually
 defeated. Riku falls to his knees</desc></cutscene>
 
 <sp><speaker>Riku</speaker> Sora... I can't...</sp>
@@ -19689,7 +19690,7 @@ the letter</desc></cutscene>
 <sp><speaker>Sora &amp; Kairi</speaker> We pray for our sorrows to end, and hope that our hearts will
 blend. Now I will step forward to realize this wish.</sp>
 
-<sp><speaker>Kairi</speaker><speaker> And who knows</speaker> Starting a new journey may not be so hard or maybe it has
+<sp><speaker>Kairi</speaker> And who knows Starting a new journey may not be so hard or maybe it has
 already begun. There are many worlds, but they share the same sky---one sky,
 one destiny.</sp>
 
@@ -19794,8 +19795,8 @@ well. Later, Sora meets Riku at the paopu tree overlooking the water</desc></cut
 
 <sp><speaker>Sora</speaker> From the King?</sp>
 
-<cutscene><desc>Sora takes it from her, dumps the message out, and they read it</desc></cutscene>-------------------------------------------------------------------------------THE GATHERING<cutscene><desc>In a dusty barren landscape, save a few plants, the Ansem Reports fly
-<sp><speaker>overhead. Words appear on the screen</speaker></sp>
+<cutscene><desc>Sora takes it from her, dumps the message out, and they read it</desc><desc>-------------------------------------------------------------------------------THE GATHERING</desc><desc>In a dusty barren landscape, save a few plants, the Ansem Reports fly
+overhead. Words appear on the screen
 
 <q>The Keyblade is said to hold phenomenal power.
 
@@ -19805,18 +19806,18 @@ wrought chaos and ruin upon it.
 I must know what this Keyblade is.
 
 A key opens doors.</q>
--(Ansem Report 8</desc></cutscene>
+-(Ansem Report 8</desc>
 
-There seems to be destruction everywhere. An armored figure with a
+<desc>There seems to be destruction everywhere. An armored figure with a
 cape stands amidst the devastation. He holds a Keyblade over his shoulder. Two
 more people in armor approach. They walk to a middleground where Sora, Mickey,
 and Riku's Keyblades are stuck in the ground. The destruction behind them melts
 away like sand. The three each take a Keyblade. Surrounding them on all sides,
 creating a four-way path, is an uncountable number of Keyblades. Through
 the dust, they see another figure walking toward them. Words appear
-<sp><speaker>on the screen</speaker></sp>
+on the screen</desc></cutscene>
 
-<q>Master of keyblade</q>
+<cutscene><desc><q>Master of keyblade</q>
 
 <q>The lost two</q>
 
@@ -19828,9 +19829,9 @@ the dust, they see another figure walking toward them. Words appear
 
 <q>It all began with...
 
-birth by sleep.</q>)-------------------------------------------------------------------------------BIRTH BY SLEEP<q>Birth by sleep</q>
+birth by sleep.</q>)</desc><desc>-------------------------------------------------------------------------------BIRTH BY SLEEP<q>Birth by sleep</q>
 
-<q>A tale of truth yet to be told</q>
+<q>A tale of truth yet to be told</q></desc></cutscene>
 
 <cutscene><desc>An elderly man walks toward three armored figures standing at a crossroads 
 between fields of fallen Keyblades. The wind blows through their capes as they 
@@ -19889,32 +19890,31 @@ leaps under and catches him as he hits the ground. She gazes down at the
 frozen youth's blue eyes and blond hair. The old man's Keyblade becomes a 
 blue and pink orb. He smiles and lifts it skyward, sending it into the clouds. 
 The gray clouds begin parting as a blue light spills out of them. The woman 
-watches from below as a large blue heart-shaped moon appears in the sky</desc></cutscene>
+watches from below as a large blue heart-shaped moon appears in the sky
 
-<q>Destiny is never left to chance</q>
+<q>Destiny is never left to chance</q></desc></cutscene>
 
 <cutscene><desc>The armored man rips off his helmet, revealing his brown pointed hair and 
-furious scowl. In the blink of an eye, his blue eyes turn yellow</desc></cutscene>
+furious scowl. In the blink of an eye, his blue eyes turn yellow
 
 KINGDOM HEARTS
 
 <q>Destiny is inevitable</q>
 
-<cutscene><desc>From a far away cliff, Mickey Mouse stares at the scene before him</desc></cutscene>
+From a far away cliff, Mickey Mouse stares at the scene before him
 
-<q>At long last destinies gather</q>
+<q>At long last destinies gather</q></desc></cutscene>
 
-<sp><speaker><q>To awaken a new tale</q>------------------------------------------------------------------------------Please check out my other Kingdom Hearts scripts</speaker></sp>
-
+<!--<q>To awaken a new tale</q>-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-Please check out my other Kingdom Hearts scripts-->
+<!--
 <sp><speaker>Kingdom Hearts</speaker> Final Mix - hosted on GameFAQs
 Kingdom Hearts II - hosted on GameFAQs
 Kingdom Hearts 358/2 Days - hosted on GameFAQs
-<speaker>Kingdom Hearts Re</speaker>Chain of Memories - hosted on KH-Recharged.com
-<speaker>Kingdom Hearts Re</speaker>coded - hosted on GameFAQs
-<speaker>Kingdom Hearts</speaker> Birth By Sleep - hosted on KH-Recharged.com
+Kingdom Hearts ReChain of Memories - hosted on KH-Recharged.com
+Kingdom Hearts Recoded - hosted on GameFAQs
+Kingdom Hearts Birth By Sleep - hosted on KH-Recharged.com
 <speaker>Kingdom Hearts 3D</speaker> Dream Drop Distance - hosted on GameFAQsKINGDOM HEARTS II FINAL MIX COPYRIGHT OF SQUARE ENIX AND DISNEY</sp>
 
-Any comments or feedback, please email me at dj_firewolf@hotmail.com
+Any comments or feedback, please email me at dj_firewolf@hotmail.com-->
 
-------------------------------------------------------------------------------
 </xml>
