@@ -1,4 +1,5 @@
 <?xml-model href="KH-Relax_NG/Kingdom_hearts_1.5_script.rnc" type="application/relax-ng-compact-syntax"?>
+
 <xml>
         <!-- Brought to you by DJ Firewolf, formerly of KH Impulse and KH Excursion. <sp>Produced in
         partnership with KHRecharged.com
@@ -10,7 +11,7 @@
         <cutscene>
                 <desc>Clouds form amongst darkness as words appear on the screen. Lightning strikes
                         several clouds</desc>
-                <desc> Disney Interactive Studios Square Enix Kingdom Hearts </desc>
+                <desc> Disney Interactive Studios Square Enix <title>Kingdom Hearts</title> </desc>
         </cutscene>
         <cutscene>
                 <desc>The clouds part and the words rush the screen. A boy awakes, floating in a
