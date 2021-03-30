@@ -3,5 +3,6 @@ xml =  element xml {(sp | cutscene)+}
 sp = element sp {speaker,mixed{(desc |q)*}}
 speaker = element speaker {mixed {desc*}}
 cutscene = element cutscene  {(desc |sp)*}
-desc = element desc {mixed{q*}}
+desc = element desc { mixed{(title | q)*}}
+title = element title {text}
 q = element q {text}
