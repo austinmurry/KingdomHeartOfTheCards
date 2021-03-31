@@ -21,7 +21,25 @@ font-family: "Times New Roman", Times, serif;
 	
 }
 .child-three{
+	position: relative;
+	left: 100px;
 	
+}
+.child-four{
+	position: relative;
+	left: 100px;
+}
+.child-five{
+	position: relative;
+	left: 100px;
+}
+.child-six{
+	position: relative;
+	left: 100px;
+}
+.child-seven{
+	position: relative;
+	left: 100px;
 }
 
 
