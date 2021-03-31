@@ -8,7 +8,21 @@ color:#00FF05;
 font-family: "Times New Roman", Times, serif;
 }
 
-
+.parent{
+	
+}
+.child-one{
+	position:relative;
+	left: 100px;
+}
+.child-two{
+	position: relative;
+	left: 100px;
+	
+}
+.child-three{
+	
+}
 
 
 ol {list-style-type: lower-alpha;
