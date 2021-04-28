@@ -41,8 +41,30 @@ font-family: "Times New Roman", Times, serif;
 	position: relative;
 	left: 100px;
 }
-
-
+.child-eight{
+	position:relative;
+	left: 100px;
+}
+.child-nine{
+	position:relative;
+	left: 100px;
+}
+.child-ten{
+	position:relative;
+	left: 100px;
+}
+.child-eleven{
+	position:relative;
+	left: 100px;
+}
+.child-twelve{
+	position:relative;
+	left: 100px;
+}
+.child-thirteen{
+	position:relative;
+	left: 100px;
+}
 ol {list-style-type: lower-alpha;
 padding: 5em;
     
