@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+    <g transform="translate(25, 500)">
+        <g>
+            <rect x="175" y="-203.12" width="105.8" height="203.12" fill="teal" stroke="black" stroke-width="2"/>
+            <text x="160" y="-203.12" style="writing-mode: tb; glyph-orientation-vertical">5078 Speeches</text>
+            <text x="175" y="-213.12">2645 Cutscenes</text>
+            <text x="215" y="-110" font-size="larger" fill="white">KH</text>
+            <text x="216" y="-85" font-size="larger" fill="white">1.5</text>
+            <text x="385" y="-130" font-size="larger" fill="white">KH</text>
+            <text x="387" y="-105" font-size="larger" fill="white">2.5</text>
+            <text x="535" y="-50" font-size="larger" fill="white">KH</text>
+            <text x="543" y="-25" font-size="larger" fill="white">3</text>
+        </g>
+        <g>
+            <rect x="350" y="-241.08" width="97.8" height="241.08" fill="teal" stroke="black" stroke-width="2"/>
+            <text x="335" y="-241.08" style="writing-mode: tb; glyph-orientation-vertical">6027 Speeches</text>
+            <text x="350" y="-251.08">2445 Cutscenes</text>
+            <text x="215" y="-110" font-size="larger" fill="white">KH</text>
+            <text x="216" y="-85" font-size="larger" fill="white">1.5</text>
+            <text x="385" y="-130" font-size="larger" fill="white">KH</text>
+            <text x="387" y="-105" font-size="larger" fill="white">2.5</text>
+            <text x="535" y="-50" font-size="larger" fill="white">KH</text>
+            <text x="543" y="-25" font-size="larger" fill="white">3</text>
+        </g>
+        <g>
+            <rect x="525" y="-87.24" width="46.36" height="87.24" fill="teal" stroke="black" stroke-width="2"/>
+            <text x="510" y="-87.24" style="writing-mode: tb; glyph-orientation-vertical">2181 Speeches</text>
+            <text x="525" y="-97.24">1159 Cutscenes</text>
+            <text x="215" y="-110" font-size="larger" fill="white">KH</text>
+            <text x="216" y="-85" font-size="larger" fill="white">1.5</text>
+            <text x="385" y="-130" font-size="larger" fill="white">KH</text>
+            <text x="387" y="-105" font-size="larger" fill="white">2.5</text>
+            <text x="535" y="-50" font-size="larger" fill="white">KH</text>
+            <text x="543" y="-25" font-size="larger" fill="white">3</text>
+        </g>
+    </g>
+</svg>
