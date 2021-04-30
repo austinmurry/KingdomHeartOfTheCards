@@ -2,7 +2,7 @@ body {
 /*background-color:#007CFF;*/
 
 	
-color:#00FF05; 
+color:#FFFFFF; 
 /*font-family: arial, helvetica, sans-serif;*/
 
 font-family: "Times New Roman", Times, serif;
@@ -13,21 +13,21 @@ font-family: "Times New Roman", Times, serif;
 }
 .child-one{
 	position:relative;
-	left: 100px;
+	left: 50px;
 }
 .child-two{
 	position: relative;
-	left: 100px;
+	left: 50px;
 	
 }
 .child-three{
 	position: relative;
-	left: 100px;
+	left: 50px;
 	
 }
 .child-four{
 	position: relative;
-	left: 100px;
+	left: 50px;
 }
 .child-five{
 	position: relative;
@@ -43,25 +43,41 @@ font-family: "Times New Roman", Times, serif;
 }
 .child-eight{
 	position:relative;
-	left: 100px;
+	left: 50px;
 }
 .child-nine{
 	position:relative;
-	left: 100px;
+	left: 50px;
 }
 .child-ten{
 	position:relative;
-	left: 100px;
+	left: 50px;
 }
 .child-eleven{
 	position:relative;
-	left: 100px;
+	left: 50px;
 }
 .child-twelve{
 	position:relative;
-	left: 100px;
+	left: 50px;
 }
 .child-thirteen{
+	position:relative;
+	left: 50px;
+}
+.child-fourteen{
+	position:relative;
+	left: 100px;
+}
+.child-fifteen{
+	position:relative;
+	left: 50px;
+}
+.child-sixteen{
+	position:relative;
+	left: 100px;
+}
+.child-sevetneen{
 	position:relative;
 	left: 100px;
 }
