@@ -18,7 +18,7 @@ I know this team has created many more graphs than you shared on the site. Some 
 
 
 ### Website design and user experience
-The website is beautifully designed to feature the Kingdom of Hearts Chain of Memories graphic, without letting it disrupt your text and project images. Site navigation is easy to follow. 
+The website is beautifully designed to feature the Kingdom of Hearts Chain of Memories graphic, without letting it disrupt your text and project images. Site navigation is easy to follow. But you forgot to add a Creative Commons License! You have room for that in the footer you designed, and that seems like the logical place for it. 
 
 ## Conclusion
 This team worked hard through the semester, and I know you learned a lot. The website you produce never can show everything you did, but this one could really include more graphs, and most importantly, more discussion of a) the structural markup you created, and b) the significance of your analyses: both what we learn and what we're not sure about. 
