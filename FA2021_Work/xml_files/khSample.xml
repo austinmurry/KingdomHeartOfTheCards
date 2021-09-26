@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <heading>
+        <meta>
+            <editor>Your name here</editor>
+            <dateRange from="year-month-day" to="year-month-day"/>
+        </meta>
+        <gameInfo>
+            <gameTitle>Kingdom Hearts I/II/III</gameTitle>
+            <releaseDate>Game release date here</releaseDate>
+            <dev>Square Enix</dev>
+        </gameInfo>
+        <sourceDesc>
+            <creator>DJ Firewolf</creator>
+            <source ref="(place url here)"/>
+        </sourceDesc>
+    </heading>
+   
+    <cutscene cutNum="Number of Cutscene" location="World cutscene takes place in">
+        <desc>If there is a description of the cutscene put it in here</desc>
+        <sp>
+            <speaker>Speakers name</speaker>Follow by speech
+        </sp>
+        
+        <gamePlay>If gameplay appears in the scene then surround it in this element</gamePlay>
+        
+        <q>Q element to be used if there is a direct quote within the cutscene (something surrounded in quotation marks)</q>
+        
+        <title>Since we are using the 1.5 and 2.5 remix scripts, special scenes and other game titles appear (special secret, Birth by sleep, etc) use this title element for those.</title>
+        
+        <gameTitle>Put if game title appears in a cutscene</gameTitle>
+        
+        <dev>Put if developer name appears in a cutscene</dev>
+    </cutscene>
+    
+    <divLine>Before special cutscene there is a dividing line (------------), use this element to mark those</divLine>
+</xml>
