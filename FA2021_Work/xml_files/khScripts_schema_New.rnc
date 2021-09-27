@@ -1,29 +1,27 @@
 start = xml
-xml = element xml {heading, cutscene, divLine}
+xml = element xml {heading, cutscene*}
 
-heading = element ehading {meta, gameInfo, sourceDesc}
+heading = element heading {meta, gameInfo, sourceDesc}
 meta = element meta {editor, dateRange}
-editor = element editor {"Austin" | "Cameron" | "Jesse"}
+editor = element editor {"Austin" | "Cameron" | "Jesse" | text}
 dateRange = element dateRange {from, to, empty}
-from = attribute from {xsd:date | xsd:gYearMonth | xsd:gYear}
-to = attribute to {xsd:date | xsd:gYearMonth | xsd:gYear}
+from = attribute from {xsd:date | xsd:gYearMonth | xsd:gYear | text}
+to = attribute to {xsd:date | xsd:gYearMonth | xsd:gYear | text}
 gameInfo = element gameInfo {gameTitle, releaseDate, dev}
-gameTitle = element gameTitle {"Kingdom Hearts" | "Kingdom Hearts I" | "Kingdom Hearts II" | "Kingdom Hearts II.9" | "Kingdom Hearts III"}
-releaseDate = element releaseDate {xsd:date | xsd:gYearMonth | xsd:gYear}
+gameTitle = element gameTitle {"Kingdom Hearts" | "Kingdom Hearts I" | "Kingdom Hearts II" | "Kingdom Hearts II.9" | "Kingdom Hearts III" | text}
+releaseDate = element releaseDate {xsd:date | xsd:gYearMonth | xsd:gYear | text}
 dev = element dev {"Square Enix" | "Disney Interactive Studios" | "Disney Interactive Studios Square Enix"}
 sourceDesc = element sourceDesc {creator, source}
 creator = element creator {"DJ Firewolf"}
 source = element source {ref, empty}
 ref = attribute ref {text}
 
-cutscene = element cutscene {cutNum, location, desc, sp, gameplay, title, gameTitle, dev}
-cutNum = attribute cutNum {xsd:integer}
-location = attribute location {"100 Acre Woods" | "Agrabah" | "Ansem's Study" | "Arendelle" | "Atlantica" | "Bald Mountain" | "Beast's Castle" | "Black Pearl" | "Candy Kingdom" | "Castle Oblivion" | "Castle of Dreams" | "Castle That Never Was" | "Chamber of Repose and Waking" | "Christmas Town" | "Country of the Musketeers" | "Cornerstone Hill" | "Crumbling Island" | "Cy-bug Sector" | "Dark Margin" | "Dark Meridian" | "Datascape" | "Daybreak Town" | "Deep Jungle" | "Deep Space" | "Destiny Islands" | "Disney Castle" | "Disney Town" | "Dive to the Heart" | "Door to Light" | "Door to Darkness" | "Dwarf Woodlands" | "Elephant Grraveyard" | "Enchanted Dominion" | "End of the World" | "Final Rest" | "Game Central Station" | "Hall of Empty Melodies" | "Hall of Cornerstones" | "Halloween Town" | "Hollow Bastion" | "Isla de Muerta" | "Jungle" | "Keyblade Graveyard" | "Kingdom Hearts" | "Kingdom of Corona" | "La Cite des Cloches" | "Land of Departure" | "Merlin's House" | "Mirage Arena" | "Monstro" | "Monstropolis" | "Mysterious Tower" | "Neverland" | "Niceland" | "Old Mansion" | "Olympus" | "Olympus Coliseum" | "Oogie's Manor" | "Peak" | "Port Royal" | "Portal of Darkness" | "Prankster's Paradise" | "Pride Lands" | "Pride Rock" | "Quadratron" | "Radient Garden" | "Realm of Darkness" | "Realm of In Between" | "Realm of Light" | "Rising Falls" | "San Fransokyo" | "Scala ad Caelum" | "Seven Wonders" | "Simulated Twilight Town" | "Space Paranoids" | "Station of Awakening" | "Station of Serenity" | "Swordman Island" | "Symphony of Sorcery" | "The Caribbean" | "The Final World" | "The Grid" | "The Land of Dragons" | "The World That Never Was" | "Timeless River" | "Toy Box" | "Traverse Town" | "Twilight Town" | "Underdome" | "Underworld" | "Villain's Vale" | "Wastelands" | "Waterway" | "Wharf" | "Wildbeest Valley" | "Window to the Past" | "Wonderland"}
-desc = element desc {mixed{ (q | gameTitle)* }}
-q = element q {text}
-sp = element sp {speaker, mixed{ (desc | q)* }}
-speaker = element speaker {desc*}
-gameplay = element gameplay {desc, sp}
+cutscene = element cutscene {type?, cutNum?, location?, title*, desc*, sp*, gameTitle*, dev*}
+type = attribute type {"Normal" | "Gameplay" | "Special Ending" | text}
+cutNum = attribute cutNum {xsd:integer | text}
+location = attribute location {"100 Acre Woods" | "Agrabah" | "Ansem's Study" | "Arendelle" | "Atlantica" | "Bald Mountain" | "Beast's Castle" | "Black Pearl" | "Candy Kingdom" | "Castle Oblivion" | "Castle of Dreams" | "Castle That Never Was" | "Chamber of Repose and Waking" | "Christmas Town" | "Country of the Musketeers" | "Cornerstone Hill" | "Crumbling Island" | "Cy-bug Sector" | "Dark Margin" | "Dark Meridian" | "Datascape" | "Daybreak Town" | "Deep Jungle" | "Deep Space" | "Destiny Islands" | "Disney Castle" | "Disney Town" | "Dive to the Heart" | "Door to Light" | "Door to Darkness" | "Dwarf Woodlands" | "Elephant Grraveyard" | "Enchanted Dominion" | "End of the World" | "Final Rest" | "Game Central Station" | "Hall of Empty Melodies" | "Hall of Cornerstones" | "Halloween Town" | "Hollow Bastion" | "Isla de Muerta" | "Jungle" | "Keyblade Graveyard" | "Kingdom Hearts" | "Kingdom of Corona" | "La Cite des Cloches" | "Land of Departure" | "Merlin's House" | "Mirage Arena" | "Monstro" | "Monstropolis" | "Mysterious Tower" | "Neverland" | "Niceland" | "Old Mansion" | "Olympus" | "Olympus Coliseum" | "Oogie's Manor" | "Peak" | "Port Royal" | "Portal of Darkness" | "Prankster's Paradise" | "Pride Lands" | "Pride Rock" | "Quadratron" | "Radient Garden" | "Realm of Darkness" | "Realm of In Between" | "Realm of Light" | "Rising Falls" | "San Fransokyo" | "Scala ad Caelum" | "Seven Wonders" | "Simulated Twilight Town" | "Space Paranoids" | "Station of Awakening" | "Station of Serenity" | "Swordman Island" | "Symphony of Sorcery" | "The Caribbean" | "The Final World" | "The Grid" | "The Land of Dragons" | "The World That Never Was" | "Timeless River" | "Toy Box" | "Traverse Town" | "Twilight Town" | "Underdome" | "Underworld" | "Villain's Vale" | "Wastelands" | "Waterway" | "Wharf" | "Wildbeest Valley" | "Window to the Past" | "Wonderland" | text}
 title = element title {text}
-
-divLine = element divLine {text}
+desc = element desc {mixed{ (q | gameTitle)* }}
+sp = element sp {speaker, mixed{ (desc | q)* }}
+speaker = element speaker {desc*, text}
+q = element q {text}
