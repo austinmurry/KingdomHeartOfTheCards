@@ -1,0 +1,18 @@
+start = xml
+xml = element xml {title, Game+}
+title = element title {text}
+Game = element Game {n,text,W*,Sorce}
+W = element W {so,go,text}
+
+n = attribute n {xsd:integer}
+
+
+so = attribute so {text}
+go = attribute go {text}
+link = attribute link {text}
+
+
+
+Sorce = element Sorce {link,text}
+
+
