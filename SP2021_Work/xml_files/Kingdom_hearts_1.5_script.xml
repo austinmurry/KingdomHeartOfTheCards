@@ -1,5 +1,5 @@
 
-<?xml-model href="../../FA2021_Work/xml_files/khScripts_schema_New.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="KH-Relax_NG/Kingdom_hearts_1.5_script.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <heading>
         <meta>

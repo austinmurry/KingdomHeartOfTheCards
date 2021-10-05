@@ -4,8 +4,10 @@
 <title>Storyline Worlds</title>
 
 <Game n='1'>KH1
+<W so='' go=''>Dive to the hearts </W>
 <W so='1' go='1'>Destiny Islands</W>
 <W so='2' go='2'>Traverse Town</W>
+<W so='' go=''>interspace</W>
 <W so='3' go='3'>Wonderland or Olympus Coliseum</W>
 <W so='4' go='4'>Deep Jungle</W>
 <W so='5' go='5'>100 acher woods</W>
@@ -18,6 +20,7 @@
 <Sorce link='website'>https://gamefaqs.gamespot.com/boards/516587-kingdom-hearts/51029642</Sorce></Game>
 
 <Game n='2'>KH2
+<W so='' go=''>Dive to the hearts </W>
 <W so='12' go='1'>Twilight Town</W>
 <W so='13' go='2'>Hollow Bastion</W>
 <W so='14' go='3'>Land of Dragons</W>
@@ -37,6 +40,8 @@
 </Game>
 
 <Game n='3'>KH3
+<W so='' go=''>Dive to the heart </W>
+<W so='' go=''>interspace</W>
 <W so='27' go='1'>Olympus</W>
 <W so='28' go='2'>Twilight Town</W>
 <W so='29' go='3'>Toy Box</W>
