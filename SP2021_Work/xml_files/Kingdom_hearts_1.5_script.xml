@@ -1,5 +1,5 @@
 
-<?xml-model href="KH-Relax_NG/Kingdom_hearts_1.5_script.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../FA2021_Work/xml_files/khScripts_schema_New.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <heading>
         <meta>
@@ -19,10 +19,13 @@
         </sourceDesc>
     </heading>
 
-    <cutscene type="Opening" cutNum="1" location="Destiny Island">
+    <cutscene type="Opening" cutNum="1" location="Destiny Islands">
         <desc>Clouds form amongst darkness as words appear on the screen. Lightning strikes several
-            clouds <dev>Disney Interactive Studios Square Enix</dev>
-            <gameTitle>Kingdom Hearts</gameTitle></desc>
+            clouds 
+            <dev>Disney Interactive Studios</dev>
+            <dev>Square Enix</dev>
+            <gameTitle>Kingdom Hearts</gameTitle>
+        </desc>
 
         <desc>The clouds part and the words rush the screen. A boy awakes, floating in a strange
             abyss, the keychain around his neck waving in the current of wind blowing upwards. Gold
@@ -149,7 +152,7 @@
             through, squinting his eyes through the bright light. He arrives on a small island
             bridge where three kids stand quietly waiting</desc>
     </cutscene>
-    <cutscene type="Gameplay" cutNum="3" location="Destiny Island">
+    <cutscene type="Gameplay" cutNum="3" location="Destiny Islands">
         <sp>
             <speaker>Voice</speaker> Hold on. The door won't open just yet. First, tell me more
             about yourself.</sp>
