@@ -4,12 +4,14 @@ xml = element xml {heading, cutscene*}
 heading = element heading {meta, gameInfo, sourceDesc}
 meta = element meta {editor, dateRange}
 editor = element editor {"Austin" | "Cameron" | "Jesse" | text}
+# ebb: Lots of your rules for attribute values keep a back door open for ANY text (line 6, 12, 13, and 24). Can you safely remove text from any of these rules now if you're sure of all your possible values?
 dateRange = element dateRange {from, to, empty}
 from = attribute from {xsd:date | xsd:gYearMonth | xsd:gYear | text}
 to = attribute to {xsd:date | xsd:gYearMonth | xsd:gYear | text}
 gameInfo = element gameInfo {gameTitle*, releaseDate, dev*}
 dev = element dev {"Square Enix" | "Disney Interactive Studios" | "Disney Interactive Studios Square Enix" | "Buena Vista Games" | "Buena Vista Games Square Enix"}
 gameTitle = element gameTitle {"Kingdom Hearts" | "Kingdom Hearts I" | "Kingdom Hearts II" | "Kingdom Hearts II.9" | "Kingdom Hearts III" | text}
+
 releaseDate = element releaseDate {xsd:date | xsd:gYearMonth | xsd:gYear | text}
 sourceDesc = element sourceDesc {creator, source}
 creator = element creator {"DJ Firewolf"}
@@ -24,4 +26,7 @@ title = element title {text}
 desc = element desc {mixed{ (dev | gameTitle | q)* }}
 sp = element sp {speaker, mixed{ (desc | q)* }}
 speaker = element speaker {text, desc?}
+# ebb: I wonder if we want to try controlling these values for speaker? I remember the mystery speakers being significant with their distinct numbers of question marks. 
+# Could we try outputting a list of distinct values of your <speaker> elements and sort them alphabetically? That would help us to see if any are misspelled first of all, and then
+# maybe give us a basis for a controlled listing of text values here (or via Schematron). We could literally incorporate them here in the Relax NG, though. 
 q = element q {text}
