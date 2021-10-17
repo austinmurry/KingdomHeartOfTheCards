@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="Bigi_RelaxNG3.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="Bigi_RelaxNGproject.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <title>Storyline Worlds</title>
 
@@ -40,7 +40,7 @@
 </Game>
 
 <Game n='3'>KH3
-<W so='' go=''>Dive to the heart </W>
+<W so='' go=''>Dive to the heart </W><!--ebb: Why are these attribute values empty on this line and the next one?? Is that something you still need to look up? Or what does it mean for these to be empty? -->
 <W so='' go=''>interspace</W>
 <W so='27' go='1'>Olympus</W>
 <W so='28' go='2'>Twilight Town</W>
