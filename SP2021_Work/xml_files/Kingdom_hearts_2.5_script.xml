@@ -1,4 +1,7 @@
-<?xml-model href="KH-Relax_NG/Kingdom_hearts_1.5_script.rnc" type="application/relax-ng-compact-syntax"?>
+<!--<?xml-model href="KH-Relax_NG/Kingdom_hearts_1.5_script.rnc" type="application/relax-ng-compact-syntax"?>
+ebb: Isn't this the OLD schema from last year? I've associated Austin's new schema here. 
+-->
+<?xml-model href="../../FA2021_Work/xml_files/khScripts_schema_New.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
         <heading>
                 <meta>
@@ -612,7 +615,6 @@
                 'em?</sp>
 
                 <desc>Hayner spots the next picture and chuckles</desc>
-        <
 
         <sp>
                 <speaker>Hayner</speaker> It's a girl...</sp>
