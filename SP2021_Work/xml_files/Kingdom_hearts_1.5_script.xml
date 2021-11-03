@@ -3,7 +3,7 @@
     <heading>
         <meta>
             <editor>Austin Murry</editor>
-            <dateRange from="2021-10-1" to="2021-10-8"/>
+            <dateRange from="2021-10-01" to="2021-10-24"/>
         </meta>
         <gameInfo>
             <gameTitle>Kingdom Hearts I</gameTitle>
@@ -20,8 +20,7 @@
 
     <cutscene type="Opening" cutNum="1" location="Destiny Islands">
         <desc>Clouds form amongst darkness as words appear on the screen. Lightning strikes several
-            clouds 
-            <dev>Disney Interactive Studios</dev>
+            clouds <dev>Disney Interactive Studios</dev>
             <dev>Square Enix</dev>
             <gameTitle>Kingdom Hearts</gameTitle>
         </desc>
@@ -63,6 +62,7 @@
             while the last feathers fall. The platform now depicts a girl taking a bite out of an
             apple. The boy turns around seeing no one, yet hearing a voice</desc>
     </cutscene>
+
     <cutscene type="Gameplay" cutNum="2" location="Dive to the Heart">
         <sp>
             <speaker>Voice</speaker> So much to do, so little time... Take your time. Don't be
@@ -151,6 +151,7 @@
             through, squinting his eyes through the bright light. He arrives on a small island
             bridge where three kids stand quietly waiting</desc>
     </cutscene>
+
     <cutscene type="Gameplay" cutNum="3" location="Destiny Islands">
         <sp>
             <speaker>Voice</speaker> Hold on. The door won't open just yet. First, tell me more
@@ -189,6 +190,7 @@
             <speaker>Voice</speaker> The day you will open the door is both far off and very
             near.</sp>
     </cutscene>
+
     <cutscene type="Gameplay" cutNum="4" location="Dive to the Heart">
         <desc>There is a flash of light and the boy finds himself on a platform of a sleeping woman
             clutching a rose. He walks across the platform and is surrounded by Shadows. He defeats
@@ -234,6 +236,7 @@
         <sp>
             <speaker>Voice</speaker> You are the one who will open the door.</sp>
     </cutscene>
+
     <cutscene type="Normal" cutNum="5" location="Destiny Islands">
         <desc>On a bright sandy beach, the sun shines warmly on the same spiky-haired boy, who opens
             his sleepy eyes and sits up. He yawns, starting to lay back down again, when suddenly: a
@@ -320,6 +323,7 @@
             smile at each other as Kairi follows them, still giggling. Later, Sora talks to
             Kairi</desc>
     </cutscene>
+
     <cutscene type="Gameplay" cutNum="6" location="Destiny Islands">
         <sp>
             <speaker>Kairi</speaker> So, can you gather the rest of the supplies? Sora, are you
@@ -371,6 +375,7 @@
         <sp>
             <speaker>Kairi</speaker> Okay. It is getting late. We'll finish up tomorrow.</sp>
     </cutscene>
+
     <cutscene type="Normal" cutNum="7" location="Destiny Islands">
         <desc>After the sun begins setting, Sora, Kairi, and Riku rest on the small island across
             the bridge and stare at the ocean. Sora and Kairi sit on the paopu tree as Riku leans
@@ -432,6 +437,7 @@
         <desc>Riku laughs and Sora tosses the fruit away. They all run back to the dock and head for
             home.</desc>
     </cutscene>
+
     <cutscene type="Normal" cutNum="8" location="Disney Castle">
         <desc>Meanwhile, in another world, Donald Duck the court wizard walks proudly through the
             Colonnade of Disney Castle, passing a group of brooms carrying buckets. Donald stops in
@@ -482,6 +488,7 @@
         <desc>Donald turns to see a cross Daisy, hands on her hips, and Queen Minnie. Daisy clears
             her throat and Donald laughs sheepishly.</desc>
     </cutscene>
+
     <cutscene type="Gameplay" cutNum="9" location="Destiny Islands">
         <desc>The next day, Sora returns to the island and visits the Cove. Riku stands there,
             waiting for him</desc>
@@ -568,6 +575,7 @@
             know, to the secret place at the base of that tree. There's gotta be something there,
             ya?</sp>
     </cutscene>
+
     <cutscene type="Normal" cutNum="10" location="Destiny Islands">
         <desc>Sora enters the Secret Place and walks through an underground tunnel, with roots
             lining the walls. He reaches a room made of walled boulders with chalk drawings scrawled
@@ -614,6 +622,7 @@
         <desc>Sora looks toward the board in the wall. It resembles a door, but with no lock or
             doorknob. As Sora turns back to the figure in the shadows, it has disappeared.</desc>
     </cutscene>
+
     <cutscene type="Gameplay" cutNum="11" location="Destiny Islands">
         <desc>With nothing left to do, he returns to the raft, where Kairi is leaning against the
             mast fiddling with something jingling in her hands</desc>
@@ -641,6 +650,7 @@
         <sp>
             <speaker>Kairi</speaker> Okay, tomorrow’s the big day. We should rest up!</sp>
     </cutscene>
+
     <cutscene type="Normal" cutNum="12" location="Destiny Islands">
         <desc>Later during the sunset, Sora and Kairi sit at the edge of the dock</desc>
         <sp>
@@ -685,6 +695,7 @@
             <speaker>Kairi</speaker> I just can’t wait. Once we set sail, it’ll be great.</sp>
         <desc>He follows her gaze as the sun sets.</desc>
     </cutscene>
+
     <cutscene type="Normal" cutNum="13" location="Disney Castle">
         <desc>Meanwhile in the Library of Disney Castle, Donald reads the letter aloud to Daisy and
             Queen Minnie <q>Donald, Sorry to rush off without sayin’ goodbye, but there’s big
@@ -784,6 +795,7 @@
             Gummi Ship opens, and the ship falls through it, Donald and Goofy screaming. The ship
             drops out of the world and the engine bursts on, sending them into space.</desc>
     </cutscene>
+
     <cutscene type="Normal" cutNum="14" location="Destiny Islands">
         <desc>Meanwhile, Sora sits alone in his bedroom in the Destiny Islands. His window is open
             slightly, the only light coming from the moon outside and his dim desk lamp. Clothes and
@@ -906,8 +918,7 @@
             The wind whipping at him, he grabs a wooden board stuck in the sand and holds on for
             dear life. Every muscle in his body tenses as the wind pulls him upward. His fingers
             slowly lose their grip and he is sucked into the orb, screaming.</desc>
-    </cutscene>
-    <cutscene type="Normal" cutNum="15" location="Traverse Town">
+
         <desc>Meanwhile in a quiet village, Goofy, Donald, and Pluto walk through town. Something in
             the sky catches Goofy’s attention and he stops, gazing upward. Donald turns around as
             Goofy points upward. Donald follows his gaze and gasps</desc>
@@ -919,17 +930,18 @@
             turns serious</desc>
         <sp>
             <speaker>Donald</speaker> Come on. Let’s hurry.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Goofy nods and they walk through the center of the main district toward a flight of
             steps. The neon letters of the various shops blink in the night air while a few
             townsfolk inhabit the picturesque town square. Pluto runs ahead of the two</desc>
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="15" location="Traverse Town">
         <sp>
             <speaker>Donald</speaker> Where’s that key...</sp>
         <sp>
             <speaker>Goofy</speaker> Hey, ya know, maybe we ought to go find Leon.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They reach the top of the steps in front of an accessory shop. Pluto sniffs around a
             dark alleyway, while Donald walks off to the right on his own course. Goofy notices
             Pluto and stops</desc>
@@ -937,60 +949,52 @@
             <speaker>Goofy</speaker> Uh, Donald. Ya know, I betcha that...</sp>
         <sp>
             <speaker>Donald</speaker> Aw, what do you know, you big palooka?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Donald continues walking</desc>
         <sp>
             <speaker>Goofy</speaker> What do I know? Hmm...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He ponders this for a second before following Donald</desc>
         <sp>
-            <speaker>Goofy (calling)</speaker> Come on, Pluto.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Goofy <desc>(calling)</desc></speaker> Come on, Pluto.</sp>
+
         <desc>Pluto continues his search down the alley, turning a corner at a pile of wooden
             crates. He comes across a sleeping Sora and licks his face. Sora’s eyes blink open
             slowly and he peers around sleepily, seeing the dog, who happily wags his tail at the
             sight of him</desc>
         <sp>
             <speaker>Sora</speaker> What a dream...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He starts nodding off again and Pluto pounces on him. He gives off a startled
             yell</desc>
         <sp>
             <speaker>Sora</speaker> This isn’t a dream!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He squints at the dog, his eyes focusing for a moment, before standing up. He searches
             his surroundings. Several notices are pinned up on a wall nearby, but even in the
             dimness of the alleyway, what he sees is not familiar</desc>
         <sp>
             <speaker>Sora</speaker> Where am I?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He turns toward the brighter end of the alley</desc>
         <sp>
             <speaker>Sora</speaker> Oh, boy.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He bends down to address Pluto</desc>
         <sp>
             <speaker>Sora</speaker> Do you know where we are?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Pluto hears a voice calling him and runs back the way he came</desc>
         <sp>
             <speaker>Sora</speaker> Hey...</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="16" location="Traverse Town">
         <desc>Sora follows the dog to the main part of town, where he can finally see in the
             brightness of the streetlights</desc>
         <sp>
             <speaker>Sora</speaker> This is totally weird... I’m in another world!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora walks into the Accessory Shop. A blond man standing behind the counter turns to
             face him</desc>
         <sp>
@@ -1004,15 +1008,13 @@
             <speaker>Sora</speaker> No! Well, maybe. Where are we?</sp>
         <sp>
             <speaker>???</speaker> Huh?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora explains what happened to his world</desc>
         <sp>
             <speaker>Sora</speaker> Traverse Town... So, gramps, is this really another world?</sp>
         <sp>
             <speaker>???</speaker> Don’t call me gramps! The name’s Cid!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He grits his teeth, nearly breaking the piece of straw in his mouth</desc>
         <sp>
             <speaker>Cid</speaker> Anyway... Not sure what you’re talkin’ about, but this sure ain’t
@@ -1022,8 +1024,7 @@
         <sp>
             <speaker>Cid</speaker> Well, good luck with whatever it is you’re doing. If you ever run
             into trouble, you come to me.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora leaves the shop and finds the entrance to the Second District. As he enters, a
             man stumbles out in front of him. A glowing heart bursts from his chest and floats over
             to an orb of darkness. They merge and form a creature similar to a Soldier, with a
@@ -1032,32 +1033,28 @@
             surrounds him</desc>
         <sp>
             <speaker>Sora</speaker> It’s those creatures from the island!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora defeats the creatures and runs inside a nearby Hotel as Donald and Goofy enter
             the area</desc>
         <sp>
             <speaker>Goofy (looking around)</speaker> Doesn’t look like he’s here.</sp>
         <sp>
             <speaker>Donald</speaker> Keep looking!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>After finding no one at the Hotel, Sora returns to town and enters the Gizmo Shop as
             Donald and Goofy walk out of the Hotel</desc>
         <sp>
             <speaker>Donald</speaker> Hmph. Where is he?</sp>
         <sp>
             <speaker>Goofy (calling)</speaker> Leeeooon!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora passes through the Gizmo Shop and finds a large ornate door. He enters as Donald
             and Goofy leave the Gizmo Shop</desc>
         <sp>
             <speaker>Donald</speaker> Not here, either.</sp>
         <sp>
             <speaker>Goofy</speaker> This could take a while...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Inside the house, Sora finds two adult Dalmatians, who look sad. Despite the many
             rooms of the house, they are all empty. Unable to help them, Sora leaves, passing
             through an alleyway back to the Second District. Finding nothing, he decides to return
@@ -1067,14 +1064,14 @@
             <speaker>Donald (calling)</speaker> Leeeon! Mister Leon?</sp>
         <sp>
             <speaker>Goofy (calling)</speaker> Where are you?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora battles his way back to the Accessory Shop</desc>
         <sp>
             <speaker>Cid</speaker> Still haven’t found ‘em? Keep your chin up. Take another look
             around town.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="17" location="Traverse Town">
         <desc>Sora walks back into town</desc>
         <sp>
             <speaker>??????</speaker> They’ll come at you out of nowhere.</sp>
@@ -1083,30 +1080,26 @@
         <sp>
             <speaker>??????</speaker> And they’ll keep on coming at you, as long as you continue to
             wield the Keyblade.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>A tall man enters in a leather outfit, the lion necklace swinging against his chest.
             He raises a gloved hand and points at the Keyblade, his blue eyes gazing at Sora through
             his long dark hair. There is a large scar above his nose</desc>
         <sp>
             <speaker>??????</speaker> But why? Why would it choose a kid like you?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He places a hand to his forehead</desc>
         <sp>
             <speaker>Sora</speaker> What’s that supposed to mean?</sp>
         <sp>
             <speaker>??????</speaker> Never mind. Now, let’s see that Keyblade.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He walks slowly towards Sora, his arm reaching out. Sora takes a defensive
             stance</desc>
         <sp>
             <speaker>Sora</speaker> What? There’s no way you’re getting this!</sp>
         <sp>
             <speaker>??????</speaker> All right, then have it your way.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The man takes out a Gunblade, slinging it over his shoulder before holding it firmly
             in his strong hands. He summons a Fire spell and shoots it at Sora, who dodges and runs
             toward the man. He gets in a few hits with the Keyblade before taking a large hit from
@@ -1115,56 +1108,56 @@
             spell at him, which Sora blocks and sends flying back at the man. Sora stops for a
             second, hearing nothing and runs back over the wall to find the man stunned. As he gets
             closer, the man snaps back and strikes him hard in the chest. Sora stands for a second,
-            wobbling on his feet, before falling over backward onto the cobblestone ground. The man
+            wobbling on his feet, before falling over backward onto the cobblestone ground.The man
             stands back up, hearing a voice behind him</desc>
         <sp>
             <speaker>??????</speaker> Hey, you found it. Nice going, Leon.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He turns back to see a smiling young girl with dark hair</desc>
         <sp>
             <speaker>Leon</speaker> Still... It looks like things are worse than we thought. A lot
             worse.</sp>
+
+        <desc>He looks toward the Keyblade in Sora’s hands. </desc>
     </cutscene>
-    <cutscene>
-        <desc>He looks toward the Keyblade in Sora’s hands. Meanwhile in another world, Riku awakes
-            on a cold stone platform. His fingers twitch and he opens his eyes, seeing a large
-            waterfall and crystalline rock platforms floating in the air. The sounds of the Rising
-            Falls fill his ears, and he slowly gets to his feet</desc>
+
+    <cutscene type="Normal" cutNum="18" location="Unknown">
+        <desc>Meanwhile in another world, Riku awakes on a cold stone platform. His fingers twitch
+            and he opens his eyes, seeing a large waterfall and crystalline rock platforms floating
+            in the air. The sounds of the Rising Falls fill his ears, and he slowly gets to his
+            feet</desc>
         <sp>
             <speaker>Riku</speaker> Where...am I?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He looks around at the area. The waterfalls flow upwards rather than downwards,
             filling his vision on nearly every side. He sees no one else around</desc>
         <sp>
-            <speaker>Riku (calling)</speaker> Sora! Kairi!</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Riku <desc>(calling)</desc></speaker> Sora! Kairi!</sp>
+
         <desc>Getting no response, he stares at the tiled ground. Unbeknownst to him, his arrival is
             noticed by a tall figure in a black cloak, who walks toward him on a much higher
-            platform. The figure’s greenish-gray hand and long violet fingernails are revealed. Back
-            in Traverse Town, Donald and Goofy walk down the Alleyway in the Second District, having
-            no luck in their search. The dim light complements the empty atmosphere</desc>
+            platform. The figure’s greenish-gray hand and long violet fingernails are
+            revealed.</desc>
+    </cutscene>
+    <cutscene type="Normal" cutNum="19" location="Traverse Town">
+        <desc>Back in Traverse Town, Donald and Goofy walk down the Alleyway in the Second District,
+            having no luck in their search. The dim light complements the empty atmosphere</desc>
         <sp>
             <speaker>Goofy</speaker> Gawrsh, there’s nobody here. Sure is spooky!</sp>
         <sp>
             <speaker>Donald</speaker> Aw, phooey. I’m not scared.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He feels a tap on his shoulder and screams, leaping into the air and hanging onto
             Goofy’s back, shivering</desc>
         <sp>
             <speaker>??????</speaker> Excuse me. Did the king send you?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>At the mention of the King, Donald stops shaking and the two of them turn to see a
             young woman with flowing brown hair tied in a bow. She wears a long pink dress and brown
             boots. She smiles at the two of them. Soon after, Sora is starting to wake up</desc>
         <sp>
             <speaker>Kairi</speaker> Come on, lazy bum. Wake up.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora shakes his head and opens his eyes. He looks up to see Kairi peering down at him
             on the bed</desc>
         <sp>
@@ -1178,26 +1171,22 @@
             <speaker>Sora</speaker> I’m so glad that you’re okay, Kairi.</sp>
         <sp>
             <speaker>Kairi</speaker> Kairi? Who are you talking about?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Kairi’s voice changes</desc>
         <sp>
             <speaker>??????</speaker> I’m the great ninja Yuffie.</sp>
         <sp>
             <speaker>Sora</speaker> Huh?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora’s world flashes and the dark-haired girl from earlier appears in Kairi’s place,
             bending over him</desc>
         <sp>
             <speaker>Yuffie</speaker> I think you might’ve overdone it, Squall.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The tall man from before walks into the green room</desc>
         <sp>
             <speaker>Leon</speaker> That’s Leon.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora sees the Keyblade leaning against the wall</desc>
         <sp>
             <speaker>Sora</speaker> The Keyblade...</sp>
@@ -1205,24 +1194,21 @@
             <speaker>Yuffie</speaker> Yeah, we had to get it away from you to shake off those
             creatures. It turns out that’s how they were tracking you.</sp>
         <sp>
-            <speaker>Leon (crossing his arms)</speaker> It was the only way to conceal your heart
-            from them. But it won’t work for long.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Leon <desc>(crossing his arms)</desc></speaker> It was the only way to conceal
+            your heart from them. But it won’t work for long.</sp>
+
         <desc>Sora sits on the bed, staring down at the floor</desc>
         <sp>
             <speaker>Leon</speaker> Still hard to believe that you of all people are the chosen
             one.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Leon picks up the Keyblade and swings it in the air. It flashes out of his hand and
             back into Sora’s. Leon walks over to him</desc>
         <sp>
             <speaker>Leon</speaker> Well, I suppose beggars can’t be choosers.</sp>
         <sp>
             <speaker>Sora</speaker> Why don’t you start making sense! What’s going on here?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>At this point in time, Aerith has led Donald and Goofy to the adjacent red room</desc>
         <sp>
             <speaker>Aerith</speaker> Okay, you know there are many other worlds out there besides
@@ -1231,14 +1217,12 @@
             <speaker>Donald</speaker> Yeah.</sp>
         <sp>
             <speaker>Goofy</speaker> But they’re supposed to be a secret.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He covers his mouth</desc>
         <sp>
             <speaker>Aerith</speaker> They’ve been secret because they’ve never been connected.
             Until now.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Her thoughts drift to nearly a decade earlier</desc>
         <sp>
             <speaker>Aerith</speaker> When the Heartless came, everything changed.</sp>
@@ -1253,21 +1237,18 @@
             them.</sp>
         <sp>
             <speaker>Leon</speaker> And there is darkness within every heart.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Yuffie looks toward Sora</desc>
         <sp>
             <speaker>Yuffie</speaker> Hey, have you heard of someone named Ansem?</sp>
         <sp>
             <speaker>Goofy</speaker> Ansem?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He places a hand to his chin</desc>
         <sp>
             <speaker>Aerith</speaker> He was studying the Heartless. He recorded all of his findings
             in a very detailed report.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Donald crosses his arms and taps his foot on the wood floor</desc>
         <sp>
             <speaker>Goofy</speaker> Gawrsh, uh, can we see it?</sp>
@@ -1275,15 +1256,13 @@
             <speaker>Aerith (shaking her head)</speaker> It’s pages are scattered everywhere.</sp>
         <sp>
             <speaker>Donald</speaker> Scattered?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Donald stops tapping</desc>
         <sp>
             <speaker>Aerith</speaker> To many worlds.</sp>
         <sp>
             <speaker>Goofy</speaker> Oh, then maybe the king went to find ‘em.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He slams a fist down into his hand and Donald nods</desc>
         <sp>
             <speaker>Aerith</speaker> Yes, those were my thoughts exactly.</sp>
@@ -1291,8 +1270,7 @@
             <speaker>Goofy</speaker> We’ve gotta find him quick!</sp>
         <sp>
             <speaker>Donald</speaker> Wait!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He looks over, and pulls the screen down towards him</desc>
         <sp>
             <speaker>Donald</speaker> First, we need that <q>key</q>!</sp>
@@ -1300,15 +1278,13 @@
             <speaker>Aerith</speaker> That’s right. The Keyblade.</sp>
         <sp>
             <speaker>Sora</speaker> So...this is the key?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora holds up the Keyblade</desc>
         <sp>
-            <speaker>Yuffie (nodding)</speaker> Exactly!</sp>
+            <speaker>Yuffie <desc>(nodding)</desc></speaker> Exactly!</sp>
         <sp>
             <speaker>Leon</speaker> The Heartless have great fear of the Keyblade.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He walks over to the door</desc>
         <sp>
             <speaker>Leon</speaker> That’s why they’ll keep coming after you no matter what.</sp>
@@ -1318,13 +1294,11 @@
             <speaker>Yuffie</speaker> The Keyblade chooses its master. And it chose you.</sp>
         <sp>
             <speaker>Leon</speaker> So tough luck.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He leans against the door</desc>
         <sp>
             <speaker>Sora</speaker> How did all this happen? I remember being in my room...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He gasps sharply, standing up and looking to them frantically</desc>
         <sp>
             <speaker>Sora</speaker> Wait a minute! What happened to my home? My island? Riku!
@@ -1332,7 +1306,8 @@
         <sp>
             <speaker>Leon</speaker> You know what? I really don’t know.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="20" location="Traverse Town">
         <desc>Sora looks down sadly. Yuffie tries to change the subject</desc>
         <sp>
             <speaker>Yuffie</speaker> Hey, cheer up! I’ve heard that the Keyblade can open all sorts
@@ -1349,57 +1324,50 @@
         <sp>
             <speaker>Leon</speaker> Yuffie, let’s go join Aerith. She should be there now with the
             other visitors.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Yuffie points to the other end of the room</desc>
         <sp>
             <speaker>Yuffie</speaker> Leon!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>A Soldier Heartless appears, clattering awkwardly. Leon runs forward</desc>
         <sp>
             <speaker>Leon</speaker> Yuffie, go!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Yuffie runs into the Red Room, squashing Donald behind it with a squawk. Aerith’s face
             turns serious</desc>
         <sp>
             <speaker>Aerith</speaker> Yuffie?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She runs after Yuffie as Leon takes out his Gunblade</desc>
         <sp>
             <speaker>Leon</speaker> Sora, let’s go!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Leon slams the Heartless through the window of the room and it flies over the balcony
             and down to the Alleyway below. Leon runs after it, Sora following. The Red Room door
             closes and Goofy stares at Donald flattened against the wall. Down in the Alleyway, more
             Heartless have appeared around them</desc>
         <sp>
             <speaker>Leon</speaker> Don’t bother with the small fry. Find the leader! Let’s go!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Leon runs down the Alley toward the door to the main district. Sora fights Heartless
             as he makes his way to the Third District. Sora runs down the stairs into the square as
-            Goofy watches from a high balcony. Goofy turns around as Heartless appear around him and
-            Donald. He takes out his shield</desc>
+            Goofy watches from a high balcony.</desc>
+
+        <desc>Goofy turns around as Heartless appear around him and Donald. He takes out his
+            shield</desc>
         <sp>
             <speaker>Goofy</speaker> Gawrsh, are these the Heartless guys?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Donald swings his wand in front of him</desc>
         <sp>
             <speaker>Donald</speaker> Let’s go get ‘em, Goofy!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>With a loud crash, the two of them are blasted off the balcony. Sora turns, hearing
             the commotion, and tries to run as Donald and Goofy fall on top of him. Stars appear
             around their heads before they see the Keyblade</desc>
         <sp>
             <speaker>Donald &amp; Goofy</speaker> The key!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They smile as Sora winces. The District starts to rumble and they look around, still
             in a pile on the ground. Large blocks appear from the ground and cover the exits.
             Heartless surround them as they stand up, ready to fight. After defeating the horde of
@@ -1419,120 +1387,113 @@
             control, knocking the three of them back. Once they find their footing again, Sora gives
             the armor a final strike and it starts to explode from the inside, shaking the area
             around it. Its head wobbles and falls to the ground with a mighty ring. A large glowing
-            heart floats out of its torso into the air and the Guard Armor disappears. The District
-            grows silent, the fountain depicting two dogs in love at the edge of the area giving off
-            the only sound. Later, Leon and Yuffie join the group</desc>
+            heart floats out of its torso into the air and the Guard Armor disappears.</desc>
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="21" location="Traverse Town">
+        <desc>The District grows silent, the fountain depicting two dogs in love at the edge of the
+            area giving off the only sound. Later, Leon and Yuffie join the group</desc>
         <sp>
             <speaker>Sora</speaker> So, you were looking for me?</sp>
         <sp>
-            <speaker>Donald &amp; Goofy (nodding)</speaker> Uh-huh!</sp>
+            <speaker>Donald &amp; Goofy <desc>(nodding)</desc></speaker> Uh-huh!</sp>
         <sp>
-            <speaker>Leon (arms crossed)</speaker> They, too, have been seeking the wielder of the
-            Keyblade.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Leon <desc>(arms crossed)</desc></speaker> They, too, have been seeking the
+            wielder of the Keyblade.</sp>
+
         <desc>Yuffie nods</desc>
         <sp>
             <speaker>Goofy</speaker> Hey, why don’t you come with us? We can go to other worlds on
             our vessel.</sp>
         <sp>
-            <speaker>Sora (facing downward)</speaker> I wonder if I could find Riku and
+            <speaker>Sora <desc>(facing downward)</desc></speaker> I wonder if I could find Riku and
             Kairi...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Leon closes his eyes, understanding what Sora is feeling</desc>
         <sp>
             <speaker>Donald</speaker> Of course.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora looks up at them</desc>
         <sp>
-            <speaker>Goofy (to Donald)</speaker> Are you sure?</sp>
+            <speaker>Goofy <desc>(to Donald)</desc></speaker> Are you sure?</sp>
         <sp>
-            <speaker>Donald (to Goofy)</speaker> Who knows? But we need him to come with us to help
-            us find the king.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Donald <desc>(to Goofy)</desc></speaker> Who knows? But we need him to come
+            with us to help us find the king.</sp>
+
         <desc>Leon steps forward</desc>
         <sp>
             <speaker>Leon</speaker> Sora, go with them. Especially if you want to find your
             friends.</sp>
         <sp>
-            <speaker>Sora (halfheartedly)</speaker> Yeah, I guess.</sp>
+            <speaker>Sora <desc>(halfheartedly)</desc></speaker> Yeah, I guess.</sp>
         <sp>
             <speaker>Donald</speaker> But you can’t come along looking like that. Understand?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He wags a finger</desc>
         <sp>
             <speaker>Donald</speaker> No frowning. No sad face. Okay?</sp>
         <sp>
-            <speaker>Goofy (interjecting)</speaker> Yeah, ya gotta look funny, like us!</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Goofy <desc>(interjecting)</desc></speaker> Yeah, ya gotta look funny, like
+            us!</sp>
+
         <desc>Donald pushes him away</desc>
         <sp>
             <speaker>Donald</speaker> This boat runs on happy faces.</sp>
         <sp>
             <speaker>Sora</speaker> Happy?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Donald and Goofy smile. Sora bends down and reveals a huge cheesy grin. Getting no
             response from them, he stops awkwardly. Donald and Goofy burst out laughing</desc>
         <sp>
-            <speaker>Goofy (pointing)</speaker> That’s one funny face!</sp>
+            <speaker>Goofy <desc>(pointing)</desc></speaker> That’s one funny face!</sp>
         <sp>
-            <speaker>Sora (standing up)</speaker> Okay, why not? I’ll go with you guys.</sp>
+            <speaker>Sora <desc>(standing up)</desc></speaker> Okay, why not? I’ll go with you
+            guys.</sp>
         <sp>
-            <speaker>Donald (holding out a hand)</speaker> Donald Duck.</sp>
+            <speaker>Donald <desc>(holding out a hand)</desc></speaker> Donald Duck.</sp>
         <sp>
-            <speaker>Goofy (doing the same)</speaker> Name’s Goofy.</sp>
+            <speaker>Goofy <desc>(doing the same)</desc></speaker> Name’s Goofy.</sp>
         <sp>
-            <speaker>Sora (doing the same)</speaker> I’m Sora.</sp>
+            <speaker>Sora <desc>(doing the same)</desc></speaker> I’m Sora.</sp>
         <sp>
             <speaker>Goofy</speaker> All for one, one for all.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="22" location="Villain's Vale">
         <desc>They place their hands together. Meanwhile, in a room full of darkness, a group with
             equally dark intentions gaze at an image of the trio on a round table</desc>
         <sp>
             <speaker>?????</speaker> That little squirt took down that Heartless! Who’d have thought
             it?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The fiery man looks over to a thin man with a staff, who replies</desc>
         <sp>
             <speaker>?????</speaker> Such is the power of the Keyblade. The child’s strength is not
             his own.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The large woman next to him gazes down cunningly at the image, water dripping off her
             many appendages</desc>
         <sp>
             <speaker>??????</speaker> Why don’t we turn him into a Heartless?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She cackles loudly</desc>
         <sp>
             <speaker>??????</speaker> That’ll settle things quick enough.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>A man standing next to her pipes up</desc>
         <sp>
             <speaker>????</speaker> And the brat’s friends are the king’s lackeys. Swoggle me eyes,
             they’re all bilge rats by the look of them.</sp>
         <sp>
             <speaker>?????</speaker> You’re no prize yourself.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>A ghostly figure beside the man laughs loudly and the man brandishes a silver hook as
             his left hand</desc>
         <sp>
             <speaker>????</speaker> Shut up!</sp>
         <sp>
             <speaker>??????????</speaker> Enough.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The villains look over to a tall woman in a black cloak. She gazes through narrow eyes
             at the image on the table, her green skin echoing its pale light. Her long fingers curve
             around the staff in her hand</desc>
@@ -1540,10 +1501,13 @@
             <speaker>??????????</speaker> The Keyblade has chosen him. Will it be he who conquers
             the darkness? Or will the darkness swallow him? Either way, he could be quite
             useful.</sp>
+
+        <desc>She smiles darkly.</desc>
     </cutscene>
-    <cutscene>
-        <desc>She smiles darkly. Later, in the First District of Traverse Town, Sora talks to Leon,
-            Yuffie, and Aerith</desc>
+
+    <cutscene type="Gameplay" cutNum="22" location="Traverse Town">
+        <desc>Later, in the First District of Traverse Town, Sora talks to Leon, Yuffie, and
+            Aerith</desc>
         <sp>
             <speaker>Leon</speaker> Make sure you’re prepared for the journey ahead of you. We don’t
             know how far the Heartless have spread.</sp>
@@ -1552,13 +1516,11 @@
             stuff!</sp>
         <sp>
             <speaker>Aerith</speaker> This is from all of us.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She hands him 500 munny</desc>
         <sp>
             <speaker>Aerith</speaker> Spend it as you see fit. And this is from Leon.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Leon looks away. She hands Sora an Elixir</desc>
         <sp>
             <speaker>Yuffie</speaker> Good luck!</sp>
@@ -1566,13 +1528,11 @@
             <speaker>Aerith</speaker> I hope you find your friends.</sp>
         <sp>
             <speaker>Leon</speaker> Look out for each other. Keep your spirits up.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora talks to Donald and Goofy</desc>
         <sp>
             <speaker>Donald</speaker> The gummi ship is outside that gate.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He looks toward the World Exit, a large gate at the edge of the area</desc>
         <sp>
             <speaker>Sora</speaker> The what?</sp>
@@ -1582,8 +1542,7 @@
             <speaker>Goofy</speaker> Wait ‘til you see it!</sp>
         <sp>
             <speaker>Donald</speaker> Hold on. Sora, this is for you.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Donald gives him the Fire spell</desc>
         <sp>
             <speaker>Donald</speaker> Now you can use magic, too. Goofy, give him that other
@@ -1594,8 +1553,7 @@
             <speaker>Donald</speaker> You know!</sp>
         <sp>
             <speaker>Goofy</speaker> Oh, yeah.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Goofy gives Sora the Dodge Roll ability</desc>
         <sp>
             <speaker>Goofy</speaker> Abilities allow you to do all sorts of things. Guess we should
@@ -1605,10 +1563,9 @@
         <sp>
             <speaker>Donald</speaker> Not ‘til we’re ready!</sp>
         <sp>
-            <speaker>Jiminy (to himself)</speaker> Well, I see big adventures coming their way!
-            Looks like it’s up to me to keep track of it all in my journal!</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Jiminy <desc>(to himself)</desc></speaker> Well, I see big adventures coming
+            their way! Looks like it’s up to me to keep track of it all in my journal!</sp>
+
         <desc>While gathering supplies around town, Sora talks to Leon, Yuffie and Aerith in the
             café</desc>
         <sp>
@@ -1629,13 +1586,13 @@
             <speaker>Leon</speaker> Help them out.</sp>
         <sp>
             <speaker>Aerith</speaker> Please, find the puppies for him.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Leon says nothing</desc>
         <sp>
             <speaker>Yuffie</speaker> Squa--I mean, Leon--is really cute sometimes.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="23" location="Interspace">
         <desc>Once they are ready, Sora, Donald, and Goofy board the Gummi Ship</desc>
         <sp>
             <speaker>Donald</speaker> We travel to different worlds on the gummi ship.</sp>
@@ -1649,29 +1606,26 @@
         <sp>
             <speaker>Donald</speaker> Seek out the missions each world has to offer!</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="24" location="Wonderland">
         <desc>They travel to Wonderland and enter by way of Rabbit Hole. Slowly they drift downward,
             past clocks and tables and fireplaces, Goofy lying on his back enjoying the ride. When
             they reach the bottom, Sora and Donald land softly on their feet, while Goofy falls over
             with a big thump. They hear the quick pattering of feet as a white rabbit in a waistcoat
             carrying a large clock dashes past them</desc>
         <sp>
-            <speaker>White Rabbit</speaker> Oh, my fur and whiskers! I’m late, I’m late, I’m late!
-        </sp>
-    </cutscene>
-    <cutscene>
+            <speaker>White Rabbit</speaker> Oh, my fur and whiskers! I’m late, I’m late, I’m late! </sp>
+
         <desc>He pants heavily</desc>
         <sp>
             <speaker>White Rabbit</speaker> Oh dear, oh dear, oh dear! I’m here, I should be
             there.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They watch him scurry away</desc>
         <sp>
             <speaker>White Rabbit</speaker> I’m late, I’m late, I’m late! The queen, she’ll have my
             head for sure!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They decide to follow him down the hall, where they reach a door, which reveals a
             smaller door underneath. They enter the Bizarre Room and see the White Rabbit scurrying
             across the tiled floor, several sizes smaller than before. The ticking sounds of a
@@ -1682,34 +1636,34 @@
             <speaker>Sora</speaker> How did he get so small?</sp>
         <sp>
             <speaker>Doorknob</speaker> No, you’re simply too big.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Donald jumps</desc>
         <sp>
             <speaker>Donald</speaker> It talks!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora looks at it in surprise and confusion. The doorknob yawns</desc>
         <sp>
             <speaker>Doorknob</speaker> Must you be so loud? You woke me up.</sp>
         <sp>
-            <speaker>Goofy (cheerfully)</speaker> Good morning.</sp>
+            <speaker>Goofy <desc>(cheerfully)</desc></speaker> Good morning.</sp>
         <sp>
             <speaker>Doorknob</speaker> Good night! I need a bit more sleep.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>It yawns again. Sora gets closer</desc>
         <sp>
             <speaker>Sora</speaker> Wait, what do we have to do to grow small?</sp>
         <sp>
             <speaker>Doorknob</speaker> Why don’t you try the bottle...over there?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora turns and sees a table and chair form out of the floor. Two bottles appear on the
             table. The trio drink from the blue bottle and shrink down to the size of the door.
             Heartless appear and they defeat them, but by that time, the doorknob has gone back to
-            sleep and the door will not open. They find another entrance to the Queen’s Castle.
-            Several soldiers stand guard as a trial is in progress inside a large hedge maze.
+            sleep and the door will not open. They find another entrance to the Queen’s
+            Castle.</desc>
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="25" location="Wonderland">
+        <desc> Several soldiers stand guard as a trial is in progress inside a large hedge maze.
             Several roses line the hedges, some red and some white. A procession of cards parts to
             allow the trio to enter as a small blond girl in a blue pinafore dress is standing at a
             defendant’s table. She looks up to the bench and is addressed by a large scary woman
@@ -1721,8 +1675,7 @@
             <speaker>Alice</speaker> I’m on trial? But why?</sp>
         <sp>
             <speaker>White Rabbit</speaker> Her Majesty, the Queen of Hearts, presiding!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The queen sits at the bench frowning in a red and black gown, holding a heart-shaped
             fan</desc>
         <sp>
@@ -1730,26 +1683,23 @@
             And the reason is...because, I say so, that’s why!</sp>
         <sp>
             <speaker>Alice</speaker> That is so unfair!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The queen taps her fan like a gavel</desc>
         <sp>
             <speaker>Queen of Hearts</speaker> Well, have you anything to say in your defense?</sp>
         <sp>
             <speaker>Alice</speaker> Of course! I’ve done absolutely nothing wrong!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Alice folds her arms and the White Rabbit gasps</desc>
         <sp>
             <speaker>Alice</speaker> You may be queen, but I’m afraid that doesn’t give you the
             right to be so...so mean!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The queen scowls</desc>
         <sp>
-            <speaker>Queen of Hearts (yelling)</speaker> Silence! You dare defy me?</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Queen of Hearts <desc>(yelling)</desc></speaker> Silence! You dare defy
+            me?</sp>
+
         <desc>She slams her fists on the bench</desc>
         <sp>
             <speaker>Sora</speaker> Hey, guys, we should help her out.</sp>
@@ -1764,59 +1714,53 @@
             <speaker>Goofy</speaker> Oh, yeah. A-hyuck! And that’s against the rules.</sp>
         <sp>
             <speaker>Queen of Hearts</speaker> The court finds the defendant...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She raises her fan</desc>
         <sp>
             <speaker>Queen of Hearts</speaker> Guilty as charged!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Alice looks astonished</desc>
         <sp>
             <speaker>Queen of Hearts</speaker> For the crimes of assault and attempted theft of my
             heart...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora gasps</desc>
         <sp>
-            <speaker>Queen of Hearts (yelling)</speaker> Off with her head!</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Queen of Hearts <desc>(yelling)</desc></speaker> Off with her head!</sp>
+
         <desc>She points to the girl and the Card Soldiers gather around her</desc>
         <sp>
             <speaker>Alice</speaker> No! No! Oh, please!</sp>
         <sp>
-            <speaker>Sora (running in)</speaker> Hold it right there!</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Sora <desc>(running in)</desc></speaker> Hold it right there!</sp>
+
         <desc>Donald and Goofy run after him</desc>
         <sp>
-            <speaker>Queen of Hearts (angrily)</speaker> Who are you? How dare you interfere with my
-            court?</sp>
+            <speaker>Queen of Hearts <desc>(angrily)</desc></speaker> Who are you? How dare you
+            interfere with my court?</sp>
         <sp>
             <speaker>Sora</speaker> Excuse me. But we know who the real culprit is!</sp>
         <sp>
             <speaker>Goofy</speaker> Uh-huh. It’s the Heartle—</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Goofy covers his mouth quickly and looks at Sora</desc>
         <sp>
             <speaker>Sora</speaker> Anyway, she’s not the one you’re looking for.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He points to Alice as the queen leans on the bench, tapping her finger</desc>
         <sp>
             <speaker>Queen of Hearts</speaker> That’s nonsense. Have you any proof?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She smirks at a speechless Sora and Alice is imprisoned in a cage next to the
             bench</desc>
+    </cutscene>
+
+    <cutscene type="Gameplay" cutNum="26" location="Wonderland">
         <sp>
             <speaker>Queen of Hearts</speaker> Bring me evidence of Alice’s innocence! Fail, and
             it’s off with all of your heads! Gather as much or little evidence as you please. Report
             back here once you’re ready.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora talks to Alice while a Card Soldier stands guard</desc>
         <sp>
             <speaker>Alice</speaker> Who are you?</sp>
@@ -1849,14 +1793,15 @@
         <sp>
             <speaker>Card Soldier</speaker> Enough! The defendant will be silent!</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="27" location="Wonderland">
         <desc>Sora, Donald, and Goofy enter the Lotus Forest and look around. A cat’s face appears
             out of thin air, except this cat was smiling widely. It’s head bounces around the area,
             in and out of vision, until resting atop a large tree stump. The cat’s body appears,
             standing on its head rather comically. It’s body is lined with purple stripes. It steps
             off and places its head back on its body, grinning incessantly</desc>
         <sp>
-            <speaker>Donald (yelling)</speaker> Who are you?</sp>
+            <speaker>Donald <desc>(yelling)</desc></speaker> Who are you?</sp>
         <sp>
             <speaker>Cheshire Cat</speaker> Who, indeed? Poor Alice. Soon to lose her head, and
             she’s not guilty of a thing!</sp>
@@ -1865,8 +1810,7 @@
         <sp>
             <speaker>Cheshire Cat</speaker> The Cheshire Cat has all the answers—but doesn’t always
             tell. The answer, the culprit, the cat all lie in darkness.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The cat vanishes</desc>
         <sp>
             <speaker>Sora</speaker> Wait!</sp>
@@ -1876,13 +1820,11 @@
             tricky. Big reward if you find them all.</sp>
         <sp>
             <speaker>Donald</speaker> Should we trust him?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The cat returns</desc>
         <sp>
             <speaker>Cheshire Cat</speaker> To trust, or not to trust? I trust you’ll decide!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He disappears. The trio defeats Heartless in the Lotus Forest before finding some
             Footprints near a large flower. After climbing to one of the tree tops, Sora finds a
             hole in the trunk of a tree. They enter it and find themselves in the Bizarre Room
@@ -1905,30 +1847,28 @@
             <speaker>Sora</speaker> What do you mean?</sp>
         <sp>
             <speaker>Cheshire Cat</speaker> I won’t tell. But I’ll give you something.</sp>
+        <desc>The Cheshire Cat gives them the Blizzard spell and disappears.</desc>
     </cutscene>
-    <cutscene>
-        <desc>The Cheshire Cat gives them the Blizzard spell and disappears. They return to the
-            Queen’s Castle and speak to a Card Soldier</desc>
+
+    <cutscene type="Gameplay" cutNum="28" location="Wonderland">
+        <desc>They return to the Queen’s Castle and speak to a Card Soldier</desc>
         <sp>
             <speaker>Card Soldier</speaker> Are you ready to present evidence before the queen?</sp>
         <sp>
             <speaker>Sora</speaker> Yes.</sp>
         <sp>
             <speaker>Card Soldier</speaker> Very well. Counsel, step up to the podium.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora stands at the defendant’s table, while Donald and Goofy are in a separate
             box</desc>
         <sp>
             <speaker>Queen of Hearts</speaker> Now, show me what you have found.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora presents their four items of evidence</desc>
         <sp>
             <speaker>Queen of Hearts</speaker> Well, that’s certainly a lot of evidence, but I’m
             still not impressed. Cards! Bring forth my evidence!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The cards present the queen’s box of evidence and the five boxes are shuffled around
             to Sora’s confusion</desc>
         <sp>
@@ -1940,8 +1880,7 @@
         <sp>
             <speaker>Queen of Hearts (yelling)</speaker> You dare object? Then you will lose your
             head! Now, choose! One box!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora chooses one of the boxes</desc>
         <sp>
             <speaker>Queen of Hearts</speaker> Are you certain? No second chances!</sp>
@@ -1949,8 +1888,7 @@
             <speaker>Sora</speaker> I’m sure.</sp>
         <sp>
             <speaker>Queen of Hearts</speaker> Now we shall see who the real culprit is.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Inside the box is a Soldier Heartless</desc>
         <sp>
             <speaker>Queen of Hearts</speaker> What in the world was that?</sp>
@@ -1958,62 +1896,56 @@
             <speaker>Sora</speaker> There’s your evidence. Alice is innocent.</sp>
         <sp>
             <speaker>Queen of Hearts</speaker> Rrrrrrrgh... Silence! I’m the law here!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She pounds on the bench</desc>
         <sp>
             <speaker>Queen of Hearts</speaker> Article 29: Anyone who defies the queen is
             guilty!</sp>
         <sp>
-            <speaker>Donald (jumping up and down)</speaker> That’s crazy!</sp>
+            <speaker>Donald <desc>(jumping up and down)</desc></speaker> That’s crazy!</sp>
         <sp>
-            <speaker>Queen of Hearts (shouting)</speaker> Seize them at once!</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Queen of Hearts <desc>(shouting)</desc></speaker> Seize them at once!</sp>
+
         <desc>The podiums and hedges disappear and a large crank tower rises from the floor. The Ten
             of Spades runs over to the tower’s gear and turns it, raising Alice’s cage at the bench.
             The queen lifts her fan and the cards leap into battle</desc>
         <sp>
             <speaker>Queen of Hearts</speaker> Cards! If they touch the tower, you lose your
             heads!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They begin attacking the red and black Card Soldiers who come at them with axes. After
             knocking a couple out, they flutter to the ground unconscious</desc>
         <sp>
             <speaker>Queen of Hearts</speaker> Get them, you fools! Quit joking around!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora runs up to the Queen of Hearts, who tries to fight back with magic from her fan.
             Sora dodges this and knocks her over, exposing her heart- patterned bloomers. At this
             point, the Card Soldiers freeze on the spot for fear of their queen. Sora runs back over
             and starts slamming the Keyblade into the crank tower, with each strike lowering Alice’s
             cage</desc>
         <sp>
-            <speaker>Queen of Hearts (angrily)</speaker> Why, you!</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Queen of Hearts <desc>(angrily)</desc></speaker> Why, you!</sp>
+
         <desc>Eventually, the tower starts to crack and shatters to pieces. The flamingo head
             holding up Alice’s cage drops to the ground and the curtain pulls back. Sora runs
             forward as the Queen of Hearts peers over the bench to see an empty cage</desc>
         <sp>
             <speaker>Donald</speaker> She must’ve gotten kidnapped while we were fighting.</sp>
         <sp>
-            <speaker>Queen of Hearts (slamming her fist)</speaker> You fools!</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Queen of Hearts <desc>(slamming her fist)</desc></speaker> You fools!</sp>
+
         <desc>The cards stand at attention</desc>
         <sp>
             <speaker>Queen of Hearts</speaker> Find the one who’s behind this! I don’t care
             how!</sp>
+
+        <desc>The Card Soldiers run in various directions at the queen’s orders.</desc>
     </cutscene>
-    <cutscene>
-        <desc>The Card Soldiers run in various directions at the queen’s orders. Sora talks to the
-            Card Soldier in charge of Alice’s detainment</desc>
+    <cutscene type="Normal" cutNum="29" location="Wonderland">
+        <desc>Sora talks to the Card Soldier in charge of Alice’s detainment</desc>
         <sp>
             <speaker>Card Soldier</speaker> I just looked away for a moment, and...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora, Donald, and Goofy walk back into the Lotus Forest and see a flower sneeze up a
             rock. It lands near the pond and the Cheshire Cat appears, standing on his front
             legs</desc>
@@ -2027,14 +1959,12 @@
             <speaker>Cheshire Cat</speaker> This way? That way? Does it matter? Left, right, up,
             down! All mixed up thanks to the shadows! Step deeper into the forest to the deserted
             garden. You might find shadows in the upside-down room!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The cat vanishes and Heartless appear again. Once they dispel the horde of creatures,
             they find a thirsty flower</desc>
         <sp>
             <speaker>Flower</speaker> Give me a potion and I’ll make you bigger.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora obliged and grew until he could almost touch the treetops. He knocks the boulder
             into the pond and more lily pads rise out of it. He finds a large nut at the top of a
             tree and uses his Keyblade to knock it down. He eats it and returns to Donald and
@@ -2055,8 +1985,7 @@
         <sp>
             <speaker>Cheshire Cat</speaker> They’re hiding somewhere. And the momeraths outgrabe.
             Want to find the shadows? Try turning on the light.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The cat vanishes and Sora jumps onto one of the lamps and lights it. The cat reappears
             on the other lamp</desc>
         <sp>
@@ -2065,32 +1994,27 @@
             <speaker>Sora</speaker> What next?</sp>
         <sp>
             <speaker>Cheshire Cat</speaker> One more lamp that you need to light.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The cat disappears and Sora lights the other lamp, summoning the cat once more</desc>
         <sp>
             <speaker>Cheshire Cat</speaker> All the lights are on. You’ll see the shadows soon.
             They’ll arise in this room, but somewhere else. The shadows might go after that
             doorknob, too.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The cat leaves and they make their way back to the Queen’s Castle to enter the correct
             way into the Bizarre Room. Upon entering the room, they spot the Cheshire Cat on the
             table</desc>
         <sp>
             <speaker>Cheshire Cat</speaker> You’ll have a better view from higher up.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora, Donald, and Goofy climb the table and the cat stands up</desc>
         <sp>
             <speaker>Cheshire Cat</speaker> The shadows should be here soon.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He taps his toes daintily on the table</desc>
         <sp>
             <speaker>Cheshire Cat</speaker> Are you prepared for the worst? If not, too bad!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He points upward and the enormous Trickmaster Heartless appears. It lands on the floor
             with its accordion-like hands and jumps over the table, landing on its large pointed
             boots. It stands up to its full height, towering over the table, unraveling both of its
@@ -2106,12 +2030,16 @@
             and Sora sends a Blizzard spell, effectively putting the fire out. After several more
             hits, the Trickmaster lowers its arms and falls to the ground. It attempts to stand, but
             crashes to the ground, its arms laying at its side. A large heart floats of its torso
-            and it disappears. Sora hears a noise behind him and turns, seeing the doorknob
-            yawning</desc>
+            and it disappears.</desc>
+    </cutscene>
+
+    <cutscene type="Gameplay" cutNum="30" location="Wonderland">
+        <desc>Sora hears a noise behind him and turns, seeing the doorknob yawning</desc>
+
         <sp>
             <speaker>Doorknob</speaker> What a racket. How’s a doorknob to get any sleep?</sp>
-    </cutscene>
-    <cutscene>
+
+
         <desc>It yawns widely and they see a Keyhole inside its mouth. A light shines around Sora’s
             Keyblade and it reacts with a will of its own, pointing at the Keyhole and releasing a
             beam of white light. They hear a locking sound and the doorknob finishes yawning</desc>
@@ -2119,22 +2047,19 @@
             <speaker>Donald</speaker> What was that?</sp>
         <sp>
             <speaker>Sora</speaker> You hear that? Sounded like something closed.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>A small green object falls to the ground in front of them, shining</desc>
         <sp>
             <speaker>Goofy</speaker> This gummi ain’t like the others. No, sir.</sp>
         <sp>
             <speaker>Donald</speaker> Okay, I’ll hold on to it.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Donald picks up the gummi block and the Cheshire Cat appears on the table, peering
             down at them</desc>
         <sp>
             <speaker>Cheshire Cat</speaker> Splendid. You’re quite the hero. If you’re looking for
             Alice, she’s not here. She’s gone! Off with the shadows, into darkness.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The cat vanishes with his grin</desc>
         <sp>
             <speaker>Sora</speaker> No...</sp>
@@ -2144,7 +2069,8 @@
         <sp>
             <speaker>Goofy</speaker> We've gotta go to a save point to return to our ship.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="31" location="Olympus Coliseum">
         <desc>Sora, Donald, and Goofy return to the gummi ship and travel to the Olympus Coliseum.
             They enter the Coliseum Gates, where two giant golden statues of gladiators clashing
             swords stand around the entrance. They walk across the grounds and enter the Coliseum.
@@ -2155,88 +2081,78 @@
         <sp>
             <speaker>Sora</speaker> Um...</sp>
         <sp>
-            <speaker>???? (without looking)</speaker> Good timing. Give me a hand, will ya? Move
-            that pedestal over there for me.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>???? <desc>(without looking)</desc></speaker> Good timing. Give me a hand, will
+            ya? Move that pedestal over there for me.</sp>
+
         <desc>He points to the pedestal, still facing the sign on the wall</desc>
         <sp>
             <speaker>????</speaker> I gotta spruce this place up for the games.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="32" location="Olympus Coliseum">
         <desc>Sora, Donald and Goofy walk over to the pedestal and attempt to move it, but it
             doesn’t budge</desc>
         <sp>
             <speaker>Sora</speaker> It weighs a ton!</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="33" location="Olympus Coliseum">
         <desc>They talk to the satyr again</desc>
         <sp>
             <speaker>Sora</speaker> It’s way too heavy!</sp>
         <sp>
             <speaker>????</speaker> What? Too heavy? Since when have you been such a little—</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He turns around, expecting to see someone much taller. He looks down at Sora</desc>
         <sp>
             <speaker>Philoctetes</speaker> Oh. Wrong guy. What’re you doing here?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He hops down to their level and gaits toward Donald, who backs away</desc>
         <sp>
             <speaker>Philoctetes</speaker> This here’s the world-famous Coliseum—heroes only! And I
             got my hands full preparing for the games. So run along, pip-squeaks.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora pouts and the satyr puts his hands on his hips</desc>
         <sp>
             <speaker>Philoctetes</speaker> Look, it’s like this.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He paces around</desc>
         <sp>
             <speaker>Philoctetes</speaker> Heroes are coming from all over to fight ferocious
             monsters right here in the Coliseum.</sp>
         <sp>
-            <speaker>Donald (crossing his arms)</speaker> You’ve got heroes standing right in front
-            of you.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Donald <desc>(crossing his arms)</desc></speaker> You’ve got heroes standing
+            right in front of you.</sp>
+
         <desc>Goofy places his hands on Sora’s shoulders, and Sora smiles</desc>
         <sp>
             <speaker>Goofy</speaker> Yup. He’s a real hero chosen by the Keyblade!</sp>
         <sp>
-            <speaker>Donald (pointing to himself)</speaker> And we’re heroes, too.</sp>
+            <speaker>Donald <desc>(pointing to himself)</desc></speaker> And we’re heroes, too.</sp>
         <sp>
-            <speaker>Philoctetes (shocked)</speaker> Hero? That runt?</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Philoctetes <desc>(shocked)</desc></speaker> Hero? That runt?</sp>
+
         <desc>He laughs loudly, slapping his large belly</desc>
         <sp>
             <speaker>Sora</speaker> What’s so funny? I’ve fought a bunch of monsters!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora pounds on his chest proudly</desc>
         <sp>
             <speaker>Philoctetes</speaker> Hey, if you can’t even move this...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He attempts to push the pedestal forward, making no progress</desc>
         <sp>
             <speaker>Philoctetes</speaker> You can’t call yourself...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He tries pushing with his back against it, his hooves slipping on the floor. Sora
             crosses his arms sternly</desc>
         <sp>
             <speaker>Philoctetes</speaker> A hero!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He wears himself out and sits on the ground, trying to catch his breath</desc>
         <sp>
             <speaker>Philoctetes</speaker> Okay, so it takes more than brawn.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He stands back up</desc>
         <sp>
             <speaker>Philoctetes</speaker> Well, well, let’s see what you can do. This trial is
@@ -2246,53 +2162,52 @@
         <sp>
             <speaker>Philoctetes</speaker> Okay, kid. Let’s see what you’ve got.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="33" location="Olympus Coliseum">
         <desc>They enter the Coliseum, where several piles of barrels are set up around the
             arena</desc>
         <sp>
             <speaker>Philoctetes</speaker> The rules are simple: Bust all the barrels within the
             time limit. Ready? Go!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora takes out all the barrels with seconds to spare</desc>
         <sp>
             <speaker>Philoctetes</speaker> Not bad! For a beginner, that is.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora blasts through a harder course</desc>
         <sp>
             <speaker>Philoctetes</speaker> Hey, you’re better than I thought!</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="34" location="Olympus Coliseum">
         <desc>They return to the Lobby</desc>
         <sp>
             <speaker>Philoctetes</speaker> You know, you ain’t bad, kid.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora scratches his head, chuckling</desc>
         <sp>
             <speaker>Sora</speaker> Looks like I’m headed for the games.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora puts his hands behind his head, smiling</desc>
         <sp>
             <speaker>Philoctetes</speaker> Afraid not.</sp>
         <sp>
-            <speaker>Sora (surprised)</speaker> Why not?</sp>
+            <speaker>Sora <desc>(surprised)</desc></speaker> Why not?</sp>
         <sp>
             <speaker>Philoctetes</speaker> Two words: You guys ain’t heroes.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Goofy counts on his fingers</desc>
         <sp>
             <speaker>Sora</speaker> Come on!</sp>
+
         <sp>
             <speaker>Philoctetes</speaker> Wanna become a real hero? Start by mastering this
             spell.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Phil gives them the Thunder spell and they walk outside, stopping when they hear a
             voice</desc>
+    </cutscene>
+    <cutscene type="Normal" cutNum="35" location="Olympus Coliseum">
         <sp>
             <speaker>Hades</speaker> Rather a stubborn old goat, wouldn’t you say?</sp>
         <sp>
@@ -2300,26 +2215,24 @@
         <sp>
             <speaker>Hades</speaker> Whoa, hold on there, fuzz boy. Wait, let me guess. You want to
             enter the games, right?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He walks over to them, the blue flame dancing on his head. He stands behind Sora,
             placing his long-fingered hand on his shoulder</desc>
         <sp>
             <speaker>Hades</speaker> Well, then, hey, get a load of this.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>A piece of papyrus appears in Hades’s hand, much to Sora’s surprise</desc>
         <sp>
             <speaker>Sora</speaker> A pass?</sp>
         <sp>
             <speaker>Hades</speaker> It’s all yours.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He starts to leave after giving him the Entry Pass</desc>
         <sp>
             <speaker>Hades</speaker> Good luck, kid. I’m pulling for you, little shorty.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="36" location="Olympus Coliseum">
         <desc>They run back inside and talk to Phil, giving him the Entry Pass</desc>
         <sp>
             <speaker>Philoctetes</speaker> Hey, how’d you get this?</sp>
@@ -2328,23 +2241,20 @@
         <sp>
             <speaker>Philoctetes</speaker> Well... I guess so. We start with the preliminaries! Some
             real weirdos signed up for the games. Better watch yourself.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora, Donald, and Goofy fight through the starting matches of the preliminaries.
             Afterward, they talk to Phil in the Coliseum</desc>
         <sp>
             <speaker>Philoctetes</speaker> You’re no heroes yet, but you ain’t doing bad. Lucky you
             came to me for coaching.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Phil strokes his goatee as a soldier enters the arena. Sora stares at him and he
             stares back through spiky blond hair, his long red cape flying behind him, boots digging
             into the ground</desc>
         <sp>
             <speaker>Philoctetes</speaker> Something tells me he’ll be a tough one to beat. Who
             knows, maybe you’ll end up facing him.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The trio fights through more matches and speaks with Phil</desc>
         <sp>
             <speaker>Philoctetes</speaker> Say, you’re better than I thought, kid! Wish he was here
@@ -2355,13 +2265,13 @@
             <speaker>Philoctetes</speaker> Hercules. He’s a hero if ever there was one. Too bad he’s
             off visiting his father.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="37" location="Olympus Coliseum">
         <desc>They fight through more of the preliminaries and celebrate while Hades watches from
             the barracks</desc>
         <sp>
             <speaker>Hades</speaker> That little punk is your next opponent, okay?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The blond soldier leans against the wall next to him</desc>
         <sp>
             <speaker>Hades</speaker> Now, don’t blow it. Just take him out.</sp>
@@ -2369,36 +2279,34 @@
             <speaker>Cloud</speaker> The great god of the Underworld is afraid of a kid? Sorry, but
             my contract says—</sp>
         <sp>
-            <speaker>Hades (snappy)</speaker> I know! You think I don’t know? I wrote the contract!
-            I know it says you’re only required to kill Hercules in this tournament. But you’ve
-            gotta fight that kid to get to him. Come on.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Hades <desc>(snappy)</desc></speaker> I know! You think I don’t know? I wrote
+            the contract! I know it says you’re only required to kill Hercules in this tournament.
+            But you’ve gotta fight that kid to get to him. Come on.</sp>
+
         <desc>He points to Sora, who is talking to Phil and scratching his head</desc>
         <sp>
             <speaker>Hades</speaker> Hey, it’s like that old goat says: Rule 11: It’s all just a
             game, so let loose and have fun with it!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He punches the air</desc>
         <sp>
             <speaker>Hades</speaker> I mean, a casualty along the way is no big deal, right?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He smiles and Cloud stands up and walks away</desc>
         <sp>
             <speaker>Hades</speaker> Geez. Stiffer than the stiffs back home. Still, suckers like
             him are hard to come by...</sp>
+
+        <desc>In the darkness behind him, a large creature snarls.</desc>
     </cutscene>
-    <cutscene>
-        <desc>In the darkness behind him, a large creature snarls. Sora, Donald, and Goofy finish
-            the preliminaries and enter the final match against Cloud. Sora attacks with his
-            Keyblade, while Goofy moves in with his shield. Cloud swings his giant sword and knocks
-            them both back</desc>
+
+    <cutscene type="Gameplay" cutNum="38" location="Olympus Coliseum">
+        <desc>Sora, Donald, and Goofy finish the preliminaries and enter the final match against
+            Cloud. Sora attacks with his Keyblade, while Goofy moves in with his shield. Cloud
+            swings his giant sword and knocks them both back</desc>
         <sp>
             <speaker>Cloud</speaker> That’s the best you can do?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora slides forward and strikes, but he dodges backward and jumps into the air. Cloud
             slams his sword into the ground with unnatural strength, knocking out Donald. Giving a
             loud yell, Cloud surges forward and strikes, knocking Goofy out before he can heal
@@ -2414,26 +2322,22 @@
         <sp>
             <speaker>Hades</speaker> Oh, right, there was one other rule I forgot: Accidents
             happen.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The beast moves in to attack Sora, but is pushed back by an incredibly strong
             man</desc>
         <sp>
             <speaker>Philoctetes</speaker> Herc!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Hercules holds back the monster, shouting to Phil</desc>
         <sp>
             <speaker>Hercules</speaker> Phil, get them out of here!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The four of them race out of the Coliseum</desc>
         <sp>
             <speaker>Philoctetes</speaker> Whew, that was close! That was Cerberus, the guardian of
             the Underworld. Herc should be able to handle him. But then again, maybe not... This
             doesn’t look good. I hope Herc’s okay. Wish I could go in!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora starts to run back into the Coliseum</desc>
         <sp>
             <speaker>Philoctetes</speaker> Kid, you’re not entering the arena, are ya? This ain’t
@@ -2442,16 +2346,14 @@
             <speaker>Sora</speaker> I’m not afraid. You can decide if I’m hero material or not.</sp>
         <sp>
             <speaker>Philoctetes</speaker> Careful, kid!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora and company reenters the Coliseum arena, where Hercules has Cloud slung over his
             shoulder, Cerberus’s giant jaws bearing down on him, inches away. The beast’s ears perk
             up, hearing their entrance and they turn around, allowing Hercules to run Cloud to the
             Lobby, past Phil</desc>
         <sp>
             <speaker>Philoctetes</speaker> Kid, I got two words of advice for you: Attack!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Cerberus roars and stomps around the arena, sending large fireballs at Sora, Donald,
             and Goofy. Sora manages to stay out of the beast’s path, Donald sending Thunder spells
             at its three heads. One of the fireballs heads Sora’s way, and he deflects it with his
@@ -2462,9 +2364,12 @@
             of its mouth and into the ground. Sora rolls to dodge as the energy pools and shoots up
             from under him. Goofy, finding a way on top of the beast, sends his shield flying at the
             multiple heads. Sora moves in as it tries to bite at Goofy and knocks out the beast,
-            which falls to the ground loudly. Later, Hercules and Phil are addressing Sora, Donald,
-            and Goofy in the Lobby. Phil reads from a piece of papyrus as Hercules stands with his
-            arms crossed</desc>
+            which falls to the ground loudly.</desc>
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="39" location="Olympus Coliseum">
+        <desc>Later, Hercules and Phil are addressing Sora, Donald, and Goofy in the Lobby. Phil
+            reads from a piece of papyrus as Hercules stands with his arms crossed</desc>
         <sp>
             <speaker>Philoctetes</speaker> Thus, I do hereby dub thee junior heroes, and confer upon
             thee full rights and privileges to participate in the games. Further—</sp>
@@ -2478,106 +2383,97 @@
         <sp>
             <speaker>Hercules</speaker> Well, that’s just something you’ll have to find out for
             yourselves. Just the way that I did.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He smiles</desc>
+
         <sp>
             <speaker>Sora</speaker> No problem. We’ll start by proving ourselves in the games.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora smiles, lifting a fist proudly</desc>
+
         <sp>
             <speaker>Philoctetes</speaker> There ain’t gonna be any games for a while.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He motions to the <q>closed</q> sign over the arena entrance</desc>
         <sp>
             <speaker>Philoctetes</speaker> Gotta clean up the mess from that last battle first.</sp>
         <sp>
             <speaker>Sora</speaker> Okay, we’ll be back.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He waves, and the three of them leave as Hercules waves goodbye and Phil strokes his
             beard</desc>
         <sp>
             <speaker>Philoctetes</speaker> I still can’t believe that squirt actually beat
             Cerberus.</sp>
         <sp>
-            <speaker>Hercules (to Phil)</speaker> Just between us, I’d already worn Cerberus down by
-            the time the little guy jumped in.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Hercules <desc>(to Phil)</desc></speaker> Just between us, I’d already worn
+            Cerberus down by the time the little guy jumped in.</sp>
+
         <desc>The door closes</desc>
         <sp>
             <speaker>Philoctetes</speaker> My lips are sealed.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="40" location="Olympus Coliseum">
         <desc>At the Coliseum Gates, Sora sees Cloud sitting near the exit and walks up to
             him</desc>
         <sp>
             <speaker>Sora</speaker> Hey, are you all right?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Cloud looks up to see him</desc>
         <sp>
             <speaker>Cloud</speaker> Yeah.</sp>
         <sp>
             <speaker>Sora</speaker> So why did you go along with him, anyway?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He leans his head pensively on his hands</desc>
         <sp>
             <speaker>Cloud</speaker> I’m looking for someone. Hades promised to help. I tried to
             exploit the power of darkness, but it backfired.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He stands up and looks to the sky</desc>
         <sp>
             <speaker>Cloud</speaker> I fell into darkness, and I couldn’t find the light.</sp>
         <sp>
             <speaker>Sora</speaker> You’ll find it. I’m searching, too.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He looks back at Sora</desc>
         <sp>
             <speaker>Cloud</speaker> For your light?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora nods and Cloud moves closer to him, placing something in his hand</desc>
         <sp>
             <speaker>Cloud</speaker> Don’t lose sight of it.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He starts to walk away, and Sora nods and looks in his hand</desc>
         <sp>
             <speaker>Sora</speaker> How about a rematch sometime? Fair and square, no dark powers
             involved.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He moves toward Cloud, waving his hand in the air. Cloud turns his head, running a
             hand through his hair</desc>
         <sp>
             <speaker>Cloud</speaker> I think I’ll pass.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Despite this answer, Sora smiles as Cloud leaves. With Sonic Blade in hand, Sora exits
-            the Coliseum, the doors slamming behind them. Later that night, Hades stands in the
-            Coliseum Gates, fuming. He holds a Hercules statue in his hand</desc>
+            the Coliseum, the doors slamming behind them.</desc>
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="41" location="Olympus Coliseum">
+        <desc>Later that night, Hades stands in the Coliseum Gates, fuming. He holds a Hercules
+            statue in his hand</desc>
         <sp>
             <speaker>Hades</speaker> He’s strong, he’s kind.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The statue flexes his muscles</desc>
         <sp>
             <speaker>Hades</speaker> He’s always there for you, and he’s handsome to boot.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The statue crosses his arms and winks</desc>
         <sp>
             <speaker>Hades</speaker> He’s perfect. Perfect. Perfectly infuriating! He makes me
             crazy.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Hades turns red, roasting the statue. The hair on his head blazing hot, he explodes in
             a burst of flames. As the smoke settles around him, he catches his breath and returns to
             his cool blue shade</desc>
@@ -2585,8 +2481,7 @@
             <speaker>Hades</speaker> Wait a minute. What are you worried about? All the pieces are
             in place. Relax. Here’s what you do. Let Hercules train the kid. In the next games, I’ll
             take care of them both.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He makes a fist as the horned witch appears behind him, her staff held firmly in her
             hands</desc>
         <sp>
@@ -2594,10 +2489,13 @@
             show.</sp>
         <sp>
             <speaker>??????????</speaker> As you wish. Fight to your heart’s content.</sp>
+
+        <desc>Hades smirks, nodding, before noting the witch’s tone, and scowling as she
+            disappears.</desc>
     </cutscene>
-    <cutscene>
-        <desc>Hades smirks, nodding, before noting the witch’s tone, and scowling as she disappears.
-            Sora pilots the Gummi Ship to the next world. They hover over the world and see that
+
+    <cutscene type="Gameplay" cutNum="42" location="Interspace">
+        <desc>Sora pilots the Gummi Ship to the next world. They hover over the world and see that
             it’s a Deep Jungle</desc>
         <sp>
             <speaker>Goofy</speaker> Hey, Donald, maybe King Mickey’s down there.</sp>
@@ -2614,31 +2512,27 @@
             <speaker>Donald</speaker> No!</sp>
         <sp>
             <speaker>Sora</speaker> Come on!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora and Donald fight over the controls of the ship</desc>
         <sp>
             <speaker>Donald</speaker> Aw, phooey!</sp>
         <sp>
             <speaker>Sora</speaker> We’re landing!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The ship starts to shake and decend</desc>
         <sp>
             <speaker>Donald</speaker> Don’t touch that! Nooo!</sp>
     </cutscene>
-    <cutscene>
+    <cutscene type="Normal" cutNum="43" location="Deep Jungle">
         <desc>The ship hurtles toward the world and Sora falls out of it into a large treehouse,
             crashing through the roof. He sits on the floor, rubbing his head</desc>
         <sp>
             <speaker>Sora</speaker> Oww...my head...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He looks around</desc>
         <sp>
             <speaker>Sora</speaker> Donald? Goofy?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Out of the rafters a claw appears. Sora looks up in time to see a leopard pouncing in
             his direction. Sora leaps up and blocks with his Keyblade. He jumps back as the leopard
             lands on the wooden floor and knocks Sora away. The leopard roars and tries to claw at
@@ -2656,63 +2550,55 @@
         <sp>
             <speaker>Sora</speaker> Um...thank you.</sp>
         <sp>
-            <speaker>?????? (slowly)</speaker> Thank you.</sp>
+            <speaker>?????? <desc>(slowly)</desc></speaker> Thank you.</sp>
         <sp>
             <speaker>Sora</speaker> Huh? Uh, what is this place?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The man moves closer to Sora, awkwardly invading his personal space</desc>
         <sp>
             <speaker>??????</speaker> This place, this place.</sp>
         <sp>
             <speaker>Sora</speaker> Okaaay... Where did the others go?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He gets no response from the wild man</desc>
         <sp>
             <speaker>Sora</speaker> Look, I got separated from my friends. Have you seen them?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The man looks confused</desc>
         <sp>
-            <speaker>Sora (miming)</speaker> Friends...</sp>
+            <speaker>Sora <desc>(miming)</desc></speaker> Friends...</sp>
         <sp>
-            <speaker>?????? (mimicking)</speaker> Friends!</sp>
+            <speaker>?????? <desc>(mimicking)</desc></speaker> Friends!</sp>
         <sp>
             <speaker>Sora</speaker> Right, my friends! There’s two of ‘em. The loud one is
             Dona—</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He stops, remembering the fight on the ship</desc>
         <sp>
             <speaker>Sora</speaker> You know what? Never mind. I’m looking for my friends, Riku and
             Kairi.</sp>
         <sp>
-            <speaker>?????? (slowly)</speaker> Look for Riku, friends?</sp>
+            <speaker>?????? <desc>(slowly)</desc></speaker> Look for Riku, friends?</sp>
         <sp>
             <speaker>Sora (nodding)</speaker> Right!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>In a beam of light shining in from the rafters behind the man, Sora sees an image of
             Kairi</desc>
         <sp>
             <speaker>??????</speaker> Kairi, friends?</sp>
         <sp>
             <speaker>Sora</speaker> Uhh...right...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He looks at the man, then back at Kairi, who walks away</desc>
         <sp>
             <speaker>??????</speaker> Friends here.</sp>
         <sp>
             <speaker>Sora</speaker> Really!?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The man speaks something in Mangani</desc>
         <sp>
             <speaker>Sora</speaker> Huh?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The man repeats</desc>
         <sp>
             <speaker>??????</speaker> Friends here.</sp>
@@ -2720,105 +2606,97 @@
             <speaker>Sora</speaker> Not sure I understand, but show me! Take me to Riku and
             Kairi!</sp>
         <sp>
-            <speaker>?????? (pointing to himself)</speaker> Tarzan. Tarzan go.</sp>
+            <speaker>?????? <desc>(pointing to himself)</desc></speaker> Tarzan. Tarzan go.</sp>
         <sp>
-            <speaker>Sora (pointing to himself)</speaker> And I’m...Sora. Tarzan go, Sora go
-            go!</sp>
+            <speaker>Sora <desc>(pointing to himself)</desc></speaker> And I’m...Sora. Tarzan go,
+            Sora go go!</sp>
+
+        <desc>Tarzan opens the door and they leave the Tree House.</desc>
     </cutscene>
-    <cutscene>
-        <desc>Tarzan opens the door and they leave the Tree House. Meanwhile, Donald and Goofy wake
-            up on a mound in a Bamboo Thicket</desc>
+
+    <cutscene type="Normal" cutNum="44" location="Deep Jungle">
+        <desc>Meanwhile, Donald and Goofy wake up on a mound in a Bamboo Thicket</desc>
         <sp>
             <speaker>Goofy</speaker> Gawrsh, where are we?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He looks to the sky</desc>
         <sp>
             <speaker>Goofy</speaker> I sure hope Sora’s okay.</sp>
         <sp>
-            <speaker>Donald (sitting up)</speaker> Aw, who needs him? We can find the king without
-            him.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Donald <desc>(sitting up)</desc></speaker> Aw, who needs him? We can find the
+            king without him.</sp>
+
         <desc>He feels something soft on the edge of the mound while reaching for his magic
             wand</desc>
         <sp>
             <speaker>Donald</speaker> Huh?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He looks down and comes face to face with a young gorilla. They both scream and he and
             Goofy hear a rustling in the jungle. As the gorilla runs away, it leaves a gummi block
             behind. Donald looks over and sees it shining on the ground. The rustling continues and
-            the two swallow hard in fear as a tall man carrying a rifle enters the thicket. Tarzan
-            jumps from the balcony of the treehouse, crawling over the netting below, and leads Sora
-            down the tree by sliding on its branches. They land at camp, where several tables with
-            equipment are laid out near a group of tents. They enter an orange tent and see a woman
-            fumbling with a projector</desc>
+            the two swallow hard in fear as a tall man carrying a rifle enters the thicket.</desc>
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="45" location="Deep Jungle">
+        <desc>Tarzan jumps from the balcony of the treehouse, crawling over the netting below, and
+            leads Sora down the tree by sliding on its branches. They land at camp, where several
+            tables with equipment are laid out near a group of tents. They enter an orange tent and
+            see a woman fumbling with a projector.</desc>
         <sp>
             <speaker>Tarzan</speaker> Jane!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She spins around to see him</desc>
         <sp>
             <speaker>Jane</speaker> Tarzan!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She sees Sora</desc>
         <sp>
             <speaker>Jane</speaker> Oh, and who is this?</sp>
         <sp>
             <speaker>Sora</speaker> Uh, hi there. I’m—</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She bends down to talk to him</desc>
         <sp>
             <speaker>Jane</speaker> Oh, you speak English! So, then, obviously, you’re not related
             to Tarzan...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Tarzan and Sora exchange glances</desc>
         <sp>
             <speaker>Jane</speaker> Are you here to study the gorillas?</sp>
         <sp>
             <speaker>???????</speaker> Highly doubtful.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They look over to see the tall man with the rifle enter the tent, with Donald and
             Goofy in tow</desc>
         <sp>
             <speaker>Goofy</speaker> Sora!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora rushes over and locks hands with Donald</desc>
         <sp>
             <speaker>Sora</speaker> Goofy! Donald!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora and Donald realize what they’re doing and part, crossing their arms to Goofy’s
             surprise. They scowl with their backs turned</desc>
         <sp>
             <speaker>???????</speaker> A circus of clowns. Not much use for hunting gorillas.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The tall man walks back outside</desc>
         <sp>
-            <speaker>Jane (frowning)</speaker> Mr. Clayton, we’re studying them, not hunting them.
-            This is research.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Jane <desc>(frowning)</desc></speaker> Mr. Clayton, we’re studying them, not
+            hunting them. This is research.</sp>
+
         <desc>She sighs</desc>
         <sp>
             <speaker>Jane</speaker> Well, the more the merrier. Do make yourselves at home.</sp>
         <sp>
             <speaker>Sora</speaker> Well, anyway...</sp>
         <sp>
-            <speaker>Donald &amp; Sora (grouchily)</speaker> I’m staying.</sp>
+            <speaker>Donald &amp; Sora <desc>(grouchily)</desc></speaker> I’m staying.</sp>
         <sp>
-            <speaker>Sora (surprised)</speaker> Huh?</sp>
+            <speaker>Sora <desc>(surprised)</desc></speaker> Huh?</sp>
         <sp>
             <speaker>Goofy</speaker> Sora, look what we found. Look at this.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He holds out the red gummi block</desc>
         <sp>
             <speaker>Sora</speaker> What’s that?</sp>
@@ -2832,7 +2710,8 @@
         <sp>
             <speaker>Sora</speaker> Fine. I’ll let you tag along. For now.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="46" location="Deep Jungle">
         <desc>Sora talks to Jane</desc>
         <sp>
             <speaker>Jane</speaker> Apparently Tarzan was raised in the jungle by the gorillas.
@@ -2845,42 +2724,40 @@
             <speaker>Sora</speaker> He said Riku and Kairi are here. And one word I couldn’t
             understand...</sp>
         <sp>
-            <speaker>Jane (showing them the projector)</speaker> Why don’t we try this? We’ll show
-            Tarzan some slides and see if any of them match that word. Oh, what happened to the
-            slides?</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Jane <desc>(showing them the projector)</desc></speaker> Why don’t we try this?
+            We’ll show Tarzan some slides and see if any of them match that word. Oh, what happened
+            to the slides?</sp>
+
         <desc>Sora and company search for the slides around the campsite. They talk to Clayton
             during their search</desc>
         <sp>
             <speaker>Clayton</speaker> Clayton’s the name. I’m a hunter, not a researcher. What? No,
             I am not trying to hunt the gorillas. But they’re so rare! I’d just like to get a look
             at them.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They return to the tent and give Jane the slides. The first shows a radiant castle,
             which stirs something within Sora</desc>
         <sp>
             <speaker>Goofy</speaker> What’s wrong, Sora?</sp>
         <sp>
-            <speaker>Sora</speaker> What? Um...nothing. (thinking) This place... It just looks so
-            familiar. But how? I’ve never been off my island.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Sora</speaker> What? Um...nothing. <desc>(thinking)</desc> This place... It
+            just looks so familiar. But how? I’ve never been off my island.</sp>
+
         <desc>They show the rest of the slides to Tarzan</desc>
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="47" location="Deep Jungle">
         <sp>
             <speaker>Jane</speaker> Well, Tarzan?</sp>
         <sp>
             <speaker>Sora</speaker> Where are my friends, Riku and Kairi?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Tarzan shakes his head</desc>
         <sp>
             <speaker>Sora</speaker> Hey, I thought—</sp>
         <sp>
-            <speaker>Clayton (entering)</speaker> That leaves just one place.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Clayton <desc>(entering)</desc></speaker> That leaves just one place.</sp>
+
         <desc>Sora looks up at him</desc>
         <sp>
             <speaker>Clayton</speaker> Young man, we’ve been in this jungle for some time now. But
@@ -2890,13 +2767,11 @@
             <speaker>Jane</speaker> Really, Mr. Clayton. Tarzan wouldn’t hide—</sp>
         <sp>
             <speaker>Clayton</speaker> Then take us there! Take us to the gorillas.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He walks up to Tarzan</desc>
         <sp>
-            <speaker>Clayton (miming)</speaker> Go-ril-las.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Clayton <desc>(miming)</desc></speaker> Go-ril-las.</sp>
+
         <desc>Tarzan looks over at Sora and nods</desc>
         <sp>
             <speaker>Jane</speaker> Tarzan...are you sure?</sp>
@@ -2908,7 +2783,8 @@
             <speaker>Clayton</speaker> He must be the leader. Perfect. I’ll go along as an escort.
             After all, the jungle is a dangerous place.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="48" location="Deep Jungle">
         <desc>He smiles and they leave the tent. Sabor attacks, but is sent scurrying back into the
             jungle. They enter the Hippos’ Lagoon and find more Dalmatian puppies. They find some
             climbable ivy and take it into a higher area of the trees. Tarzan finds Kerchak and Kala
@@ -2918,8 +2794,7 @@
             <speaker>Tarzan</speaker> Kerchak, please listen to me. I know the nesting ground is
             secret, but I trust them. You see, I want to help them because...because... well, they
             need us.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>His blue eyes show deep concern for the strangers like him. Kala looks over to
             Kerchak, who continues to glower. Goofy leans over to Sora and Donald</desc>
         <sp>
@@ -2928,21 +2803,25 @@
             <speaker>Donald</speaker> No.</sp>
         <sp>
             <speaker>Tarzan</speaker> Kerchak.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Kerchak turns his head silently towards the treetops, sensing something. He starts to
             leave</desc>
         <sp>
-            <speaker>Tarzan (defeated)</speaker> Kerchak...</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Tarzan <desc>(defeated)</desc></speaker> Kerchak...</sp>
+
         <desc>Kala looks back at Tarzan sadly and follows Kerchak. Tarzan hangs his head</desc>
-        <sp>
-            <speaker>Goofy (thinking)</speaker> He seemed sorta distracted by something.</sp>
-        <sp>
-            <speaker>Donald (thinking)</speaker> Was he looking toward the tree house?</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="49" location="Deep Jungle">
+        <sp>
+            <speaker>Goofy <desc>(thinking)</desc></speaker> He seemed sorta distracted by
+            something.</sp>
+        <sp>
+            <speaker>Donald <desc>(thinking)</desc></speaker> Was he looking toward the tree
+            house?</sp>
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="50" location="Deep Jungle">
         <desc>Inside the tree house, the young gorilla is playing with a globe. Clayton’s rifle
             glints in the sunlight as the unknowing gorilla continues playing. Donald runs to the
             tree house and screams just as Clayton fires. His aim off, the bullet narrowly misses
@@ -2951,66 +2830,66 @@
             <speaker>Donald</speaker> What’s the big idea?</sp>
         <sp>
             <speaker>Tarzan</speaker> Wait, Kerchak. Please!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Kerchak walks away, scowling. Terk follows him as Donald glares at Clayton. Tarzan
             turns toward Clayton, frowning</desc>
         <sp>
-            <speaker>Clayton (miming nervously)</speaker> You don’t understand. I was only trying
-            to... Ah. A snake slithered by, you see. I saved that poor gorilla’s life.</sp>
+            <speaker>Clayton <desc>(miming nervously)</desc></speaker> You don’t understand. I was
+            only trying to... Ah. A snake slithered by, you see. I saved that poor gorilla’s
+            life.</sp>
+
+        <desc>Tarzan lowers his head.</desc>
     </cutscene>
-    <cutscene>
-        <desc>Tarzan lowers his head. The group returns to the tent and tells Jane everything</desc>
+
+    <cutscene type="Normal" cutNum="51" location="Deep Jungle">
+        <desc>The group returns to the tent and tells Jane everything</desc>
+
         <sp>
-            <speaker>Jane (angrily)</speaker> How could you do such a thing!</sp>
+            <speaker>Jane <desc>(angrily)</desc></speaker> How could you do such a thing!</sp>
         <sp>
             <speaker>Clayton</speaker> Now, Miss Porter, as I told you, I was not aiming at the
             gorilla.</sp>
         <sp>
-            <speaker>Jane (angrily)</speaker> You are not to go near the gorillas again!</sp>
+            <speaker>Jane <desc>(angrily)</desc></speaker> You are not to go near the gorillas
+            again!</sp>
         <sp>
             <speaker>Clayton</speaker> All because of one mishap? Come, now...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Everyone glares at him and he drops his smirk. He laughs nervously and backs out of
             the tent. Turning away to leave, he grins cruelly. As he exits the tent, he takes out
             his rifle</desc>
         <sp>
             <speaker>Clayton</speaker> What am I doing with these imbeciles?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He stares out into the jungle</desc>
         <sp>
             <speaker>Clayton</speaker> Blasted gorillas! I’ll hunt down every last one of them! I’ll
             track them down somehow.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He takes out a pipe from his back pocket</desc>
         <sp>
             <speaker>Clayton</speaker> I’ll stake my life on it.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="52" location="Deep Jungle">
         <desc>He hears a rustling from the jungle and stops before the pipe reaches his mouth. He
             puts it away and listens for the source of the noise. He aims his rifle into the jungle
             as the noise gets closer, and the shot rings out loud and clear. Sora, Donald, Goofy,
             and Tarzan run outside and see a gorilla surrounded by monkey-like creatures</desc>
         <sp>
             <speaker>Sora</speaker> Heartless!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They notice Sora and attack the group as the gorilla hides. They defeat the Heartless
             and the gorilla thanks them with a gummi block. Sora speaks to Jane</desc>
         <sp>
             <speaker>Jane</speaker> Don’t mind Mr. Clayton. He’s not a bad person—just a bit
             impetuous.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They search around the jungle, protecting the rest of the gorillas from the Heartless.
             They return to the tent</desc>
         <sp>
             <speaker>Jane</speaker> I do hope Mr. Clayton is safe...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They exit the tent and hear a gunshot from the direction of the Bamboo Thicket. They
             run into the thicket and find Clayton’s pipe on the mound in the center. A shadow leaps
             over them and Sabor lands, roaring at them, teeth bared. It claws the air towards Sora,
@@ -3019,11 +2898,14 @@
             out and Tarzan assaults it with his spear, spinning it wildly. Goofy tackles it with his
             shield and it tries to bite him. They continue attacking it until it slows down, its
             vision going blurry. Sabor looks up to the sun, falling unconscious, and collapses to
-            the ground, losing a fang in the process. Meanwhile, Terk runs through the campsite past
-            numerous Heartless and into the tent, frightening Jane and knocking her to the ground.
-            Jane looks to see that the gorilla is alright before someone enters the tent. Jane looks
-            up, terrified, and holds Terkina tightly. Sora and company return to camp to find the
-            tent empty</desc>
+            the ground, losing a fang in the process.</desc>
+    </cutscene>
+
+    <cutscene type="Gameplay" cutNum="53" location="Deep Jungle">
+        <desc>Meanwhile, Terk runs through the campsite past numerous Heartless and into the tent,
+            frightening Jane and knocking her to the ground. Jane looks to see that the gorilla is
+            alright before someone enters the tent. Jane looks up, terrified, and holds Terkina
+            tightly. Sora and company return to camp to find the tent empty</desc>
         <sp>
             <speaker>Sora</speaker> Hey, where’s Jane?</sp>
         <sp>
@@ -3033,14 +2915,12 @@
             house.</sp>
         <sp>
             <speaker>Donald</speaker> Sounds like trouble. Let’s go.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They race to an area in the tree tops loaded with plant life. Jane and Terk are
             imprisoned in a web of vines</desc>
         <sp>
             <speaker>Jane</speaker> Tarzan!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>A large black fruit is attached to the tree trunk in the middle of the area. They take
             out both the Heartless and the suspicious fruit, releasing Jane and Terk from their
             cage. Light flows into the canopy as they talk to Jane</desc>
@@ -3048,33 +2928,31 @@
             <speaker>Jane</speaker> Clayton came to the tent, and... That’s the last thing I
             remember.</sp>
         <sp>
-            <speaker>Sora (surprised)</speaker> Clayton?</sp>
+            <speaker>Sora <desc>(surprised)</desc></speaker> Clayton?</sp>
         <sp>
             <speaker>Tarzan</speaker> Gorillas trapped. Terk ran.</sp>
         <sp>
             <speaker>Jane</speaker> We must help the gorillas!</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="54" location="Deep Jungle">
         <desc>They run to the cliff area, where the gorillas have been rounded up by Clayton and the
             Heartless. Clayton loads and cocks his rifle, aiming it at Kala. Kerchak roars as
             Heartless pounce in his direction. Clayton puts his finger on the trigger as Sora runs
             in</desc>
         <sp>
             <speaker>Sora</speaker> No!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Clayton looks over to Sora and Kala and Kerchak walk away</desc>
         <sp>
             <speaker>Sora</speaker> Clayton?</sp>
         <sp>
             <speaker>Tarzan</speaker> Not Clayton!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He says something in Mangani again</desc>
         <sp>
             <speaker>Tarzan</speaker> Not Clayton!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Clayton gives out a yell and the fight begins. Donald, Goofy, and Tarzan go after the
             Heartless, while Sora takes on Clayton. The hunter fights back, aiming his rifle at them
             before the cliff behind them explodes. Tarzan rushes forward, but is knocked back by an
@@ -3086,8 +2964,7 @@
             reels backward, knocking Clayton from its back</desc>
         <sp>
             <speaker>Clayton</speaker> Lazy beast!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The Stealth Sneak Heartless fell to the ground as Clayton picks himself up. He aims at
             Sora, but is tackled by Goofy’s shield. Sora strikes the Heartless with a flurry of
             attacks while Donald casts magic spells. Tarzan faces Clayton and forces him towards the
@@ -3103,45 +2980,42 @@
         <sp>
             <speaker>Tarzan</speaker> Tarzan, home.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="55" location="Deep Jungle">
         <desc>They enter the deepest parts of the Waterfall Cavern and find a glowing nest of
             butterflies in the trunk of an ancient tree. Jane and Terk join them and Tarzan repeats
             the Mangani word</desc>
         <sp>
             <speaker>Sora</speaker> This is your home? But that means...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Tarzan stops him and places a hand to his ear</desc>
         <sp>
             <speaker>Goofy</speaker> Huh?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They hear the roaring sound of water</desc>
         <sp>
             <speaker>Jane</speaker> The waterfalls... They’re echoing all the way here.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Tarzan repeats the word</desc>
         <sp>
             <speaker>Tarzan</speaker> Friends there. See friends.</sp>
         <sp>
-            <speaker>Jane</speaker> Oh, now I’ve got it. (recites Mangani word) means heart. Friends
-            in our hearts...</sp>
+            <speaker>Jane</speaker> Oh, now I’ve got it. <desc>(recites Mangani word)</desc> means
+            heart. Friends in our hearts...</sp>
         <sp>
             <speaker>Tarzan</speaker> Heart...</sp>
         <sp>
-            <speaker>Sora (disappointed)</speaker> Oh, so that’s what it meant.</sp>
+            <speaker>Sora <desc>(disappointed)</desc></speaker> Oh, so that’s what it meant.</sp>
         <sp>
             <speaker>Tarzan</speaker> Friends, same heart. Clayton, lose heart. No heart, no see
             friends. No heart, no friends.</sp>
         <sp>
-            <speaker>Sora (to Donald)</speaker> Sorry about what I said.</sp>
+            <speaker>Sora <desc>(to Donald)</desc></speaker> Sorry about what I said.</sp>
         <sp>
             <speaker>Donald</speaker> I’m sorry too.</sp>
         <sp>
             <speaker>Goofy</speaker> Yeah. All for one, huh?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He gathers them into a group hug, smiling. Sora walks up to the butterfly nest and
             they scatter around the cavern, revealing a Keyhole. Sora aims his Keyblade and seals
             the Keyhole. It glows with a bright light and a locking sound before a green gummi block
@@ -3149,33 +3023,31 @@
         <sp>
             <speaker>Donald</speaker> A gummi!</sp>
         <sp>
-            <speaker>Goofy</speaker> But it’s sure not thing king’s.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Goofy</speaker> But it’s sure not the king’s.</sp>
+
         <desc>Terk nuzzles against Donald, who looks surprised</desc>
         <sp>
             <speaker>Jane</speaker> I think someone has a new admirer.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Donald starts waving his arms frantically</desc>
         <sp>
             <speaker>Donald</speaker> No, no, no, no! Daisy would kill me!</sp>
+
+        <desc>Sora and Goofy laugh.</desc>
     </cutscene>
-    <cutscene>
-        <desc>Sora and Goofy laugh. Meanwhile, the horned witch stands in a dark chapel with three
-            other villains</desc>
+
+    <cutscene type="Normal" cutNum="56" location="Villain's Vale">
+        <desc>Meanwhile, the horned witch stands in a dark chapel with three other villains</desc>
         <sp>
             <speaker>?????</speaker> What drew the Heartless to that world?</sp>
         <sp>
             <speaker>??????????</speaker> The hunter lured them there. It was his lust for power
             that was the bait. But it seems the bait was too tasty for his own good.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>A ghostly figure laughs</desc>
         <sp>
             <speaker>?????</speaker> Yeah, he got chomped instead!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>A tall, thin man in pointed robes walks out of the shadows, a snake staff in his
             hand</desc>
         <sp>
@@ -3183,8 +3055,7 @@
             Heartless. But the boy is a problem. He found one of the Keyholes.</sp>
         <sp>
             <speaker>??????????</speaker> Fear not. It will take him ages to find the rest.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>An image of Sora, Donald, and Goofy appears on the table before them</desc>
         <sp>
             <speaker>??????????</speaker> Besides, he remains blissfully unaware of our other
@@ -3194,10 +3065,12 @@
         <sp>
             <speaker>??????????</speaker> They are falling into our hands, one by one. Speaking of
             which...</sp>
+
+        <desc>Out of the shadows steps a frightened Alice.</desc>
     </cutscene>
-    <cutscene>
-        <desc>Out of the shadows steps a frightened Alice. Back in Deep Jungle, everyone has
-            returned to the tent</desc>
+
+    <cutscene type="Gameplay" cutNum="57" location="Deep Jungle">
+        <desc>Back in Deep Jungle, everyone has returned to the tent</desc>
         <sp>
             <speaker>Sora</speaker> Well, guess we’d better get going.</sp>
         <sp>
@@ -3206,9 +3079,11 @@
             <speaker>Donald</speaker> Well, uh... Not too far.</sp>
         <sp>
             <speaker>Tarzan</speaker> Sora, Tarzan, friends</sp>
+
+        <desc>He hands him a keychain and they return to the gummi ship.</desc>
     </cutscene>
-    <cutscene>
-        <desc>He hands him a keychain and they return to the gummi ship</desc>
+
+    <cutscene type="Gameplay" cutNum="58" location="Interspace">
         <sp>
             <speaker>Sora</speaker> The gummi block that came out of that glowing hole... It’s not
             like the others. Wonder what it’s used for.</sp>
@@ -3229,13 +3104,13 @@
         <sp>
             <speaker>Goofy</speaker> Here we go again...</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="59" location="Traverse Town">
         <desc>They travel back to Traverse Town and find Yuffie in the First District</desc>
         <sp>
             <speaker>Yuffie</speaker> Leon’s probably at the underground cavern. He trains there
             often. You know, the channel in the alleyway is connected to the cavern.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They enter the Alleyway though the Second District and find a grate at the edge of it.
             They tackle the bars and enter the Secret Waterway. They swim through the channel to
             where Leon is practicing his battle swing. Aerith is there with him</desc>
@@ -3275,40 +3150,36 @@
             <speaker>Goofy</speaker> We gotta find your friends! And King Mickey!</sp>
         <sp>
             <speaker>Sora</speaker> I guess you’re right... Okay!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He remembers the gummi block</desc>
         <sp>
             <speaker>Sora</speaker> Hey, Leon. This gummi block’s different from the others. Do you
             know what it’s for?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Leon has no answer</desc>
         <sp>
             <speaker>Aerith</speaker> Ask Cid. He should know.</sp>
         <sp>
             <speaker>Leon</speaker> Wait, Sora. Take this with you.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He gives him a stone</desc>
         <sp>
             <speaker>Leon</speaker> This stone holds some mysterious power. I’ve been carrying it
             for luck. I want you to hold onto it.</sp>
         <sp>
             <speaker>Sora</speaker> How do you use it?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Leon crosses his arms, silently thinking</desc>
         <sp>
             <speaker>Sora</speaker> Uh, Leon?</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="60" location="Traverse Town">
         <desc>They leave the Secret Waterway and return to the First District. They enter the
             Accessory Shop and speak to a Moogle</desc>
         <sp>
             <speaker>Moogle</speaker> A big tournament is being held somewhere, kupo.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They speak to Cid</desc>
         <sp>
             <speaker>Cid</speaker> What’ve you got there? Hey! Well, if it ain’t a gummi block.</sp>
@@ -3324,8 +3195,7 @@
             ship to go to other worlds. We don’t have a choice.</sp>
         <sp>
             <speaker>Cid</speaker> Whoa, easy.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He scratches his head</desc>
         <sp>
             <speaker>Cid</speaker> I didn’t know. No hard feelings, all right? Well, I guess I could
@@ -3335,8 +3205,7 @@
         <sp>
             <speaker>Cid</speaker> Basically, with navigation gummis, you can go to new places. You
             want one on your ship, right?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They nod</desc>
         <sp>
             <speaker>Cid</speaker> I’ll install it for you. But I got this thing I gotta go deliver
@@ -3348,8 +3217,7 @@
             practically falling apart. Too beat up to restore it to the way it was. But overall, I
             did a decent job puttin’ it back together. Anyway, you mind deliverin’ it for me? It’s
             the old house past the Third District. Look for a big fire sign.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He hands Sora the old book before a loud bell rings</desc>
         <sp>
             <speaker>Sora</speaker> Wh-What was that?</sp>
@@ -3357,8 +3225,7 @@
             <speaker>Cid</speaker> Hmm? The bell at the gizmo shop is ringing. Go check it out if
             you want, but deliver that book for me first. When you’re done, stop by the house in the
             Third District. I’ll be there.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They leave the shop and enter the Third District, finding the fire sign at the end of
             an alley. Sora hits it with a Fire spell and the door unlocks. They enter a large cavern
             where a mystical house sits on a central island. Several stepping stones line the path
@@ -3367,30 +3234,33 @@
             despite its festive purple hue. The front entrance way is covered in wooden boards and
             cloth. They find a broken hole in the side of the brick wall with a green curtain draped
             over it, and use it to get into the house. They enter an empty space with a raised
-            platform in the center. Sora hears a voice behind him and whirls around</desc>
+            platform in the center.</desc>
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="61" location="Traverse Town">
+        <desc>Sora hears a voice behind him and whirls around.</desc>
         <sp>
             <speaker>Kairi</speaker> There’s something about this musty place...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Kairi walks slowly through the room, holding her hands behind her back</desc>
         <sp>
             <speaker>Kairi</speaker> It reminds me of the secret place back home, where we used to
             scribble on the walls. Remember?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She looks toward him and smiles</desc>
         <sp>
             <speaker>Sora</speaker> Kairi?</sp>
         <sp>
             <speaker>Goofy</speaker> Sora?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He turns to see a concerned Donald and Goofy before looking back to Kairi, who has
             vanished completely</desc>
+    </cutscene>
+
+    <cutscene type="Gameplay" cutNum="62" location="Traverse Town">
         <sp>
             <speaker>??????</speaker> Well, well.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They look over to the entrance curtain and see an old wizard in blue robes with an
             extremely long beard. He is carrying a carpet bag and a wand</desc>
         <sp>
@@ -3420,14 +3290,12 @@
             <speaker>Donald</speaker> What did the king ask you to do?</sp>
         <sp>
             <speaker>Merlin</speaker> Just a moment...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He walks up to the stairs and sets down his carpet bag before reaching the center of
             the raised platform. He lifts his wand high in the air</desc>
         <sp>
             <speaker>Merlin</speaker> Presto!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Dust flies around the carpet bag as it opens and out pops teapots, tables, drawers,
             and chairs, small at first, but quickly growing larger. The wacky wizard dances around
             while waving his wand, directing the items from the bag to their respective places in
@@ -3435,15 +3303,13 @@
             multiple piles of books</desc>
         <sp>
             <speaker>Merlin</speaker> There, now. Ahem.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He turns to face Sora</desc>
         <sp>
             <speaker>Merlin</speaker> Your king asked me to train you in the art of magic. We can
             start anytime you like. Let me know when you’re ready to begin the training. Oh, and one
             more thing.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He turns to the entrance where a small model of a royal carriage is placed on the
             floor next to the telescope in the open window. Magic sparkles in the air coalesce at
             the carriage’s place and form an elderly woman in blue robes with a pink bow around her
@@ -3455,8 +3321,7 @@
         <sp>
             <speaker>Merlin</speaker> I do not know how much I can be of help, but do stop by
             anytime.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora hands him the book</desc>
         <sp>
             <speaker>Merlin</speaker> Oh, that book... So, Cid asked you to bring this. Thank you.
@@ -3464,15 +3329,13 @@
             mine. Somehow it found its way into my bag one day. It was such a curious book, I asked
             Cid to repair it for me. Well, I guess I’ll put it here somewhere, for now. This book
             holds a great secret. The missing pages will unlock it.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He points to a small bedside table</desc>
         <sp>
             <speaker>Merlin</speaker> I’ll leave the book over there. Do look at it whenever you
             like. My best regards to Cid for repairing it for me. Oh, and about that stone of
             yours... You should ask the Fairy Godmother about that.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They speak to the Fairy Godmother and show her Leon’s stone</desc>
         <sp>
             <speaker>Sora</speaker> Do you know what this is?</sp>
@@ -3489,13 +3352,11 @@
             <speaker>Sora</speaker> Can he regain himself?</sp>
         <sp>
             <speaker>Fairy Godmother</speaker> Yes, but only his spirit. Now, watch!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She waves her wand</desc>
         <sp>
             <speaker>Fairy Godmother</speaker> Bibbidi-bobbidi-boo!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora is granted the power to summon Simba</desc>
         <sp>
             <speaker>Fairy Godmother</speaker> Whenever you call, he will help you. If you find any
@@ -3504,7 +3365,8 @@
         <sp>
             <speaker>Sora</speaker> Don’t worry, I will.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="63" location="100 Acre Woods">
         <desc>Sora opens the old book on the nightstand and with a flash, he lands on its pages. A
             house of sticks appears on the map and he runs over to it, entering an empty meadow. He
             walks up to a large log, where a stuffed toy bear wearing a small red shirt is seated,
@@ -3522,17 +3384,16 @@
         <sp>
             <speaker>Sora</speaker> Pooh?</sp>
         <sp>
-            <speaker>Pooh (answering)</speaker> Yes?</sp>
+            <speaker>Pooh <desc>(answering)</desc></speaker> Yes?</sp>
         <sp>
-            <speaker>Sora (sitting beside him)</speaker> Wait a second. You’re Pooh?</sp>
+            <speaker>Sora <desc>(sitting beside him)</desc></speaker> Wait a second. You’re Pooh?</sp>
         <sp>
             <speaker>Pooh</speaker> Yes, I’m Winnie the Pooh. Pooh for short. Who are you?</sp>
         <sp>
             <speaker>Sora</speaker> I’m Sora.</sp>
         <sp>
             <speaker>Pooh</speaker> Oh. Hello, Sora. Have you come to say goodbye to Pooh, too?</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>His face turns sad</desc>
         <sp>
             <speaker>Sora</speaker> Well, no. Why would I do that? We’ve only just met.</sp>
@@ -3544,30 +3405,27 @@
             <speaker>Pooh</speaker> Well, we all lived here in the Hundred Acre Wood. And we’d take
             walks together, or play Pooh sticks... And every day, I’d eat some honey. Just one small
             smackeral would taste very good right now.</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>He rubs his tummy</desc>
         <sp>
             <speaker>Pooh</speaker> But now everyone’s gone. All my friends, and my favorite Hunny
             Tree too. Everyone must’ve gone away while I was napping, I think... So, who knows?</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>He hops off the log</desc>
         <sp>
             <speaker>Pooh</speaker> Maybe I shall end up going away somewhere as well. But I wonder,
             how do I say goodbye to myself?</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>He puts his hands on his head</desc>
         <sp>
             <speaker>Pooh</speaker> Think, think, think.</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>Sora stares at him</desc>
         <sp>
             <speaker>Pooh</speaker> Oh, my tumbly is getting rather rumbly.</sp>
     </cutscene>
-    <cutscene>
+    
+    <cutscene type="Normal" cutNum="64" location="100 Acre Woods">
         <desc>Sora watches him walk off. He follows the bear to a house built into a tree. Above the
             door of the house is hung an odd sign reading <q>MR. SANDERZ</q> with a backwards N.
             Next to it is a bell with a misspelled note reading <q>Rnig also</q>. Sora enters the
@@ -3576,7 +3434,8 @@
             <speaker>Pooh</speaker> Oh, bother. There’s no more honey left. If only the Hunny Tree
             would visit... Then I could eat my fill.</sp>
     </cutscene>
-    <cutscene>
+    
+    <cutscene type="Gameplay" cutNum="65" location="100 Acre Woods">
         <desc>He stands up and leaves the house. Sora follows, being greeted outside by an
             owl</desc>
         <sp>
@@ -3584,21 +3443,23 @@
             Unfortunately, some of the pages are missing, so I can’t tell you yet. The pages are
             scattered over many worlds. Would you find them for us?</sp>
     </cutscene>
-    <cutscene>
+    
+    <cutscene type="Gameplay" cutNum="66" location="Traverse Town">
         <desc>Sora exits the storybook and regroups with Donald and Goofy in Merlin’s Study</desc>
         <sp>
             <speaker>Merlin</speaker> You’d best go see Cid before going anywhere else.</sp>
+
+        <desc>They leave the Mystical House and return to the Third District.</desc>
     </cutscene>
-    <cutscene>
-        <desc>They leave the Mystical House and return to the Third District. Soldier Heartless
-            appear, but they are taken out by someone with a sharp-looking sword. Sora looks
-            incredibly surprised to see...</desc>
+
+    <cutscene type="Normal" cutNum="67" location="Traverse Town">
+        <desc>Soldier Heartless appear, but they are taken out by someone with a sharp-looking
+            sword. Sora looks incredibly surprised to see...</desc>
         <sp>
             <speaker>Riku</speaker> There you are. What’s going on?</sp>
         <sp>
             <speaker>Sora</speaker> Riku!</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>He walks up to Riku and stretches his mouth out, making sure he’s real</desc>
         <sp>
             <speaker>Riku</speaker> Hey, hey, cut it out.</sp>
@@ -3606,49 +3467,42 @@
             <speaker>Sora</speaker> I’m not dreaming this time, right?</sp>
         <sp>
             <speaker>Riku</speaker> I hope not. Took forever to find you.</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>He runs a hand through his finger as Sora smiles</desc>
         <sp>
             <speaker>Sora</speaker> Riku!</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>Riku smiles back and they start walking through the square</desc>
         <sp>
             <speaker>Sora</speaker> Wait a second, where’s Kairi?</sp>
         <sp>
             <speaker>Riku</speaker> Isn’t she with you?</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>Sora looks down, sadly</desc>
         <sp>
             <speaker>Riku</speaker> Well, don’t worry. I’m sure she made it off the island,
             too.</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>He looks to the sky</desc>
         <sp>
             <speaker>Riku</speaker> We’re finally free. Hey, she might even be looking for us
             now.</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>A Shadow Heartless emerges from the ground, its antennae wriggling wildly. Riku is
             faced away from everyone</desc>
         <sp>
             <speaker>Riku</speaker> We’ll all be together again soon. Don’t worry. Just leave
             everything to me. I know this—</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>He hears a noise behind him, and turns to see Sora, who has just destroyed the Shadow
             Heartless. Sora stands and tosses the Keyblade over his shoulder</desc>
         <sp>
-            <speaker>Sora (proudly)</speaker> Leave it to who?</sp>
+            <speaker>Sora <desc>(proudly)</desc></speaker> Leave it to who?</sp>
         <sp>
-            <speaker>Riku (walking closer)</speaker> Sora, what did you—</sp>
+            <speaker>Riku <desc>(walking closer)</desc></speaker> Sora, what did you—</sp>
         <sp>
             <speaker>Sora</speaker> I’ve been looking for you and Kairi, too, with their help.</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>Donald and Goofy nod, but Riku looks apprehensive</desc>
         <sp>
             <speaker>Riku</speaker> Who are they?</sp>
@@ -3658,74 +3512,66 @@
             <speaker>Sora</speaker> We’ve visited so many places and worlds, looking for you.</sp>
         <sp>
             <speaker>Riku</speaker> Really? Well, what do you know? I never would have guessed.</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>Goofy puts his hands on Sora’s shoulders</desc>
         <sp>
             <speaker>Goofy</speaker> Oh, and guess what? Sora’s the Keyblade master.</sp>
         <sp>
             <speaker>Donald</speaker> Who would’ve thought it?</sp>
         <sp>
-            <speaker>Sora (stomping his foot)</speaker> What’s that mean?</sp>
+            <speaker>Sora <desc>(stomping his foot)</desc></speaker> What’s that mean?</sp>
         <sp>
             <speaker>Riku</speaker> So, this is called a Keyblade?</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>Riku holds up Sora’s Keyblade</desc>
         <sp>
             <speaker>Sora</speaker> Huh?</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>He looks at his own hand in confusion</desc>
         <sp>
             <speaker>Sora</speaker> Hey, give it back.</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>He rushes forward to grab it, but Riku moves back and Sora stumbles and falls over.
             Riku holds the Keyblade above his head, getting a good look at it</desc>
         <sp>
             <speaker>Riku</speaker> Catch!</sp>
         <sp>
             <speaker>Sora</speaker> Whoa!</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>He tosses it to Sora, who stands up quickly</desc>
         <sp>
             <speaker>Sora</speaker> Okay, so you’re coming with us, right? We’ve got this awesome
             rocket. Wait ‘til you see it!</sp>
         <sp>
-            <speaker>Donald (rudely)</speaker> No, he can’t come!</sp>
+            <speaker>Donald <desc>(rudely)</desc></speaker> No, he can’t come!</sp>
         <sp>
-            <speaker>Sora (stomping his foot again)</speaker> What?</sp>
+            <speaker>Sora <desc>(stomping his foot again)</desc></speaker> What?</sp>
         <sp>
             <speaker>Donald</speaker> Forget it!</sp>
         <sp>
             <speaker>Sora</speaker> Oh, come on! He’s my friend!</sp>
         <sp>
             <speaker>Donald</speaker> I don’t care!</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>The argument catches Goofy’s attention, but when he looks back at Riku, he sees no
             one</desc>
         <sp>
             <speaker>Goofy</speaker> Huh? He’s gone.</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>Sora looks around the District, seeing nobody</desc>
         <sp>
             <speaker>Sora</speaker> Riku?</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>He walks slowly</desc>
         <sp>
             <speaker>Sora</speaker> Nice going. Oh, well. At least, he’s okay.</sp>
-    </cutscene>
-    <cutscene>
+    
         <desc>He puts his hands behind his head, hopeful</desc>
         <sp>
             <speaker>Sora</speaker> And who knows? Maybe we’ll run into Kairi soon, too.</sp>
     </cutscene>
-    <cutscene>
+    
+    <cutscene type="Gameplay" cutNum="68" location="Traverse Town">
         <desc>They walk up the stairs to the Small House, seeing the lights on in the window and
             enter to find Cid, Leon, Yuffie, and Aerith inside. Boxes are stacked up against the
             wall and a lantern hangs from the ceiling</desc>
