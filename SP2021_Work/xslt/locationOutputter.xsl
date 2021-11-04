@@ -6,28 +6,14 @@
     exclude-result-prefixes="xs math xd"
     version="3.0">
 
-    
-   
-    <xsl:output method="text" encoding="UTF-8" item-separator="'&#10;'"/>
-    
-
-      
-        
-
-      
+    <xsl:output method="text"/>
+    <xsl:variable name="distinctLocations" as="xs:string+" select="//cutscene/@location => distinct-values() => sort()"/>    
      <xsl:template match="/">
-         <xsl:variable name="distinctLocations" select="//cutscene/@location => distinct-values() => sort()"/>
-         
+        
          <xsl:for-each select="$distinctLocations">
-         
-         <xsl:value-of select="current()"/>
+         <xsl:text>"</xsl:text><xsl:value-of select="current()"/><xsl:text>"</xsl:text>
+             <xsl:text>&#10;</xsl:text>
      </xsl:for-each>
      </xsl:template>
-           
-       
-        
-    
-    
 
- 
 </xsl:stylesheet>
