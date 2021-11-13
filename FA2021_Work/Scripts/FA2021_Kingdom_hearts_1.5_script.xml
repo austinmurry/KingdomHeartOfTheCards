@@ -4750,8 +4750,8 @@
 
         <desc>He looks around for his son</desc>
     </cutscene>
-    
-    <cutscene type="Gameplay" cutNum="103" location="Monstro">
+
+    <cutscene type="Normal" cutNum="103" location="Monstro">
         <sp>
             <speaker>Geppetto</speaker>: Pinocchio? I warned him not to wander off here. He can be a
             naughty boy. Even so, he’s very precious to me.</sp>
@@ -4763,15 +4763,13 @@
         <sp>
             <speaker>Goofy</speaker>: You know, Geppetto’s awfully worried about you.</sp>
         <sp>
-            <speaker>Sora (sternly)</speaker>: Pinocchio, stop fooling around! This is no time for
-            games!</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Sora <desc>(sternly)</desc></speaker>: Pinocchio, stop fooling around! This is
+            no time for games!</sp>
+
         <desc>They start to turn away</desc>
         <sp>
             <speaker>Riku</speaker>: But, Sora, I thought you liked games.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora whirls around to see Riku</desc>
         <sp>
             <speaker>Riku</speaker>: Or are you too cool to play them now that you have the
@@ -4786,11 +4784,14 @@
             <speaker>Riku</speaker>: Maybe. Catch us and maybe I’ll tell you what I know.</sp>
         <sp>
             <speaker>Sora</speaker>: Come on!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Riku grabs Pinocchio’s hand and leads him further into Monstro. They search through
             the various maze-like innards of the whale, fighting numerous Heartless, though finding
-            no trace of Riku or the puppet. Maleficent appears to Riku</desc>
+            no trace of Riku or the puppet.</desc>
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="104" location="Monstro">
+        <desc>Maleficent appears to Riku</desc>
         <sp>
             <speaker>Maleficent</speaker>: Why do you still care about that boy? He has all but
             deserted you for the Keyblade and his new companions, after all.</sp>
@@ -4799,19 +4800,16 @@
             little.</sp>
         <sp>
             <speaker>Maleficent</speaker>: Oh, really? Of course you were.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She smiles</desc>
         <sp>
             <speaker>Maleficent</speaker>: Beware the darkness in your heart. The Heartless prey
             upon it.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She summons a corridor of darkness and walks into it</desc>
         <sp>
             <speaker>Riku</speaker>: Mind your own business.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He stares at her as she leaves. Sora, Donald, and Goofy chase Pinocchio, who passes by
             Riku into the bowels of the beast</desc>
         <sp>
@@ -4824,38 +4822,42 @@
         <sp>
             <speaker>Sora</speaker>: I do.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="105" location="Monstro">
         <desc>Pinocchio screams and they run into the Bowels. They find him trapped inside a large
             Parasite Cage Heartless. It swings its appendages when they enter, waiting for them to
             come near</desc>
         <sp>
             <speaker>Riku</speaker>: You up for this?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora assumes a fighting stance</desc>
+
         <sp>
             <speaker>Sora</speaker>: No problem. Let’s do it!</sp>
+    </cutscene>
+
+    <cutscene type="Gameplay" cutNum="106" location="Monstro">
         <sp>
             <speaker>Pinocchio</speaker>: Get me out of here!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora attacks the small head attached to its arms as it swings the arms wildly. Riku
             runs behind it to avoid them and strikes. Sora leaps at it, while Donald sends a Thunder
             spell, but it lifts an arm and Sora crashes into it, falling to the damp floor</desc>
         <sp>
             <speaker>Pinocchio</speaker>: Help! It’s scary in here!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora attacks the bottom cage-like head of the Heartless where Pinocchio is trapped,
             but the beast will not budge. Its arms take out Goofy while Sora gives it an upward
             strike. It begins to wobble, grabbing the ceiling for balance, and spits out Pinocchio
-            into a hole in the floor. Riku jumps in after him as the Heartless escapes. The water
-            level in the mouth decreases as Sora, Donald, and Goofy land on the deck of Geppetto’s
-            ship</desc>
+            into a hole in the floor. Riku jumps in after him as the Heartless escapes.</desc>
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="107" location="Monstro">
+        <desc>The water level in the mouth decreases as Sora, Donald, and Goofy land on the deck of
+            Geppetto’s ship</desc>
         <sp>
             <speaker>Geppetto</speaker>: Pinocchio! Pinocchio! Please! Give me back my son!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Riku is on a high ledge, holding Pinocchio under his arm</desc>
         <sp>
             <speaker>Riku</speaker>: Sorry, old man. I have some unfinished business with this
@@ -4869,33 +4871,33 @@
             <speaker>Sora</speaker>: Wait a minute. Are you talking about Kairi?</sp>
         <sp>
             <speaker>Riku</speaker>: What do you care about her?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He walks toward Monstro’s throat. They go after him by climbing the piles of wood near
             the mouth. Sora finds another summon gem on top of one of them. They enter the throat
-            and make their way to the stomach. Riku sets Pinocchio down on one of the platforms
-            lining the walls as stomach acid pools on the floor</desc>
+            and make their way to the stomach.</desc>
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="108" location="Monstro">
+        <desc>Riku sets Pinocchio down on one of the platforms lining the walls as stomach acid
+            pools on the floor</desc>
         <sp>
             <speaker>Sora</speaker>: Hey, let Pinocchio go, Riku.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He turns to see them. Pinocchio sits, unmoving</desc>
         <sp>
             <speaker>Riku</speaker>: A puppet that’s lost its heart to the Heartless... Maybe it
             holds the key to helping Kairi. How about it, Sora? Let’s join forces to save her. We
             can do it, together.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He starts walking toward Sora, who takes out the Keyblade</desc>
         <sp>
-            <speaker>Riku (stopping)</speaker>: What? You’d rather fight me? Over a puppet that has
-            no heart?</sp>
+            <speaker>Riku <desc>(stopping)</desc></speaker>: What? You’d rather fight me? Over a
+            puppet that has no heart?</sp>
         <sp>
             <speaker>Sora</speaker>: Heart or no heart, at least he still has a conscience.</sp>
         <sp>
             <speaker>Riku</speaker>: Conscience?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Jiminy Cricket runs over to Pinocchio</desc>
         <sp>
             <speaker>Sora</speaker>: You might not hear it, but right now it’s loud and clear. And
@@ -4905,14 +4907,13 @@
         <sp>
             <speaker>Jiminy</speaker>: Pinocchio! Pinocchio!</sp>
         <sp>
-            <speaker>Pinocchio (weakly)</speaker>: Jiminy... I’m not gonna make it.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Pinocchio <desc>(weakly)</desc></speaker>: Jiminy... I’m not gonna make
+            it.</sp>
+
         <desc>Suddenly, his nose grows</desc>
         <sp>
             <speaker>Pinocchio</speaker>: Oh! I guess I’m okay!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Jiminy jumps happily. Sora looks over to Donald and Goofy. Riku thinks for a second
             before looking up suddenly as the Parasite Cage falls from a hole in the ceiling. Riku
             makes a quick exit through a corridor of darkness, leaving them alone with the
@@ -4934,22 +4935,21 @@
         <sp>
             <speaker>Sora</speaker>: Riku! Riku, where are you?</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="109" location="Unknown">
         <desc>Riku has returned to his vessel, standing in the captain’s hold, talking to
             Maleficent</desc>
         <sp>
             <speaker>Riku</speaker>: So, Kairi’s like a lifeless puppet now?</sp>
         <sp>
             <speaker>Maleficent</speaker>: Precisely.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He stares at Kairi’s body, lying on the couch in front of him</desc>
         <sp>
             <speaker>Riku</speaker>: And her heart was...</sp>
         <sp>
             <speaker>Maleficent</speaker>: Taken by the Heartless, no doubt.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He whirls around, the desperation showing in his eyes</desc>
         <sp>
             <speaker>Riku</speaker>: Tell me! What can I do?</sp>
@@ -4958,19 +4958,18 @@
             the princesses of heart. Gather them together, and a door will open to the heart of all
             worlds. Within lies untold wisdom. There, you will surely find a way to recover Kairi’s
             heart. Now, I’ll grant you a marvelous gift.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She leans closer to him</desc>
         <sp>
             <speaker>Maleficent</speaker>: The power to control the Heartless.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She raises her arms and green energy surrounds him. He takes it in, feeling its power,
             and turns to look at Kairi</desc>
         <sp>
             <speaker>Riku</speaker>: Soon, Kairi. Soon.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="110" location="Interspace">
         <desc>Monstro, disrupted by all this agitation, sneezes everyone out. Sora, Donald, and
             Goofy are back in their gummi ship</desc>
         <sp>
@@ -4980,72 +4979,65 @@
         <sp>
             <speaker>Sora</speaker>: Riku...</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="111" location="TraverseTown">
         <desc>They return to Merlin’s Study in Traverse Town and speak to the Fairy Godmother</desc>
         <sp>
             <speaker>Fairy Godmother</speaker>: Oh, another summon gem? Let’s help this little one.
             Here we go! Bibbidi-bobbidi-boo!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora is granted the power to summon Dumbo</desc>
         <sp>
             <speaker>Fairy Godmother</speaker>: If you find any more of these stones, bring them to
             me.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="112" location="100AcreWoods">
         <desc>Sora enters the 100 Acre Wood, finding a broad expanse of vegetables fields. He walks
             across the bridge over the stream to a mailbox labeled <q>RABBiT</q>. There is a letter
             inside <q>I hope we’ll be finding more honey together soon! --Pooh</q>
         </desc>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora walks up to the door in the tree, but is stopped by a stern voice</desc>
         <sp>
             <speaker>??????</speaker>: Nobody’s home! And I’m out of honey!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora walks to the back of the tree, where Piglet and Pooh are staring in through a
             hole in a burrow beneath a sign reading <q>RABBiT’S HOWSE</q>. Piglet sees Sora</desc>
         <sp>
             <speaker>Piglet</speaker>: Look, Rabbt’s house c-came back! But it looks like Rabbit
             isn’t home. Pooh’s been calling and calling, but the house says no one’s there.</sp>
         <sp>
-            <speaker>Pooh (calling)</speaker>: Nobody’s home?</sp>
+            <speaker>Pooh <desc>(calling)</desc></speaker>: Nobody’s home?</sp>
         <sp>
             <speaker>??????</speaker>: That’s right, Nobody!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora runs back around the house and enters through the door</desc>
         <sp>
             <speaker>Pooh</speaker>: Who is this person named Nobody?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Pooh begins climbing into the burrow</desc>
         <sp>
             <speaker>Pooh</speaker>: Nobody, have you seen Rabbit?</sp>
         <sp>
             <speaker>??????</speaker>: No! No Rabbit here! There’s no one here!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Inside the burrow, a yellow rabbit sighs as Pooh hops in, Piglet following</desc>
         <sp>
             <speaker>Pooh</speaker>: Hello, Rabbit!</sp>
         <sp>
             <speaker>Rabbit</speaker>: Why, P-Pooh. What a pleasant surprise... Nice to see you,
             too, Piglet. And...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He turns around as Sora enters</desc>
         <sp>
             <speaker>Rabbit</speaker>: Is this a new friend? P-Pooh, I’m sorry, but... I’m all out
             of honey at the moment.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Pooh walks around the room, sniffing the air</desc>
         <sp>
             <speaker>Pooh</speaker>: Sora, do you smell honey?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora sees a honey pot on a tree root going through the ceiling</desc>
         <sp>
             <speaker>Rabbit</speaker>: H-Honey? Now, how did that get up there? Would you like some
@@ -5053,33 +5045,27 @@
         <sp>
             <speaker>Pooh</speaker>: Oh, thank you, Rabbit. I would like just a small smackeral. I’m
             quite hungry.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Pooh sits at the table eating from the honey pot</desc>
         <sp>
             <speaker>Rabbit</speaker>: Um, Pooh Bear...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Pooh eats</desc>
         <sp>
             <speaker>Rabbit</speaker>: You’re not eating the whole pot, are you?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>And eats</desc>
         <sp>
             <speaker>Rabbit</speaker>: Once you start, there’s no stopping you, is there...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>And eats</desc>
         <sp>
-            <speaker>Rabbit (defeated)</speaker>: Ohh... Out of honey again.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Rabbit <desc>(defeated)</desc></speaker>: Ohh... Out of honey again.</sp>
+
         <desc>Sora leaves the house and attempts to walk off the grounds</desc>
         <sp>
             <speaker>Piglet</speaker>: H-Help! Please help Pooh!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He turns around as Piglet runs up to him, and trips on the ground. Sora runs back
             inside with Piglet, seeing Pooh stuck in the hole in the wall</desc>
         <sp>
@@ -5089,8 +5075,7 @@
             <speaker>Piglet</speaker>: Oh, wh-what to do?</sp>
         <sp>
             <speaker>Rabbit</speaker>: All this because he can’t stop liking honey so much! </sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora runs around to the back of the burrow, where Pooh’s head and arms are sticking
             out</desc>
         <sp>
@@ -5098,26 +5083,24 @@
             time, perhaps you could bring me a honey jar.</sp>
         <sp>
             <speaker>Rabbit</speaker>: No honey ‘til you’re unstuck!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Rabbit runs in</desc>
         <sp>
             <speaker>Rabbit</speaker>: If Pooh doesn’t slim down, my house will stay plugged up
             forever! If only there were something we could do...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He perks his head up, his ears pointed</desc>
         <sp>
             <speaker>Rabbit</speaker>: Wait, I know! A bit of carrot top juice will do the trick! I
             have a carrot patch on the other side of the stream. Carrot top juice is just the ticket
             to slimming down a Pooh!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He turns toward his garden and shouts</desc>
         <sp>
             <speaker>Rabbit</speaker>: Oh, no!</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="113" location="100AcreWoods">
         <desc>He runs ahead, Sora following. He sees a stuffed tiger bouncing into the area much to
             Rabbit’s dismay. The tiger jumps onto the bridge, destroying it, and bouncing over to
             Sora. Rabbit runs over to see the damage and lowers his ears. The tiger tackles Sora,
@@ -5125,8 +5108,7 @@
         <sp>
             <speaker>??????</speaker>: Hey, there! Name’s Tigger! T-I-double-guh-RR. That spells
             Tigger!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Tigger looks over Sora, standing on him</desc>
         <sp>
             <speaker>Tigger</speaker>: Well, now! I don’t think I’ve ever seen you before!</sp>
@@ -5135,105 +5117,100 @@
         <sp>
             <speaker>Tigger</speaker>: Hey, Pooh! Say, you’re lookin’ mighty uncomfy today. Is that
             some new exercise? Why, bouncin’ around is a lot more fun.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He leaps off of Sora, who stands up, brushing the dirt off his clothes</desc>
         <sp>
             <speaker>Sora</speaker>: Wh-Why do you bounce around so much, Tigger?</sp>
         <sp>
             <speaker>Tigger</speaker>: Why? ‘Cause bouncin’ is what Tiggers do best!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He puts a paw to his forehead and looks around</desc>
         <sp>
             <speaker>Tigger</speaker>: Speaking of which, my bouncin’ spot has gone and disappeared!
             So for now, this’ll be my new bouncin’ ground.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He laughs and bounces away towards Rabbit’s garden</desc>
+    </cutscene>
+
+    <cutscene type="Gameplay" cutNum="114" location="100AcreWoods">
         <sp>
             <speaker>Rabbit</speaker>: Tigger’s bouncing will ruin my vegetables! And if we don’t
             give Pooh some carrot top juice, he’ll be stuck forever.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Rabbit turns to Sora</desc>
         <sp>
             <speaker>Rabbit</speaker>: Please help me! Keep Tigger away from my carrots!</sp>
         <sp>
             <speaker>Owl</speaker>: This is quite a fix. But I have just the solution. Pay
             attention, now.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Owl flies down to meet them. He takes Sora over to the carrot field</desc>
         <sp>
             <speaker>Owl</speaker>: Sora, you’ll have to protect this carrot patch. If Tigger
             bounces on a carrot twice, it’ll be buried.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He demonstrates jumping on a carrot</desc>
         <sp>
             <speaker>Owl</speaker>: Once...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He jumps again</desc>
         <sp>
             <speaker>Owl</speaker>: Twice!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He flies back off the carrot</desc>
         <sp>
             <speaker>Owl</speaker>: Just like that. Protect the carrots from Tigger’s bounces and
             you’ll receive points. How you ask? It’s elementary!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He swings out a wing</desc>
         <sp>
             <speaker>Owl</speaker>: Simply get to the carrots before Tigger lands on them. There are
             fifteen carrots here. Your score depends on how many you save, and how many times you
             block Tigger. Oh, and one more thing.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He flies over to Sora</desc>
         <sp>
             <speaker>Owl</speaker>: The Rush command is the key to a high score. Select Rush while
             near a carrot that isn’t buried yet. You’ll dash to the target area before Tigger lands.
             Well, good luck!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Tigger bounces over and Sora protects the carrots from him. Tigger dances
             around</desc>
         <sp>
             <speaker>Tigger</speaker>: How about those bounceroonies? They were good even for a
             Tigger.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He laughs and bounces away</desc>
+    </cutscene>
+
+    <cutscene type="Gameplay" cutNum="115" location="100AcreWoods">
         <sp>
             <speaker>Rabbit</speaker>: Thank you so much. Now I’d better make that carrot top juice.
             I’ll get the carrots, so please wait inside the house.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora enters the house. Later, Rabbit returns</desc>
         <sp>
             <speaker>Rabbit</speaker>: Oh, what a day! I gave Pooh the carrot top juice. All we have
             to do now is push him out. Just a little push should do.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="116" location="100AcreWoods">
         <desc>Sora runs and tackles Pooh out of the wall, sending him flying into a pile of honey
             pots. Piglet covers his eyes while Rabbit is in shock</desc>
         <sp>
             <speaker>Rabbit</speaker>: First my vegetable patch and now this...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Pooh sits up, a honey pot stuck over his head</desc>
         <sp>
             <speaker>Pooh</speaker>: Oh, bother. Where am I? It’s ever so dark in here. Well, it
             isn’t so bad, I suppose. There is plenty of honey.</sp>
+
+        <desc>He laughs and Sora regroups with Donald and Goofy in Merlin’s Study.</desc>
     </cutscene>
-    <cutscene>
-        <desc>He laughs and Sora regroups with Donald and Goofy in Merlin’s Study. They leave
-            Traverse Town and compete in the Pegasus Cup at the Olympus Coliseum. After making their
-            way through the tournament, they speak to Phil and Hercules</desc>
+
+    <cutscene type="Gameplay" cutNum="117" location="OlympusColiseum">
+        <desc>They leave Traverse Town and compete in the Pegasus Cup at the Olympus Coliseum. After
+            making their way through the tournament, they speak to Phil and Hercules</desc>
         <sp>
             <speaker>Hercules</speaker>: That was great! Looks like Phil’s trained another great
             hero!</sp>
@@ -5247,7 +5224,8 @@
         <sp>
             <speaker>Philoctetes</speaker>: It’s not a riddle!</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="118" location="Interspace">
         <desc>They travel to Atlantica</desc>
         <sp>
             <speaker>Donald</speaker>: Okay, guys. Prepare for landing.</sp>
@@ -5256,7 +5234,8 @@
         <sp>
             <speaker>Donald</speaker>: Not with my magic, we won’t. Just leave it to me.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="119" location="Atlantica">
         <desc>Under the water, fish scurry away as Sora, Donald, and Goofy appear in a flurry of
             bubbles. They inspect their new aquatic bodies. Sora has the tail of a dolphin, while
             Donald and Goofy are an octopus and a sea turtle, respectively. They swim around for a
@@ -5266,33 +5245,28 @@
             <speaker>?????</speaker>: Come on, Sebastian!</sp>
         <sp>
             <speaker>Sebastian</speaker>: Ariel, wait! Slow down! Don’t leave me behind!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sebastian comes face to face with a glaring Donald and screams. He swims away
             frantically while Sora paddles up to them</desc>
         <sp>
             <speaker>Ariel</speaker>: Relax, Sebastian. They don’t look like one of them. Right,
             Flounder?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She looks down to her fishy friend, who’s hiding behind her</desc>
         <sp>
             <speaker>Flounder</speaker>: I don’t know. There’s something weird about them.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora laughs nervously</desc>
         <sp>
             <speaker>Sora</speaker>: What do you mean?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She swims around him</desc>
         <sp>
             <speaker>Ariel</speaker>: They do seem... a little different. Where are you from?</sp>
         <sp>
-            <speaker>Sora (nervous)</speaker>: We’re from kind of far away. And we’re not really
-            used to these waters.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Sora <desc>(nervous)</desc></speaker>: We’re from kind of far away. And we’re
+            not really used to these waters.</sp>
+
         <desc>Goofy has a staring contest with Flounder. Sora continues to laugh nervously, not sure
             of what to say</desc>
         <sp>
@@ -5300,29 +5274,33 @@
             around here.</sp>
         <sp>
             <speaker>Sebastian</speaker>: Ariel, King Triton will not like this!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Ariel rolls her eyes and smiles</desc>
         <sp>
             <speaker>Ariel</speaker>: Oh, don’t worry.</sp>
+    </cutscene>
+
+    <cutscene type="Gameplay" cutNum="120" location="Atlantica">
         <sp>
             <speaker>Sebstian</speaker>: Easy for you to say... Okay, it’s time you learn how to
             swim properly. Practice swimming with Flounder. Try to tag him. All right. Begin.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora plays tag with Flounder until he gets the hang of swimming</desc>
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="121" location="Atlantica">
         <sp>
             <speaker>Sebastian</speaker>: Good job. Now let’s move onto self-defense.</sp>
         <sp>
             <speaker>Ariel</speaker>: Sebastian!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He looks over to Ariel, who is pointing to the Heartless swimming towards them from
             the tunnel. Sebastian starts swimming furiously as Ariel swims into a side cave</desc>
         <sp>
             <speaker>Sebastian</speaker>: Class is over. Good luck!</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="122" location="Atlantica">
         <desc>Sebastian closes himself and Flounder in a clamshell. Sora, Donald, and Goofy fight
             off the Sea Neon Heartless. Ariel swims back when they’re gone, and Sora opens the
             clamshell</desc>
@@ -5335,15 +5313,15 @@
             <speaker>Ariel</speaker>: We’d better head back right away!</sp>
         <sp>
             <speaker>Flounder</speaker>: But, wh-what if we run into more on our way back?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She looks over at the trio</desc>
         <sp>
             <speaker>Ariel</speaker>: I’m sorry, but we need your help. Please come to the palace
             with us. The trident markers on the walls point the way there. We won’t get lost as long
             as we follow them. Okay, let’s get going.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="123" location="Atlantica">
         <desc>They swim to King Triton’s Palace, pursued by Heartless. As they enter the Throne
             Room, a bolt of lightning obliterates the Heartless</desc>
         <sp>
@@ -5351,55 +5329,52 @@
             tolerate those creatures inside this palace.</sp>
         <sp>
             <speaker>Ariel</speaker>: Daddy!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She swims up to him, smiling</desc>
         <sp>
             <speaker>Triton</speaker>: Oh, Ariel! When will you listen? It’s dangerous out
             there!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She looks guilty</desc>
         <sp>
             <speaker>Triton</speaker>: Strange creatures lurk outside.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He gazes at Sora, Donald, and Goofy with stern eyes</desc>
         <sp>
-            <speaker>Sebastian (clearing his throat)</speaker>: Behold. You swim before the ruler of
-            the seas: His Majesty, King Triton.</sp>
+            <speaker>Sebastian <desc>(clearing his throat)</desc></speaker>: Behold. You swim before
+            the ruler of the seas: His Majesty, King Triton.</sp>
         <sp>
             <speaker>Triton</speaker>: And who are they?</sp>
         <sp>
             <speaker>Ariel</speaker>: They helped us fight off those creatures.</sp>
         <sp>
-            <speaker>Triton (warily)</speaker>: They don’t look familiar.</sp>
+            <speaker>Triton <desc>(warily)</desc></speaker>: They don’t look familiar.</sp>
         <sp>
             <speaker>Sora</speaker>: We’re from an ocean very far away.</sp>
         <sp>
-            <speaker>Goofy (swimming around)</speaker>: Yup. We came to find the Keyhole.</sp>
+            <speaker>Goofy <desc>(swimming around)</desc></speaker>: Yup. We came to find the
+            Keyhole.</sp>
         <sp>
-            <speaker>Triton (stunned)</speaker>: The what?</sp>
+            <speaker>Triton <desc>(stunned)</desc></speaker>: The what?</sp>
         <sp>
             <speaker>Ariel</speaker>: What’s that?</sp>
         <sp>
             <speaker>Goofy</speaker>: A-hyuck! Well, it’s a—</sp>
         <sp>
-            <speaker>Triton (angrily)</speaker>: There’s no such thing! Certainly not here!</sp>
+            <speaker>Triton <desc>(angrily)</desc></speaker>: There’s no such thing! Certainly not
+            here!</sp>
         <sp>
             <speaker>Ariel</speaker>: But, Daddy...</sp>
         <sp>
             <speaker>Triton</speaker>: Ariel, not another word! You are not to leave the palace. Is
             that clear?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She scowls at him and swims away. Sora, Donald and Goofy swim after her. Triton
             sighs</desc>
         <sp>
             <speaker>Triton</speaker>: Perhaps I’m being too strict... I’m just concerned for her
             safety.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He watches them swim away</desc>
         <sp>
             <speaker>Sebastian</speaker>: Of course, Your Majesty. But I must admit, now I’m quite
@@ -5412,37 +5387,35 @@
             coming from Ursula’s grotto.</sp>
         <sp>
             <speaker>Triton</speaker>: I knew it. That sea witch is up to no good again.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He strokes his long white beard</desc>
         <sp>
             <speaker>Triton</speaker>: I see exile from the palace has taught her nothing.</sp>
         <sp>
             <speaker>Sebastian</speaker>: Yes, she poses serious danger.</sp>
         <sp>
-            <speaker>Triton (sternly)</speaker>: And I told you to keep Ariel away from such danger,
-            did I not?</sp>
+            <speaker>Triton <desc>(sternly)</desc></speaker>: And I told you to keep Ariel away from
+            such danger, did I not?</sp>
         <sp>
-            <speaker>Sebastian (nervously)</speaker>: Your Majesty, please, I, uh...</sp>
+            <speaker>Sebastian <desc>(nervously)</desc></speaker>: Your Majesty, please, I,
+            uh...</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="124" location="Atlantica">
         <desc>Ariel leads Sora, Donald, and Goofy to the Undersea Valley</desc>
         <sp>
             <speaker>Ariel</speaker>: Come to my grotto. I want to show you something.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She points to a large boulder on the sea floor</desc>
         <sp>
             <speaker>Ariel</speaker>: There it is. See?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They enter Ariel’s Grotto, which is filled with various thingamabobs from the human
             world</desc>
         <sp>
             <speaker>Ariel</speaker>: Look at all the wonderful things Flounder and I’ve collected.
             I think it’s all from the outside world.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>At the end of the room, there is a trident-shaped impression in the rock</desc>
         <sp>
             <speaker>Ariel</speaker>: Someday, I’m going to see what’s out there. I want to see
@@ -5461,8 +5434,7 @@
         <sp>
             <speaker>Ariel</speaker>: Oh, he treats me like a little girl. He never wants to let me
             do anything. He just... He just doesn’t understand.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sebastian listens from behind a rock, with a sad look on his face. They speak to
             Flounder</desc>
         <sp>
@@ -5471,65 +5443,67 @@
             away, I think the big fish’ll play with us. Maybe if you grab onto him, he’ll take you
             somewhere.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="125" location="Atlantica">
         <desc>They swim out of the grotto, and two slippery eels come out of hiding. They each have
             a golden eye, glowing like their vicious grins. In her lair, the sea witch Ursula gazes
             into her cauldron at an image of Sora and Ariel, laughing to herself</desc>
         <sp>
             <speaker>Ursula</speaker>: Those impudent fools will never find the Keyhole.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The image of Ariel floats out of the cauldron with Ursula’s hand movements</desc>
         <sp>
             <speaker>Ursula</speaker>: But the girl could prove useful. And I’ve got the Heartless
             on my side.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Her long tentacles sway behind her</desc>
         <sp>
             <speaker>Ursula</speaker>: Triton, my old friend... Your day is coming.</sp>
+
+        <desc>She cackles loudly.</desc>
     </cutscene>
-    <cutscene>
-        <desc>She cackles loudly. Meanwhile, Sora, Donald, Goofy, and Ariel find a dolphin swimming
-            in the Calm Depths. After eliminating the Heartless in the area, the dolphin lets them
-            ride it through the rough current to a large area with a Sunken Ship. They enter the
-            ship and an ominous shape swims in the waters above. Once they reach a stateroom inside
-            the sunken ship a huge shark crashes through the window, attempting to bite them. It is
-            unable to swim inside the shape due to its size, so it swims away and waits for them to
-            leave. Inside the ship they find a crystal trident inside a treasure chest</desc>
+
+    <cutscene type="Gameplay" cutNum="126" location="Atlantica">
+        <desc>Meanwhile, Sora, Donald, Goofy, and Ariel find a dolphin swimming in the Calm Depths.
+            After eliminating the Heartless in the area, the dolphin lets them ride it through the
+            rough current to a large area with a Sunken Ship. They enter the ship and an ominous
+            shape swims in the waters above. Once they reach a stateroom inside the sunken ship a
+            huge shark crashes through the window, attempting to bite them. It is unable to swim
+            inside the shape due to its size, so it swims away and waits for them to leave. Inside
+            the ship they find a crystal trident inside a treasure chest</desc>
         <sp>
             <speaker>Ariel</speaker>: Hm. Its shape reminds me of something...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They leave the ship, where Glut is waiting for them. After a persuasive battle, the
-            shark gives up and swims away. They return to Ariel’s Grotto and place the crystal
-            trident in the rocky impression</desc>
+            shark gives up and swims away.</desc>
+
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="127" location="Atlantica">
+        <desc>They return to Ariel’s Grotto and place the crystal trident in the rocky
+            impression</desc>
         <sp>
             <speaker>Triton</speaker>: Ariel, you’ve disobeyed me again!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They turn to see King Triton enter. Sebastian is on the floor</desc>
         <sp>
             <speaker>Triton</speaker>: I told you not to leave the palace!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He sees the crystal trident and is filled with anger. He raises his trident, which
             starts to glow. Ariel tries to stop him</desc>
         <sp>
             <speaker>Ariel</speaker>: Daddy, no!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>A bolt of lightning fires from the trident and destroys the crystal</desc>
         <sp>
-            <speaker>Ariel (sadly)</speaker>: How could you...</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Ariel <desc>(sadly)</desc></speaker>: How could you...</sp>
+
         <desc>She swims away from him and he turns his eyes on Sora</desc>
         <sp>
             <speaker>Triton</speaker>: Young man, you’re not from another ocean. You’re from another
             world. Aren’t you?</sp>
         <sp>
-            <speaker>Sora (surprised)</speaker>: Huh?</sp>
+            <speaker>Sora <desc>(surprised)</desc></speaker>: Huh?</sp>
         <sp>
             <speaker>Triton</speaker>: Then you must be the key bearer.</sp>
         <sp>
@@ -5552,14 +5526,16 @@
         <sp>
             <speaker>Triton</speaker>: I thank you for saving my daughter. But there is no room in
             my ocean for you or your key.</sp>
+
+        <desc>Triton leaves the grotto, leaving Sora staring down at the Keyblade.</desc>
     </cutscene>
-    <cutscene>
-        <desc>Triton leaves the grotto, leaving Sora staring down at the Keyblade. Ariel is alone in
-            the Undersea Garden, crying to herself, when the two devious eels arrive</desc>
+
+    <cutscene type="Normal" cutNum="128" location="Atlantica">
+        <desc>Ariel is alone in the Undersea Garden, crying to herself, when the two devious eels
+            arrive</desc>
         <sp>
             <speaker>Flotsam</speaker>: My, my, the poor child suffers such deep sorrow.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They swim around her in circles</desc>
         <sp>
             <speaker>Jetsam</speaker>: What a pity. If only there were something we could do...</sp>
@@ -5569,8 +5545,7 @@
             <speaker>Jetsam</speaker>: Yes. Maybe she can be of some help to you.</sp>
         <sp>
             <speaker>Ariel</speaker>: Who’re you talking about?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They start swimming upwards in a spiral</desc>
         <sp>
             <speaker>Flotsam</speaker>: Oh, she would surely help you.</sp>
@@ -5578,67 +5553,58 @@
             <speaker>Jetsam</speaker>: She’d make all your dreams come true.</sp>
         <sp>
             <speaker>Flotsam &amp; Jetsam</speaker>: Ursula can help...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>In a flourish of ink, Ursula appears</desc>
         <sp>
             <speaker>Ursula</speaker>: You called, my dear?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She smiles down at Ariel</desc>
         <sp>
-            <speaker>Ariel (daunted)</speaker>: You’re Ursula? I was just wondering if—</sp>
+            <speaker>Ariel <desc>(daunted)</desc></speaker>: You’re Ursula? I was just wondering
+            if—</sp>
         <sp>
             <speaker>Ursula</speaker>: It’s all right. Helping others is what I live for. Let me
             guess. You wish to see other worlds. That shouldn’t be too hard. After all, your new
             friends came from another world.</sp>
         <sp>
             <speaker>Ariel</speaker>: What?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The witch swims closer to her</desc>
         <sp>
             <speaker>Ursula</speaker>: But they had special help—that mysterious key.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Ariel looks toward the sea floor</desc>
         <sp>
             <speaker>Ursula</speaker>: Now, now. Cheer up, sweetie. You have something special,
             too.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The eels swim around them as Ursula leans in closely</desc>
         <sp>
             <speaker>Ursula</speaker>: Now listen carefully. I think the Keyhole they seek is
             somewhere in the palace.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Ariel swims into the palace throne room</desc>
         <sp>
             <speaker>Ursula</speaker>: Now, my dear, if you can take me there without your daddy
             knowing...</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Ariel turns as Ursula enters behind her</desc>
         <sp>
             <speaker>Ursula</speaker>: I can help you get to these other worlds you long for.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She sees the trident floating behind the throne, and smiles. After Ursula snatches the
             trident, she laughs evilly</desc>
         <sp>
             <speaker>Ursula</speaker>: The trident is mine at last! And I couldn’t have done it
             without your help, my dear.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Ariel is at the throne beside her father, who looks terribly weak</desc>
         <sp>
             <speaker>Ariel</speaker>: Ursula, no! I didn’t want this!</sp>
         <sp>
             <speaker>Ursula</speaker>: Why not? Aren’t you tired of following your dear daddy’s
             orders?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The eels swim around them</desc>
         <sp>
             <speaker>Ursula</speaker>: Oh, yes. We had a deal, didn’t we? Time for a little
@@ -5649,38 +5615,37 @@
             <speaker>Jetsam</speaker>: The Keyhole is not here.</sp>
         <sp>
             <speaker>Ursula</speaker>: What?</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She looks behind her as Sora, Donald, and Goofy swim their way</desc>
         <sp>
             <speaker>Ursula</speaker>: Why, we have company. I’m afraid you’re a little late,
             handsome!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She chuckles, raising the trident and vanishing in a burst of ink just as they arrive.
             Ariel looks to King Triton</desc>
         <sp>
             <speaker>Ariel</speaker>: Daddy!</sp>
         <sp>
-            <speaker>Triton (feebly)</speaker>: The trident... We must get it back.</sp>
+            <speaker>Triton <desc>(feebly)</desc></speaker>: The trident... We must get it
+            back.</sp>
         <sp>
             <speaker>Sora</speaker>: Come on, let’s go!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They start to swim out, but Ariel stops them</desc>
         <sp>
             <speaker>Ariel</speaker>: Wait, I’m going with you! My father is hurt and it’s all my
             fault. I have to stop Ursula!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sora nods</desc>
         <sp>
             <speaker>Sebastian</speaker>: That’s right. I’m right behind you, Ariel.</sp>
+    </cutscene>
+
+    <cutscene type="Gameplay" cutNum="129" location="Atlantica">
         <sp>
             <speaker>Triton</speaker>: Ursula draws power from her cauldron. To defeat Ursula, you
             must strike her cauldron with magic.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>They return to the Sunken Ship area and find a large stone with the marking of a sea
             monster. Behind a sunken lifeboat nearby, there is an something embedded in the wall.
             Sora is unable to reach it</desc>
@@ -5688,80 +5653,79 @@
             <speaker>Sora</speaker>: What is that thing?</sp>
         <sp>
             <speaker>Sebastian</speaker>: Need some help? I’ll show you how it’s done.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Sebastian swims between the lifeboat and the wall and pushes the small rock in the
             wall, causing the large leviathan rock to sink into the ocean floor. They enter the Den
-            of Tides and follow it to Ursula’s Lair. Ursula crawls out of her shell be,
-            scowling</desc>
+            of Tides and follow it to Ursula’s Lair.</desc>
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="130" location="Atlantica">
+        <desc>Ursula crawls out of her shell be, scowling</desc>
         <sp>
             <speaker>Donald</speaker>: Come out! You can’t run!</sp>
         <sp>
             <speaker>Sebastian</speaker>: Your time has come!</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="131" location="Atlantica">
         <desc>She swims toward them giving them a frightening look, scaring Sebastian and Donald.
             She tosses a potion into her cauldron, which starts to glow. Goofy and Ariel start
             fighting off Flotsam and Jetsam while Sora and Donald strike her cauldron with
             magic</desc>
         <sp>
             <speaker>Ursula</speaker>: Sea and wind, hear my command!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Goofy and Ariel knock Flotsam and Jetsam unconscious and Sora sends a Thunder spell at
             Ursula’s cauldron, which ignites its contents, sending a burst of magic spilling out in
             all directions. Ursula is knocked out temporarily and Sora attacks with his Keyblade.
             Soon Ursula regains consciousness</desc>
         <sp>
             <speaker>Ursula</speaker>: Get up and fight!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She heals Flotsam and Jetsam and begins cackling, spinning wildly in the water. Donald
             casts an Aero spell on everyone to shield them from her whirling tentacles. Sora starts
             striking her cauldron until it explodes again onto Ursula</desc>
         <sp>
             <speaker>Ursula</speaker>: No... Impossible!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>The foiled magic disintegrates Flotsam and Jetsam, to Ursula’s horror and she swims
             away in a fury</desc>
         <sp>
             <speaker>Ursula</speaker>: You’ll pay for this!</sp>
         <sp>
             <speaker>Ariel</speaker>: Let’s go. We must get the trident back.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She teaches them Mermaid Kick and they catch up to Ursula in the Open Ocean</desc>
+    </cutscene>
+
+    <cutscene type="Normal" cutNum="132" location="Atlantica">
         <sp>
             <speaker>Ursula</speaker>: You pathetic fools! I rule the seas now!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She brandishes the trident and spins upwards. A wave of ink and darkness emanates from
             below as she begins growing to an immense size. A crown appears on her head and she
             towers over them</desc>
         <sp>
             <speaker>Ursula</speaker>: The sea and all its spoils bow to my power!</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Gameplay" cutNum="133" location="Atlantica">
         <desc>They swim upward to escape from her crushing tentacles and she stares down at them
             with crazed eyes</desc>
         <sp>
             <speaker>Ursula</speaker>: Hey, you. Not so fast! Get ready for this!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She spits out disorienting bubbles at them, which stop them for a second, but they
             swim straight at her and begin pummeling away. Suddenly, the current changes and Sora
             feels himself being swept upward towards her mouth. He swims away frantically as Ariel
             and Donald attack from behind. He manages to get away just as she bites down</desc>
         <sp>
             <speaker>Ursula</speaker>: Hmph... Slippery little morsel.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Lightning strikes around them, a defense mechanism, as they attack her directly</desc>
         <sp>
             <speaker>Ursula</speaker>: You dare to strike me!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She summons an energy beam which she aims at Sora, who begins swimming around her to
             dodge it, but she continues circling, unwilling to let him escape. She catches her
             breath after the intense beam leaves her defenseless. Donald and Ariel continue
@@ -5769,8 +5733,7 @@
             She gathers strength again and lifts the trident high</desc>
         <sp>
             <speaker>Ursula</speaker>: This won’t be pretty!</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>Several lightning bolts attack the water around them, almost knocking them all out.
             Ursula, at her wit’s end, begins inhaling water, dragging Sora toward her. Instead of
             swimming away, he uses this to propel himself toward her and tackles her with the
@@ -5805,7 +5768,8 @@
         <sp>
             <speaker>Goofy</speaker>: Really... Sora, let’s go.</sp>
     </cutscene>
-    <cutscene>
+
+    <cutscene type="Normal" cutNum="134" location="Atlantica">
         <desc>They return to Ariel’s Grotto and Ariel uses the trident to reveal the Keyhole. Sora
             aims his Keyblade at it and seals it. Ariel floats over to him</desc>
         <sp>
@@ -5813,22 +5777,23 @@
         <sp>
             <speaker>Sora</speaker>: Oh, about that... Sorry for lying to you.</sp>
         <sp>
-            <speaker>Ariel (smiling)</speaker>: It’s okay. Besides, if you can travel to other
-            worlds, maybe I can, too.</sp>
-    </cutscene>
-    <cutscene>
+            <speaker>Ariel <desc>(smiling)</desc></speaker>: It’s okay. Besides, if you can travel
+            to other worlds, maybe I can, too.</sp>
+
         <desc>She swims upwards in a spiral, looking towards the surface</desc>
         <sp>
             <speaker>Ariel</speaker>: So many places I want to see... I know I’ll get there someday.
             I’ll find a way somehow. I’m sure of it.</sp>
         <sp>
-            <speaker>Sebastian (sighing)</speaker>: Well, if you find it, do me a favor and leave me
-            out of it.</sp>
+            <speaker>Sebastian <desc>(sighing)</desc></speaker>: Well, if you find it, do me a favor
+            and leave me out of it.</sp>
         <sp>
             <speaker>Ariel</speaker>: This is from my collection. I want you to have it.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>She gives Sora a keychain and they return to the gummi ship</desc>
+    </cutscene>
+
+    <cutscene type="Gameplay" cutNum="135" location="Interspace">
         <sp>
             <speaker>Sora</speaker>: I think my magic is as good as Donald’s now.</sp>
         <sp>
@@ -5836,13 +5801,13 @@
         <sp>
             <speaker>Goofy</speaker>: Why don’t you go see Merlin? Work more on your magic.</sp>
     </cutscene>
-    <cutscene>
+    
+    <cutscene type="Gameplay" cutNum="136" location="TraverseTown">
         <desc>They travel to Merlin’s Study and speak to him after training with him a bit</desc>
         <sp>
             <speaker>Merlin</speaker>: You’re making excellent progress. Here’s something for your
             effort.</sp>
-    </cutscene>
-    <cutscene>
+
         <desc>He gives them a keychain</desc>
         <sp>
             <speaker>Merlin</speaker>: Keep it up.</sp>
