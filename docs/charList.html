@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <title>Character Search List</title>
+        <meta charset="UTF-8" />
+        <meta name="author" content="My Name" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="styingsheet.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/> 
+        
+        <style>
+			h1 {
+				position:relative;
+				left: 30px;
+			}
+		
+			
+			body {
+				background-image: url("Images/khRepeat.jpeg");
+			}
+			a { color:#FFFFFF; } /* CSS link color */
+			.footer {
+  						position: fixed;
+  						left: 0;
+  						bottom: 0;
+  						width: 100%;
+  						background-color:#0054FF;
+ 						color: white;
+  						text-align: center;
+}
+		</style>
+    </head>
+    <!--This page is published at https://github.com/austinmurry/PSUStudent -->
+
+    <body>
+    
+        <!--<nav>
+            <ul class="menu">
+                <li class="menu"><a href="index.html">Home</a></li>
+                <li class="menu"><a href="todoList.html">JavaScript To-Do-List</a></li>
+                <li class="menu"><a href="charHighlight.html">Highlight Sample</a></li>
+                <li class="menu"><a href="charList.html">Character List Search</a></li>
+                <li class="menu"><a href="resume.html">Resume</a></li>
+                <li class="menu"><a href="portfolio.html">Portfolio</a></li>
+                <li class="menu"><a href="about.html">About</a></li>
+            </ul>
+        </nav>-->
+        
+        <div class="navbar">
+            <a href="index.html">Home</a>
+            <a href="Objectives.html">Objectives</a>
+            <a href="Texts.html">Texts</a>
+            <div class="subnav">
+                <button class="subnavbtn">Visualizations and Analysis <i class="fa fa-caret-down"></i></button>
+                <div class="subnav-content">
+                    <a href="FA2021-Vis.html">Fall 2021</a>
+                    <a href="SP2021-Vis.html">Spring 2021</a>
+                    <a href="charList.html">Character Search List</a>
+                    <a href="kh1.5GetLocations.php">Cutscene PHP</a>
+                    <!--<a href="#link3">DART 204</a>
+                    <a href="#link4">DART 409</a>
+                    <a href="#link4">DIGIT 495</a>-->
+                </div>
+            </div>
+            <a href="About.html">About</a>
+        </div>
+
+        <h1>Kingdom Hearts 1.5 Character List Search</h1>
+        
+        <hr class="full"/>
+
+        <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.."/>
+            
+        <ul id="charList">
+            <li><a href="#">Abu</a></li>
+            <li><a href="#">Aerith</a></li>
+            <li><a href="#">Aladdin</a></li>
+            <li><a href="#">Alice</a></li>
+            <li><a href="#">Ansem</a></li>
+            <li><a href="#">Ariel</a></li>
+            <li><a href="#">Aurora</a></li>
+            
+            <li><a href="#">Bambi</a></li>
+            <li><a href="#">Barrel</a></li>
+            <li><a href="#">Bathtub</a></li>
+            <li><a href="#">Beast</a></li>
+            <li><a href="#">Belle</a></li>
+            <li><a href="#">Brooms</a></li>
+            
+            <li><a href="#">Captain Hook</a></li>
+            <li><a href="#">Card Soldiers</a></li>
+            <li><a href="#">Carpet</a></li>
+            <li><a href="#">Cave of Wonders Guardian</a></li>
+            <li><a href="#">Cerberus</a></li>
+            <li><a href="#">Chernabog</a></li>
+            <li><a href="#">Cheshire Cat</a></li>
+            <li><a href="#">Chip</a></li>
+            <li><a href="#">Cid</a></li>
+            <li><a href="#">Cinderella</a></li>
+            <li><a href="#">Clayton</a></li>
+            <li><a href="#">Cleo</a></li>
+            <li><a href="#">Cloud</a></li>
+            <li><a href="#">Crocodile</a></li>
+            
+            <li><a href="#">Daisy Duck</a></li>
+            <li><a href="#">Dale</a></li>
+            <li><a href="#">Dewey</a></li>
+            <li><a href="#">Dolphin</a></li>
+            <li><a href="#">Donald Duck</a></li>
+            <li><a href="#">Doorknob</a></li>
+            <li><a href="#">Dr. Finkelstein</a></li>
+            <li><a href="#">Dumbo</a></li>
+            
+            <li><a href="#">Eeyore</a></li>
+            
+            <li><a href="#">Fairy Godmother</a></li>
+            <li><a href="#">Flotsam</a></li>
+            <li><a href="#">Flounder</a></li>
+            
+            <li><a href="#">Genie</a></li>
+            <li><a href="#">Geppetto</a></li>
+            <li><a href="#">Goofy</a></li>
+            
+            <li><a href="#">Hades</a></li>
+            <li><a href="#">Hercules</a></li>
+            <li><a href="#">Huey</a></li>
+            
+            <li><a href="#">Iago</a></li>
+            <li><a href="#">Ice Titan</a></li>
+            
+            <li><a href="#">Jack Skellington</a></li>
+            <li><a href="#">Jafar</a></li>
+            <li><a href="#">Jane</a></li>
+            <li><a href="#">Jasmine</a></li>
+            <li><a href="#">Jetsam</a></li>
+            <li><a href="#">Jiminy Cricket</a></li>
+            
+            <li><a href="#">Kairi</a></li>
+            <li><a href="#">Kairi's Grandmother</a></li>
+            <li><a href="#">Kala</a></li>
+            <li><a href="#">Kerchak</a></li>
+            <li><a href="#">King Mickey</a></li>
+            <li><a href="#">King Triton</a></li>
+            
+            <li><a href="#">Leon</a></li>
+            <li><a href="#">Lock</a></li>
+            <li><a href="#">Louie</a></li>
+            
+            <li><a href="#">Maleficent</a></li>
+            <li><a href="#">Merlin</a></li>
+            <li><a href="#">Moogles</a></li>
+            <li><a href="#">Mr. Smee</a></li>
+            <li><a href="#">Mushu</a></li>
+            
+            <li><a href="#">Oogie Boogie</a></li>
+            <li><a href="#">Owl</a></li>
+            
+            <li><a href="#">Perdita</a></li>
+            <li><a href="#">Peter Pan</a></li>
+            <li><a href="#">Philoctetes</a></li>
+            <li><a href="#">Piglet</a></li>
+            <li><a href="#">Pinocchio</a></li>
+            <li><a href="#">Pluto</a></li>
+            <li><a href="#">Pongo</a></li>
+            
+            <li><a href="#">Queen Minnie</a></li>
+            <li><a href="#">Queen of Hearts</a></li>
+            
+            <li><a href="#">Rabbit</a></li>
+            <li><a href="#">Riku</a></li>
+            <li><a href="#">Rock Titan</a></li>
+            <li><a href="#">Roo</a></li>
+            
+            <li><a href="#">Sabor</a></li>
+            <li><a href="#">Sally</a></li>
+            <li><a href="#">Sebastian</a></li>
+            <li><a href="#">Selphie</a></li>
+            <li><a href="#">Sephiroth</a></li>
+            <li><a href="#">Shark</a></li>
+            <li><a href="#">Shock</a></li>
+            <li><a href="#">Simba</a></li>
+            <li><a href="#">Snow White</a></li>
+            <li><a href="#">Sora</a></li>
+            
+            <li><a href="#">Tarzan</a></li>
+            <li><a href="#">Terk</a></li>
+            <li><a href="#">The 99 Dalmatian Puppies</a></li>
+            <li><a href="#">The Mayor</a></li>
+            <li><a href="#">The Peddler</a></li>
+            <li><a href="#">Tidus</a></li>
+            <li><a href="#">Tigger</a></li>
+            <li><a href="#">Tinker Bell</a></li>
+            
+            <li><a href="#">Ursula</a></li>
+            
+            <li><a href="#">Wakka</a></li>
+            <li><a href="#">Wendy</a></li>
+            <li><a href="#">White Rabbit</a></li>
+            <li><a href="#">Winnie the Pooh</a></li>
+            
+            <li><a href="#">Yuffie</a></li>
+            
+            <li><a href="#">Zero</a></li>
+        </ul>
+        
+        <script type="text/javascript" src="charListSearch.js">/**/</script>
+        
+    </body>
+</html>
