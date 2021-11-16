@@ -82,5 +82,9 @@
         ?>
         
         </ul>
+        
+        <section id="iframe">
+            <iframe src="kh1.5GetCutScenes.php" name="cutscenes" height="500" width="1000" class="iframe"/>
+        </section> 
     </body>
 </html>
