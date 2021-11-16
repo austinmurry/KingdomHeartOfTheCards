@@ -28,21 +28,30 @@
         
         <hr/>
         
-        <ul>
+        <section id="cutscenes">
+         <?php
+            require_once("config.php");
+             $location = htmlspecialchars($_GET["location"]);
+            
+            $contents = REST_PATH . "/db/ajm7408/FA2021/kh1.5PHPGetCutScenes.xql?location=$location";
+            $result = file_get_contents($contents);
+            echo $result;
+        ?> 
+        </section>
         
-        <?php
+     <!--      <ul>
+        
+     <?php
             require_once("config.php");
              $location = htmlspecialchars($_GET["location"]);
             
             $contents = REST_PATH . "/db/ajm7408/FA2021/kh1.5PHPGetCutNums.xql?location=$location";
             $result = file_get_contents($contents);
             echo $result;
-        ?>
+        ?> 
         
-        </ul>
+        </ul>-->
         
-        <section id="iframe">
-            <iframe src="kh1.5GetCutScenes.php" name="cutscenes" height="500" width="1000" class="iframe"/>
-        </section> 
+    
     </body>
 </html>
