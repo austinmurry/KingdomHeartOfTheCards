@@ -28,25 +28,12 @@
  						color: white;
   						text-align: center;
 }
-		</style>          
+		</style>       
     </head>
     <!--This page is published at https://github.com/austinmurry/PSUStudent -->
     
     <body>
 
-        <!--<nav>
-            <ul class="menu">
-                <li class="menu"><a href="index.html">Home</a></li>
-                <li class="menu"><a href="todoList.html">JavaScript To-Do-List</a></li>
-                <li class="menu"><a href="charHighlight.html">Highlight Sample</a></li>
-                <li class="menu"><a href="charList.html">Character List Search</a></li>
-                <li class="menu"><a href="kh1.5GetLocations.php">Cutscene PHP</a></li>
-                <li class="menu"><a href="resume.html">Resume</a></li>
-                <li class="menu"><a href="portfolio.html">Portfolio</a></li>
-                <li class="menu"><a href="about.html">About</a></li>
-            </ul>
-        </nav>-->
-        
         <div class="navbar">
             <a href="index.html">Home</a>
             <a href="Objectives.html">Objectives</a>
@@ -68,23 +55,32 @@
         
         <h1>These are the cutscenes associated with the selected Kingdom Hearts 1.5 location.</h1>
         
-        <hr class="full"/>
+        <hr/>
         
-        <ul>
+        <section id="cutscenes">
+         <?php
+            require_once("config.php");
+             $location = htmlspecialchars($_GET["location"]);
+            
+            $contents = REST_PATH . "/db/ajm7408/FA2021/kh1.5PHPGetCutScenes.xql?location=$location";
+            $result = file_get_contents($contents);
+            echo $result;
+        ?> 
+        </section>
         
-        <?php
+     <!--      <ul>
+        
+     <?php
             require_once("config.php");
              $location = htmlspecialchars($_GET["location"]);
             
             $contents = REST_PATH . "/db/ajm7408/FA2021/kh1.5PHPGetCutNums.xql?location=$location";
             $result = file_get_contents($contents);
             echo $result;
-        ?>
+        ?> 
         
-        </ul>
+        </ul>-->
         
-        <section id="iframe">
-            <iframe src="kh1.5GetCutScenes.php" name="cutscenes" height="500" width="1000" class="iframe"/>
-        </section> 
+    
     </body>
 </html>
