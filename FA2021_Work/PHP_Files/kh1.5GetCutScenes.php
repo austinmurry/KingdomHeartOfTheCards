@@ -60,8 +60,7 @@
         <section id="cutscenes">
          <?php
             require_once("config.php");
-             $location = htmlspecialchars($_GET["number"]);
-            
+            $number = htmlspecialchars($_GET["number"]);
             $contents = REST_PATH . "/db/ajm7408/FA2021/kh1.5PHPGetCutScenes.xql?number=$number";
             $result = file_get_contents($contents);
             echo $result;
