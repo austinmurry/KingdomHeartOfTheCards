@@ -15,9 +15,8 @@
 			}
 		
 			
-			body {
-				background-image: url("Images/khRepeat.jpeg");
-			}
+			
+			
 			a { color:#FFFFFF; } /* CSS link color */
 			.footer {
   						position: fixed;
@@ -34,7 +33,7 @@
     
     <body>
 
-        <div class="navbar">
+        <!--<div class="navbar">
             <a href="index.html">Home</a>
             <a href="Objectives.html">Objectives</a>
             <a href="Texts.html">Texts</a>
@@ -47,21 +46,20 @@
                     <a href="kh1.5GetLocations.php">Cutscene PHP</a>
                     <!--<a href="#link3">DART 204</a>
                     <a href="#link4">DART 409</a>
-                    <a href="#link4">DIGIT 495</a>-->
+                    <a href="#link4">DIGIT 495</a>
                 </div>
             </div>
             <a href="About.html">About</a>
-        </div>
+        </div>-->
         
-        <h1>These are the cutscenes associated with the selected Kingdom Hearts 1.5 location.</h1>
+        <h1>Text associate with selected cutscene</h1>
         
         <hr/>
         
         <section id="cutscenes">
          <?php
             require_once("config.php");
-             $location = htmlspecialchars($_GET["number"]);
-            
+            $number = htmlspecialchars($_GET["number"]);
             $contents = REST_PATH . "/db/ajm7408/FA2021/kh1.5PHPGetCutScenes.xql?number=$number";
             $result = file_get_contents($contents);
             echo $result;

@@ -1,26 +1,18 @@
 <!doctype html>
 <html>
 <head>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-more {display: none;}
-</style>
-<meta charset="utf-8">
-<title>Texts</title>
+<meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Network Graph Page</title>
 	<link rel="stylesheet" type="text/css" href="styingsheet.css" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
 	<style>
-			h1{
-				position:relative;
-				left:50px;
-			
-		}
+		
 			body {
 				background-image: url("Images/khRepeat.jpeg");
 			}
+		a { color:#FFFFFF; } /* CSS link color */
 		
-		
-    a { color:#FFFFFF; } /* CSS link color */
 		.footer {
   						position: fixed;
   						left: 0;
@@ -29,11 +21,9 @@ more {display: none;}
   						background-color:#0054FF;
  						color: white;
   						text-align: center;
-		}
-	
+  			}
 		</style>
 </head>
-	
 
 <body>
 	
@@ -48,7 +38,7 @@ more {display: none;}
 				<a href="SP2021-Vis.html">Spring 2021</a>
 				<a href="charList.html">Character Search List</a>
 				<a href="kh1.5GetLocations.php">Cutscene PHP</a>
-				<a href="network.html">Network Visualizations</a>
+			    <a href="network.html">Network Visualizations</a>
 				<!--<a href="#link3">DART 204</a>
                     <a href="#link4">DART 409</a>
                     <a href="#link4">DIGIT 495</a>-->
@@ -57,28 +47,32 @@ more {display: none;}
 		<a href="About.html">About</a>
 	</div>
 	
-	<h1>Original Kingdom Hearts Scripts</h1>
+	<h1 class="network">Network Graph</h1>
 	
-		<hr class="full">
-		
-	<div class="child-seven child">
-			
-		<p>Below are the links to the scripts we used! The scripts are from GameFaqs! <br>Further credit is provided directly on the texts!</p>
-			
-		 <b><p>
-			<a href="https://gamefaqs.gamespot.com/ps3/684080-kingdom-hearts-hd-15-remix/faqs/68066" target="_blank">Kingdom Hearts 1.5 Script</a><br>
-			<a href="https://gamefaqs.gamespot.com/ps3/735143-kingdom-hearts-hd-25-remix/faqs/69514" target="_blank">Kingdom Hearts 2.5 script</a><br>
-			<a href="https://gamefaqs.gamespot.com/ps4/718920-kingdom-hearts-iii/faqs/78466" target="_blank">Kingdom Hearts 3 Script</a><br>
-			
-			</p></b>
-		
-		</div>
-		
-		
-			
-		</div>
+	<hr class="network"/>
+    
+    <div id="cy">
+        
+        <script src="web_session/networks.js"> </script>
+        <script src="web_session/styles.js"> </script>
+        <script src="web_session/scripts/vendor.js"></script>
+        <script src="web_session/scripts/main.js"></script>
+    </div>
+    
+    <div class="legend">
+        <h1 class="leg">Legend</h1>
+        <div><div class='box green'></div>Green Line: Gameplay Cutscene</div>
+        <br>
+        <div><div class='box orange'></div>Orange Line: Normal Cutscene</div>
+        <br>
+        <div><div class='box yellow'></div>Yellow Line: Opening Cutscene</div>
+        <br>
+        <div><div class='box purple'></div>Purple Line: Special Ending</div>
+    </div>
+	
 	<div class="footer">
-  <p>Created by the Kingdom Hearts Project Team SP2021 @ Penn State Behrend</p>
-</div>
+	    <p>Created by the Kingdom Hearts Project Team SP2021 @ Penn State Behrend</p>
+	</div>
+
 </body>
 </html>
