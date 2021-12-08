@@ -329,3 +329,9 @@ div.legend {
 .orange {
   background-color: orange;
 }
+
+div.soraGif {
+    position: absolute;
+    left: 350px;
+    bottom: -250px;
+}
