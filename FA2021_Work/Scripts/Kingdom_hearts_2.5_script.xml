@@ -6,7 +6,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <heading>
                 <meta>
                         <editor>Cameron Bigi</editor>
-                        <dateRange from="2021-10-1" to="2021-10-8"/>
+                        <dateRange from="2021-10-01" to="2021-11-28"/>
                 </meta>
                 <gameInfo>
                         <gameTitle>Kingdom Hearts II</gameTitle>
@@ -20,19 +20,21 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         />
                 </sourceDesc>
         </heading>
+        
         <cutscene type="Opening" cutNum="1" location="Unknown">
                 <desc>Buena Vista Games Square Enix <gameTitle>Kingdom Hearts II</gameTitle>
                 </desc>
 
                 <desc>The words rush the screen and the camera moves through them. Fade in to Sora
                         standing at a crossroads. More words appear on the screen</desc>
-        </cutscene>
+        
 
         <sp>
                 <speaker>Sora</speaker> A scattered dream that's like a far-off memory. A far-off
                 memory that's like a scattered dream. I want to line the pieces up--yours and
                 mine.</sp>
-
+        </cutscene>
+        
         <cutscene type="Opening" cutNum="2" location="Unknown">
                 <desc>Kairi sits on the Destiny Islands beach, making a charm of thalassa shells. A
                         shell is washed away in the water. Sora, Kairi, and Riku watch the sunset,
@@ -75,7 +77,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         away. At a dark ocean beach, two people in black coats meet, one sitting on
                         a rock overlooking the beach</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="3" location="WorldOfDarkness">
+        <cutscene type="Normal" cutNum="3" location="WorldofDarkness">
                 <sp>
                         <speaker>??????</speaker> You have arrived. I've been to see him... He looks
                         a lot like you.</sp>
@@ -98,7 +100,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         <speaker>?????</speaker> My true name...is...</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="4" location="DestinyIsland">
+        <cutscene type="Normal" cutNum="4" location="DestinyIslands">
                 <desc>Sora's memories play through his head</desc>
 
 
@@ -1347,14 +1349,14 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Roxas</speaker> Huh...?</sp>
 
         </cutscene>
-                <cutscene type="Normal" cutNum="24" location="TiwlightTown">
+                <cutscene type="Normal" cutNum="24" location="TwilightTown">
                 <desc>The words 'The 3rd Day' appear on the screen. Roxas walks into the Usual Spot
                         and sees a letter on the couch <q>Meet at the station. Today's the day we
                                 hit the beach--and don't sweat about the munny! -- Hayner</q>
                 </desc>
                 </cutscene>
 
-        <cutscene type="Normal" cutNum="25" location="TiwlightTown">
+        <cutscene type="Normal" cutNum="25" location="TwilightTown">
                 <desc>Roxas rides to the Market Street: Station Heights and sees Pence and
                         Olette</desc>
         
@@ -1481,7 +1483,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         time</desc>
         </cutscene>
         
-        <cutscene type="Normal" cutNum="28" location="StationOfSerenity">
+        <cutscene type="Normal" cutNum="28" location="StationofSerenity">
 
         <sp>
                 <speaker>Roxas</speaker> Not good...</sp>
@@ -5321,7 +5323,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 fightin'.</sp>
         </cutscene>
         
-        <cutscene type="Gameplay" cutNum="80" location="HallowBastion">
+        <cutscene type="Gameplay" cutNum="80" location="HollowBastion">
         
                 <desc>Sora and company walk through the Marketplace and spot an elderly duck holding
                         some ice cream near a freezer</desc>
@@ -5368,7 +5370,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Scrooge</speaker> Terrible...!</sp>
         </cutscene>
         
-        <cutscene type="Normal" cutNum="81" location="HallowBastion">
+        <cutscene type="Normal" cutNum="81" location="HollowBastion">
         
                 <desc>Sora, Donald, and Goofy make their way to the Borough, where some odd light
                         pedestals appear and disappear, as if scanning for something</desc>
@@ -5398,7 +5400,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         mechanism also helps</desc>
         </cutscene>
         
-        <cutscene type="Normal" cutNum="82" location="HallowBastion">
+        <cutscene type="Normal" cutNum="82" location="HollowBastion">
 
         <sp>
                 <speaker>Yuffie</speaker> Hey, you guys!</sp>
@@ -5463,7 +5465,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>Yuffie runs around the corner. The others follow her and enter Merlin's House.
                         Cid is typing at a computer, while Aerith and Leon watch</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="83" location="HallowBastion">
+        <cutscene type="Normal" cutNum="83" location="HollowBastion">
 
         <sp>
                 <speaker>Yuffie</speaker> Meet the Hollow Bastion Restoration Committee!</sp>
@@ -5634,7 +5636,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Sora</speaker> Oh no! We're supposed to be at the bailey!</sp>
         </cutscene>
-        <cutscene type="Gameplay" cutNum="84" location="HallowBastion">
+        <cutscene type="Gameplay" cutNum="84" location="HollowBastion">
 
         <sp>
                 <speaker>Merlin</speaker> Just a moment, Sora. What about your magic?</sp>
@@ -5660,7 +5662,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Donald</speaker> To the bailey, and fast!</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="85" location="HallowBastion">
+        <cutscene type="Normal" cutNum="85" location="HollowBastion">
                 <desc>Sora and company reach the bailey, and see Leon looking over the edge at the
                         dark castle far in the distance</desc>
        
@@ -5727,7 +5729,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         Nobodies away from the gate</desc>
         </cutscene>
         
-        <cutscene type="Normal" cutNum="86" location="HallowBastion">
+        <cutscene type="Normal" cutNum="86" location="HollowBastion">
         
 
         <sp>
@@ -5977,7 +5979,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 Make sure it is one he will remember. Now, go.</sp>
         </cutscene>
         
-        <cutscene type="Normal" cutNum="88" location="LandofDragons">
+        <cutscene type="Normal" cutNum="88" location="TheLandofDragons">
 
         
                 <desc>All but the leader teleport away. Sora's group reboards the Gummi Ship and
@@ -6039,7 +6041,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Goofy</speaker> Gawrsh, maybe we better look before we leap.</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="89" location="LandofDragons">
+        <cutscene type="Normal" cutNum="89" location="TheLandofDragons">
                 <desc>Mulan gasps as they run in. Mushu jumps from behind the rock into Mulan's
                         arms. He is definitely not a large dragon</desc>
         
@@ -6197,7 +6199,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         
                 <desc>They walk into the encampment</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="90" location="LandofDragons">
+        <cutscene type="Normal" cutNum="90" location="TheLandofDragons">
         
 
         <sp>
@@ -6342,7 +6344,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Sora</speaker> Ping, I hope you're ready!</sp>
         </cutscene>
 
-        <cutscene type="Gameplay" cutNum="91" location="LandofDragons">
+        <cutscene type="Gameplay" cutNum="91" location="TheLandofDragons">
                 <desc>They successfully get rid of the Heartless and the captain speaks to
                         them</desc>
         
@@ -6418,7 +6420,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Sora, Donald, Goofy, &amp; Ping</speaker> Sir!</sp>
         </cutscene>
 
-        <cutscene type="Gameplay" cutNum="92" location="LandofDragons">
+        <cutscene type="Gameplay" cutNum="92" location="TheLandofDragons">
                 <desc>They talk to Captain Shang when they're ready</desc>
         
 
@@ -6478,7 +6480,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Sora, Donald, Goofy, &amp; Ping</speaker> Sir!</sp>
         </cutscene>
 
-        <cutscene type="Gameplay" cutNum="93" location="LandofDragons">
+        <cutscene type="Gameplay" cutNum="93" location="TheLandofDragons">
                 <desc>After readying themselves</desc>
         
         <sp>
@@ -6487,12 +6489,12 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 down!</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="94" location="LandofDragons">
+        <cutscene type="Normal" cutNum="94" location="TheLandofDragons">
                 <desc>As the group enters the Mountain Trail, a hawk flies overhead. They fight
                         their way to a village</desc>
         </cutscene>
         
-        <cutscene type="Gameplay" cutNum="95" location="LandofDragons">
+        <cutscene type="Gameplay" cutNum="95" location="TheLandofDragons">
 
         <sp>
                 <speaker>Yao</speaker> Hey, you ain't half bad.</sp>
@@ -6551,7 +6553,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Ping</speaker> Thanks!</sp>
         </cutscene>
 
-        <cutscene type="Gameplay" cutNum="96" location="LandofDragons">
+        <cutscene type="Gameplay" cutNum="96" location="TheLandofDragons">
                 <desc>They enter a small village near the summit</desc>
         
 
@@ -6593,7 +6595,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 village!</sp>
         </cutscene>
 
-        <cutscene type=Gameplay"" cutNum="97" location="LandofDragons">
+        <cutscene type="Gameplay" cutNum="97" location="TheLandofDragons">
                 <desc>They enter the Village Cave and find a small shrine</desc>
        
         <sp>
@@ -6647,7 +6649,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         room, leaving Sora and Ping to take care of them</desc>
         </cutscene>
         
-        <cutscene type="Gameplay" cutNum="98" location="LandofDragons">
+        <cutscene type="Gameplay" cutNum="98" location="TheLandofDragons">
 
         <sp>
                 <speaker>Sora</speaker> Nice fighting, Ping! You were amazing.</sp>
@@ -6673,7 +6675,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 how thousands of Heartless stormed the cave, and Ping took out almost every one of
                 'em!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="99" location="LandofDragons">
+        <cutscene type="Normal" cutNum="99" location="TheLandofDragons">
         
                 <desc>They return to the Village, which has been reduced to smoking ashes. They find
                         Li Shang among the rubble clutching his side</desc>
@@ -6729,7 +6731,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Sora</speaker> Let's go.</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="100" location="LandofDragons">
+        <cutscene type="Normal" cutNum="100" location="TheLandofDragons">
                 <desc>The group runs through the Ridge to the Summit. The hawk flies over them to
                         land on Shan-Yu's shoulder at the top of the summit. Hundreds of Heartless
                         hover over the edge of the cliff. Sora, Donald, Goofy, and Ping get ready to
@@ -6741,7 +6743,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Shan-Yu</speaker> Attack!</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="101" location="LandofDragons">
+        <cutscene type="Normal" cutNum="101" location="TheLandofDragons">
                 <desc>The Heartless charge down the mountain toward the group. Sora tries to fight
                         them off until Shan-Yu speeds down the mountain with the group behind him.
                         The hawk flies overhead as Yao, Chien-Po, and Ling enter the summit with a
@@ -6777,7 +6779,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Mushu</speaker> Me, hey, whoa! Whoa! Wait a second! Ah!</sp>
 
-        <
+        
                 <desc>Ping grabs Mushu and stretches him so his fire breath lights the fire cannon.
                         Mushu ends up on the head of the cannon as it explodes, shooting him off to
                         the mountaintop</desc>
@@ -6948,7 +6950,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 Shang!</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="102" location="LandofDragons">
+        <cutscene type="Normal" cutNum="102" location="TheLandofDragons">
                 <desc>They race to the city, where the troops have just entered the palace
                         walls</desc>
         
@@ -7007,7 +7009,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>Shang nods and races to the main palace building. The Heartless surround the
                         remaining group. They quickly decimate the Heartless</desc>
         </cutscene>
-        <cutscene type="Gameplay" cutNum="103" location="LandofDragons">
+        <cutscene type="Gameplay" cutNum="103" location="TheLandofDragons">
 
         <sp>
                 <speaker>Mulan</speaker> The Emperor's in danger!</sp>
@@ -7017,7 +7019,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 </speaker> No time to lose!</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="104" location="LandofDragons">
+        <cutscene type="Normal" cutNum="104" location="TheLandofDragons">
                 <desc>They run across Imperial Square to the Palace Gate, where Shan-Yu stands with
                         his sword to the Emperor</desc>
         
@@ -7045,7 +7047,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         losing the grip on his sword. Mushu jumps around happily</desc>
         </cutscene>
         
-        <cutscene type="Normal" cutNum="105" location="LandofDragons">
+        <cutscene type="Normal" cutNum="105" location="TheLandofDragons">
 
         <sp>
                 <speaker>Mushu</speaker> Now that's what I call burning some hunny-bun! Aw, yeah!
@@ -7228,7 +7230,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Mulan</speaker> Goodbye, Sora, Donald, Goofy!</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="106" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="106" location="BeastsCastle">
                 <desc>Sora, Donald, and Goofy walk down the steps of the Imperial Palace and leave
                         the Land of Dragons. Sora pilots the Gummi Ship through the Stardust Sweep
                         to an enchanted castle in the midst of a dark forest. The three enter
@@ -7278,7 +7280,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Donald</speaker> C'mon!</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="107" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="107" location="BeastsCastle">
                 <desc>The three run to the room. Donald peeks around the doorframe</desc>
         
 
@@ -7299,7 +7301,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         to fight them off, but more just keep coming</desc>
         </cutscene>
         
-        <cutscene type="Normal" cutNum="108" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="108" location="BeastsCastle">
 
         <sp>
                 <speaker>Sora</speaker> Aw, c'mon! Enough already!</sp>
@@ -7332,7 +7334,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Donald</speaker> Why'd he have to do that?</sp>
         </cutscene>
 
-        <cutscene type="Gameplay" cutNum="109" location="Beast'sCastle">
+        <cutscene type="Gameplay" cutNum="109" location="BeastsCastle">
                 <desc>The three leave the room, but Donald stops</desc>
        
 
@@ -7359,7 +7361,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Goofy</speaker> C'mon! Let's go find her!</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="110" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="110" location="BeastsCastle">
                 <desc>The trio run up the stairs into the East Wing. Sora turns around and puts a
                         finger to his lips</desc>
         
@@ -7420,7 +7422,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>Belle finally realizes and sets the dizzy Donald down</desc>
         </cutscene>
         
-        <cutscene type="Gameplay" cutNum="111" location="Beast'sCastle">
+        <cutscene type="Gameplay" cutNum="111" location="BeastsCastle">
 
         <sp>
                 <speaker>Donald</speaker> Where's the Beast?</sp>
@@ -7485,14 +7487,14 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>Sora gives her a thumbs up. They leave and enter the west hall past rows of
                         armor</desc>
         </cutscene>
-        <cutscene type="Gameplay" cutNum="112" location="Beast'sCastle">
+        <cutscene type="Gameplay" cutNum="112" location="BeastsCastle">
 
         <sp>
                 <speaker>Sora</speaker> There should be a way into the undercroft around
                 here...</sp>
         </cutscene>
         
-        <cutscene type="Gameplay" cutNum="113" location="Beast'sCastle">
+        <cutscene type="Gameplay" cutNum="113" location="BeastsCastle">
                 <desc>Sora finds a wardrobe down the hall that seems to be blocking something, so he
                         tries to move it. Behind, he sees a door</desc>
         
@@ -7507,7 +7509,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>The wardrobe moves back again, blocking the door. Sora again pushes the
                         wardrobe slowly so as not to wake her up. Once he finally moves her
                         completely out of the way, she wakes up</desc>
-        <
+        
 
         <sp>
                 <speaker>Wardrobe</speaker> And I was just starting to get comfortable... May I help
@@ -7570,7 +7572,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Sora</speaker> All right. Let's get going.</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="114" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="114" location="BeastsCastle">
                 <desc>They enter the door to the undercroft and find a strange door with two stone
                         creatures on it</desc>
         
@@ -7593,7 +7595,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         odd dark spiked ball floats out of it. They watch it hover into the room and
                         disappear. The door becomes unlocked</desc>
         </cutscene>
-        <cutscene type="Gameplay" cutNum="115" location="Beast'sCastle">
+        <cutscene type="Gameplay" cutNum="115" location="BeastsCastle">
 
         <sp>
                 <speaker>Donald</speaker> You think the dungeon's past this door?</sp>
@@ -7605,7 +7607,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Sora</speaker> He's right. Let's go.</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="116" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="116" location="BeastsCastle">
                 <desc>They enter the door and find a small room with a few objects inside</desc>
         
 
@@ -7704,7 +7706,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Cogsworth</speaker> Thank you!</sp>
         </cutscene>
 
-        <cutscene type="Gameplay" cutNum="117" location="Beasts'sCastle">
+        <cutscene type="Gameplay" cutNum="117" location="BeastsCastle">
                 <desc>Cogsworth dusts off and clears his throat</desc>
         
 
@@ -7786,7 +7788,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Lumiere</speaker> Follow me, messieurs. I know a shortcut.</sp>
         </cutscene>
 
-        <cutscene type="Gameplay" cutNum="118" location="Beast'sCastle">
+        <cutscene type="Gameplay" cutNum="118" location="BeastsCastle">
                 <desc>They continue into the undercroft. On the upper level, two suits of armor
                         guard a door</desc>
         
@@ -7923,7 +7925,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 I shall go on ahead and wait for you.</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="119" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="119" location="BeastsCastle">
                 <desc>Sora proceeds through the west wing into The Beast's Room. The Beast is
                         talking with a hooded visitor in front of the enchanted rose</desc>
         
@@ -7966,7 +7968,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>The Beast angrily slashes and growls at Sora and Donald, who leap out of the
                         way. The Beast lets out another loud roar, and the fight ensues</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="120" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="120" location="BeastsCastle">
         <sp>
                 <speaker>Cogsworth</speaker> Please, Master! Please! Compose yourself!</sp>
 
@@ -8051,7 +8053,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Sora</speaker> No excuses! C'mon, we'll go with you.</sp>
         </cutscene>
 
-        <cutscene type="Gameplay" cutNum="121" location="Beast'sCastle">
+        <cutscene type="Gameplay" cutNum="121" location="BeastsCastle">
                 <desc>The group proceeds to Belle's Room in the East Wing</desc>
         
 
@@ -8081,7 +8083,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Sora</speaker> We'd better go find her!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="122" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="122" location="BeastsCastle">
         
                 <desc>They race to the Entrance Hall</desc>
         
@@ -8096,7 +8098,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Belle</speaker> Beast! Help! I'm in the ballroom!</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="123" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="123" location="BeastsCastle">
                 <desc>Belle runs across the ballroom floor, as Sora and crew enter</desc>
         
 
@@ -8120,7 +8122,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         battle with the monster, it roars and is obliterated. The ballroom returns
                         to normal</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="124" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="124" location="BeastsCastle">
 
         <sp>
                 <speaker>Sora</speaker> We did it!</sp>
@@ -8311,7 +8313,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>The ship docks in Hollow Bastion and they get off at the Borough</desc>
         </cutscene>
         
-        <cutscene type="Normal" cutNum="126" location="HallowBastion">
+        <cutscene type="Normal" cutNum="126" location="HollowBastion">
 
         <sp>
                 <speaker>Sora</speaker> I wonder what's up.</sp>
@@ -8332,7 +8334,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Sora</speaker> C'mon!</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="127" location="HallowBastion">
+        <cutscene type="Normal" cutNum="127" location="HollowBastion">
                 <desc>They run into the house and see Merlin on the floor. Merlin adjusts his
                         glasses and stands up as Sora runs over to him</desc>
         
@@ -8385,7 +8387,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         
                 <desc>Donald opens the book and holds it up</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="128" location="HallowBastion">
+        <cutscene type="Normal" cutNum="128" location="HollowBastion">
 
         <sp>
                 <speaker>Goofy</speaker> Sora...</sp>
@@ -8436,7 +8438,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Sora</speaker> Donald?</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="129" location="HallowBastion">
+        <cutscene type="Normal" cutNum="129" location="HollowBastion">
                 <desc>Sora runs outside to join his friends in midbattle with the Heartless</desc>
         
 
@@ -8455,7 +8457,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Donald</speaker> Give that back!</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="130" location="HallowBastion">
+        <cutscene type="Normal" cutNum="130" location="HollowBastion">
                 <desc>They fight the Heartless, but the book's cover gets slashed in the process.
                         Sora picks it up off the ground</desc>
         
@@ -8476,7 +8478,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Sora</speaker> Great!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="131" location="TheHundredAcreWood">
+        <cutscene type="Normal" cutNum="131" location="100AcreWoods">
 
         
                 <desc>Donald takes the book and holds it open again. Sora reenters and goes to
@@ -8529,7 +8531,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
 
                 <desc>Sora leaves the book</desc>
         </cutscene>
-        <cutscene type="Gameplay" cutNum="132" location="HallowBastion">
+        <cutscene type="Gameplay" cutNum="132" location="HollowBastion">
 
         <sp>
                 <speaker>Merlin</speaker> Couldn't be bothered to wait up for an old wizard,
@@ -9487,7 +9489,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 </speaker> You gotta find Meg!</sp>
         </cutscene>
 
-        <cutscene type="Gameplay" cutNum="154 location="OlympusColiseum">
+        <cutscene type="Gameplay" cutNum="154" location="OlympusColiseum">
                 <desc>The horse nods and flaps his wings. It flies into the air and over the
                         Coliseum walls. Hercules sighs. Sora, Donald, and Goofy return to the
                         Underworld Entrance and see Phil on the floor</desc>
@@ -9964,7 +9966,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         in Hollow Bastion, Maleficent stands looking out past large spinning
                         cogs</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="167" location="HallowBastion">
+        <cutscene type="Normal" cutNum="167" location="HollowBastion">
 
         <sp>
                 <speaker>Maleficent</speaker> And where is everyone else?</sp>
@@ -10335,7 +10337,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Sora</speaker> Yeah. Let's go!</sp>
         </cutscene>
 
-        <cutscene type="Normal" cutNum="174" location="HallowBastion">
+        <cutscene type="Normal" cutNum="174" location="HollowBastion">
                 <desc>They fly to Hollow Bastion and enter Merlin's House</desc>
         
 
@@ -12838,7 +12840,6 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         into the shell in Ursula's hands. Sebastian and Flounder gasp. Sora braves
                         the wind tunnel before it dissipates, and they see Ariel with legs trying to
                         swim to the surface for air</desc>
-        </cutscene>
 
         <sp>
                 <speaker>Sora</speaker> Oh, no! She can't breathe like that!</sp>
@@ -13048,8 +13049,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
 
         
                 <desc>Sora, Donald, and Goofy make themselves less noticeable</desc>
-        </cutscene>
-
+        
         <sp>
                 <speaker>Vanessa <desc>singing</desc>
                 </speaker> Where would we walk? Where would we run? If we could stay all day in the
@@ -15321,7 +15321,6 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
 
         
                 <desc>The Peddler races after them</desc>
-        <>
 
         <sp>
                 <speaker>Peddler</speaker> Come back here!</sp>
@@ -18187,7 +18186,6 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         
                 <desc>Donald and Goofy nod and they run to the Sandlot. Seifer, Fuu, and Rai are
                         lying on the ground surrounded by Dusks. Seifer tries to get up</desc>
-        </cutscene>
 
         <sp>
                 <speaker>Sora</speaker> We'll take it from here!</sp>
@@ -18541,7 +18539,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 lost, when it may never have existed in the first place. He deserves nothing more
                 than our pity.</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="271" location="Unknwon">
+        <cutscene type="Normal" cutNum="271" location="Unknown">
 
         
                 <desc>Sora's group returns to the gummi ship. Sora sighs</desc>
@@ -18583,7 +18581,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>They hurry to Hollow Bastion and enter the Marketplace. A large troupe of
                         Heartless ascend the stairs and vanish, to their surprise</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="272" location="HallowBastion">
+        <cutscene type="Normal" cutNum="272" location="HollowBastion">
 
         <sp>
                 <speaker>Sora</speaker> Do you think...</sp>
@@ -18604,7 +18602,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Goofy</speaker> I think they're at Merlin's.</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="273" location="HallowBastion">
+        <cutscene type="Normal" cutNum="273" location="HollowBastion">
 
         
                 <desc>On the way to the Borough, they spot Scrooge McDuck</desc>
@@ -18739,7 +18737,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Aerith</speaker> You're right.</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="274" location="HallowBastion">
+        <cutscene type="Normal" cutNum="274" location="HollowBastion">
 
         
                 <desc>Sora, Donald, and Goofy continue into the Borough and enter Merlin's House,
@@ -18786,7 +18784,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         
                 <desc>They walk to the Bailey</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="273" location="HallowBastion">
+        <cutscene type="Normal" cutNum="273" location="HollowBastion">
 
         <sp>
                 <speaker>Yuna</speaker> Excuse me, are you with the Restoration Committee?</sp>
@@ -18860,7 +18858,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>Yuna disappears. Rikku poses happily and vanishes. Goofy and Donald look to
                         Sora, who shrugs. They walk on to the Postern</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="274" location="HallowBastion">
+        <cutscene type="Normal" cutNum="274" location="HollowBastion">
 
         <sp>
                 <speaker>Sora</speaker> Leon!</sp>
@@ -18900,7 +18898,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Aerith</speaker> Good idea! They're right through there.</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="275" location="HallowBastion">
+        <cutscene type="Normal" cutNum="275" location="HollowBastion">
 
         
                 <desc>They walk into the Corridors. A small blue creature crawls along the ceiling.
@@ -18976,7 +18974,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         
                 <desc>Leon nods</desc>
         </cutscene>
-        <cutscene type="Gameplay" cutNum="276" location="HallowBastion">
+        <cutscene type="Gameplay" cutNum="276" location="HollowBastion">
 
         <sp>
                 <speaker>Sora</speaker> Isn't the King with you?</sp>
@@ -19004,7 +19002,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         
                 <desc>They enter the room and Sora runs up to the large keyboard</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="277" location="HallowBastion">
+        <cutscene type="Normal" cutNum="277" location="HollowBastion">
 
         <sp>
                 <speaker>Sora</speaker> This is it! Where's Kairi? Where's Riku?</sp>
@@ -19410,7 +19408,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Tron</speaker> Okay. You're good to go. Hurry!</sp>
         </cutscene>
         
-        <cutscene type="Gameplay" cutNum="282" location="HallowBastion">
+        <cutscene type="Gameplay" cutNum="282" location="HollowBastion">
         
                 <desc>Tron stands aside and watches, as they are teleported out of the system. Leon
                         has been busy typing at the computer when the power system behinds him whirs
@@ -19469,7 +19467,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Sora</speaker> Right. We made a promise to Tron.</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="283" location="HallowBastion">
+        <cutscene type="Normal" cutNum="283" location="HollowBastion">
 
         
                 <desc>After searching and coming up short, they stand in front of Ansem's
@@ -19486,7 +19484,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         everywhere. Nothing happens, and she sighs and leaves. The three examine the
                         wall</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="284" location="HallowBastion">
+        <cutscene type="Normal" cutNum="284" location="HollowBastion">
         
 
         <sp>
@@ -19653,7 +19651,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Donald</speaker> That's a promise!</sp>
         </cutscene>
-        <cutscene type="Gameplay" cutNum="285" location="HallowBastion">
+        <cutscene type="Gameplay" cutNum="285" location="HollowBastion">
 
         <sp>
                 <speaker>Mickey</speaker> I'll see ya when you get back. Oh! One more thing. Let me
@@ -20030,7 +20028,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Tron</speaker> You too! And give my best to the Users!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="293" location="HallowBastion">
+        <cutscene type="Normal" cutNum="293" location="HollowBastion">
 
         
                 <desc>Sora, Donald, and Goofy are transported back to Ansem's computer room</desc>
@@ -20113,7 +20111,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Leon</speaker> It's just a few keystrokes. Easy, right?</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="294" location="HallowBastion">
+        <cutscene type="Normal" cutNum="294" location="HollowBastion">
 
         
                 <desc>He starts to walk out and places a hand on Sora's shoulder. He waves back as
@@ -20424,7 +20422,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Mickey <desc>looking serious</desc>
                 </speaker> Sounds like we gotta start by helpin' out here!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="295" location="HallowBastion">
+        <cutscene type="Normal" cutNum="295" location="HollowBastion">
 
         
                 <desc>Mickey runs into the corridor and they follow him. A horde of Heartless is
@@ -20469,7 +20467,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>They successfully defeat both groups of enemies. Yuna, Rikku, and Paine fly in
                         from down the hall</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="296" location="HallowBastion">
+        <cutscene type="Normal" cutNum="296" location="HollowBastion">
 
         <sp>
                 <speaker>Yuna</speaker> Where's Maleficent?</sp>
@@ -20530,7 +20528,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>Donald snickers and runs ahead to the Postern. Dusks appear after they
                         arrive</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="297" location="HallowBastion">
+        <cutscene type="Normal" cutNum="297" location="HollowBastion">
 
         <sp>
                 <speaker>Sora</speaker> We don't have time for you!</sp>
@@ -20585,7 +20583,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         where Leon is slicing down Heartless. Aerith is there for support. She turns
                         around as they enter</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="298" location="HallowBastion">
+        <cutscene type="Normal" cutNum="298" location="HollowBastion">
 
         <sp>
                 <speaker>Aerith</speaker> Sora! Behind you!</sp>
@@ -20594,7 +20592,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>They whirl around and several Dancer Nobodies appear. They defeat the Nobodies
                         and run to catch up with Leon</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="299" location="HallowBastion">
+        <cutscene type="Normal" cutNum="299" location="HollowBastion">
 
         <sp>
                 <speaker>Leon</speaker> The King's in the bailey. You better head over there!</sp>
@@ -20606,7 +20604,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>They leave the Restoration Site and enter the Bailey, seeing no one. They
                         approach a rock formation and look out over the expanse</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="300" location="HallowBastion">
+        <cutscene type="Normal" cutNum="300" location="HollowBastion">
         
 
         <sp>
@@ -20705,7 +20703,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Sora</speaker> Leon, everybody---hang in there!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="301" location="HallowBastion">
+        <cutscene type="Normal" cutNum="301" location="HollowBastion">
 
         
                 <desc>Mickey drops from the sky and holds his arms out, his back to them</desc>
@@ -20803,7 +20801,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Goofy</speaker> Hope you can forgive us!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="302" location="HallowBastion">
+        <cutscene type="Normal" cutNum="302" location="HollowBastion">
 
         
                 <desc>They leave over the rock face, and Mickey sighs. A camera in Ansem's computer
@@ -21043,7 +21041,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         others, but are stopped at the Castle Gate by Demyx, who hesitantly readies
                         himself. He doesn't seem sure how to react</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="303" location="HallowBastion">
+        <cutscene type="Normal" cutNum="303" location="HollowBastion">
 
         <sp>
                 <speaker>Demyx</speaker> Hey, you guys are looking lively.</sp>
@@ -21118,7 +21116,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         
                 <desc>After a very wet battle, Demyx slumps to the ground</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="304" location="HallowBastion">
+        <cutscene type="Normal" cutNum="304" location="HollowBastion">
 
         <sp>
                 <speaker>Demyx</speaker> Aw... booed again."</sp>
@@ -21229,7 +21227,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         Goofy, and follows them. They fight through the Ravine Trail and find
                         Yuffie</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="305" location="HallowBastion">
+        <cutscene type="Normal" cutNum="305" location="HollowBastion">
 
         <sp>
                 <speaker>Yuffie</speaker> Sora, did you miss me? Yuffie is on the scene!</sp>
@@ -21269,7 +21267,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Tifa</speaker> Hurry! Go on ahead!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="306" location="HallowBastion">
+        <cutscene type="Normal" cutNum="306" location="HollowBastion">
 
         
                 <desc>Sora follows the cliffs. Cloud jumps down, shoving his buster sword into the
@@ -21330,7 +21328,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Donald</speaker> Don't you ever do that again!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="307" location="HallowBastion">
+        <cutscene type="Normal" cutNum="307" location="HollowBastion">
 
         
                 <desc>They continue deeper into the Great Maw, where tons of Heartless stand idle.
@@ -21460,7 +21458,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         continues through the cliffs. He catches his breath as Donald and Goofy run
                         up</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="308" location="HallowBastion">
+        <cutscene type="Normal" cutNum="308" location="HollowBastion">
 
         <sp>
                 <speaker>Sora</speaker> Where's the King?</sp>
@@ -21476,7 +21474,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Sora</speaker> C'mon!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="309" location="HallowBastion">
+        <cutscene type="Normal" cutNum="309" location="HollowBastion">
 
         
                 <desc>Xehanort's Nobody stands facing Maleficent's dark castle. Mickey stands behind
@@ -22025,7 +22023,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Goofy</speaker> But Sora, I think ya have to use it. If we don't fight 'em,
                 the Heartless'll keep on hurtin' folks.</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="313" location="LandofDragons">
+        <cutscene type="Normal" cutNum="313" location="TheLandofDragons">
 
         
                 <desc>They arrive back at the burned village in the Land of Dragons and walk through
@@ -22061,14 +22059,14 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Donald</speaker> Then let's go!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="314" location="LandofDragons">
+        <cutscene type="Normal" cutNum="314" location="TheLandofDragons">
 
         
                 <desc>They run to the Ridge and look around. Mulan taps Sora's shoulder and points.
                         The cloaked man runs farther up the mountain. They follow him to the
                         Summit</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="315" location="LandofDragons">
+        <cutscene type="Normal" cutNum="315" location="TheLandofDragons">
 
         <sp>
                 <speaker>Mulan</speaker> Looks like he got away.</sp>
@@ -22122,7 +22120,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         they stand apart. The man holds up a hand to Sora, then runs back down the
                         mountain. Sora chases him</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="316" location="LandofDragons">
+        <cutscene type="Normal" cutNum="316" location="TheLandofDragons">
 
         <sp>
                 <speaker>Sora</speaker> That guy... No... Why...would he? Riku?</sp>
@@ -22161,7 +22159,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Sora</speaker> Okay.</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="317" location="LandofDragons">
+        <cutscene type="Normal" cutNum="317" location="TheLandofDragons">
 
         
                 <desc>Before leaving, Sora takes one more look at the Summit, then turns around and
@@ -22173,7 +22171,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Mulan</speaker> It's heading for the city! We've got to warn Shang!</sp>
         </cutscene>
-        <cutscene type="Gameplay" cutNum="318" location="LandofDragons">
+        <cutscene type="Gameplay" cutNum="318" location="TheLandofDragons">
 
         
                 <desc>They run down the mountain. In the city, Captain Li Shang is knocked to the
@@ -22212,7 +22210,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Mulan</speaker> To the palace! Hurry!</sp>
 
         </cutscene>
-        <cutscene type="Normal" cutNum="319" location="LandofDragons">
+        <cutscene type="Normal" cutNum="319" location="TheLandofDragons">
                 <desc>They run to the Palace Gate, which is locked. Sora, Donald, and Goofy bang on
                         the doors</desc>
         
@@ -22274,7 +22272,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         back to the doors, he sees no one. Xigbar runs from behind him to the Palace
                         Gate in secret. After successfully defeating the Nobodies...</desc>
         </cutscene>
-        <cutscene type="Gameplay" cutNum="320" location="LandofDragons">
+        <cutscene type="Gameplay" cutNum="320" location="TheLandofDragons">
 
         <sp>
                 <speaker>Goofy</speaker> Guess it wasn't Riku.</sp>
@@ -22359,7 +22357,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Donald</speaker> Hurry!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="321" location="LandofDragons">
+        <cutscene type="Normal" cutNum="321" location="TheLandofDragons">
 
         
                 <desc>They return to the Antechamber. Mulan opens the gate and the Storm Rider flies
@@ -22378,7 +22376,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         battle, the Storm Rider Heartless starts to fall to the ground directly over
                         Mulan</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="322" location="LandofDragons">
+        <cutscene type="Normal" cutNum="322" location="TheLandofDragons">
 
         <sp>
                 <speaker>Shang</speaker> Mulan!</sp>
@@ -22499,7 +22497,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Mulan</speaker> Thank you, Your Excellency!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="323" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="323" location="BeastsCastle">
 
         
                 <desc>Shang walks up to her and smiles. Sora seems to be just a little teary-eyed.
@@ -22520,7 +22518,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Wardrobe</speaker> The master does have his shy side, you know.</sp>
         </cutscene>
-        <cutscene type="Gameplay" cutNum="324" location="Beast'sCastle">
+        <cutscene type="Gameplay" cutNum="324" location="BeastsCastle">
 
         
                 <desc>Sora, Donald, and Goofy enter the castle and see the Beast pacing in the
@@ -22560,7 +22558,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Beast</speaker> Hmph.</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="325" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="325" location="BeastsCastle">
 
         
                 <desc>Belle walks down the east staircase</desc>
@@ -22658,7 +22656,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>They fight the Nobodies. The castle staff quickly hurries Belle out to the
                         balcony away from the fight</desc>
         </cutscene>
-        <cutscene type="Gameplay" cutNum="326" location="Beast'sCastle">
+        <cutscene type="Gameplay" cutNum="326" location="BeastsCastle">
 
         <sp>
                 <speaker>Sora</speaker> Where's Belle!?</sp>
@@ -22693,7 +22691,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Donald</speaker> C'mon!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="327" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="327" location="BeastsCastle">
 
         
                 <desc>They hurry to the Beast's Room in the West Wing, where the Beast is pacing
@@ -22805,7 +22803,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         Cogsworth, and Lumiere are in the West Wing. Belle waves solemnly at them as
                         she walks by and down the stairs</desc>
         </cutscene>
-        <cutscene type="Gameplay" cutNum="328" location="Beast'sCastle">
+        <cutscene type="Gameplay" cutNum="328" location="BeastsCastle">
         
 
         <sp>
@@ -22860,7 +22858,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         
                 <desc>Donald and Goofy nod. They return to the Beast's room</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="329" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="329" location="BeastsCastle">
 
         <sp>
                 <speaker>Sora</speaker> Hey, Beast.</sp>
@@ -22897,7 +22895,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         
                 <desc>Sora, Donald, and Goofy nod. They return to the Entrance Hall</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="330" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="330" location="BeastsCastle">
 
         <sp>
                 <speaker>Xaldin</speaker> So, Beast...you came after all.</sp>
@@ -22926,7 +22924,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 completely. So you see, Beast---that's why we need your Heartless AND your
                 Nobody!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="331" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="331" location="BeastsCastle">
 
         
                 <desc>They fight the group of Nobodies that appear. Xaldin floats down from the high
@@ -22970,7 +22968,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Sora</speaker> Hurry!</sp>
         </cutscene>
-        <cutscene type="Normal" cutNum="332" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="332" location="BeastsCastle">
 
         
                 <desc>They run through the arc, Beast shoving the door open with his shoulder. The
@@ -23021,7 +23019,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         
                 <desc>They fight a cruel battle against Xaldin</desc>
         </cutscene>
-        <cutscene type="Normal" cutNum="333" location="Beast'sCastle">
+        <cutscene type="Normal" cutNum="333" location="BeastsCastle">
 
         <sp>
                 <speaker>Xaldin</speaker> Is this the end?</sp>
@@ -23133,7 +23131,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Sora</speaker> Yeah, they sure do!</sp>
         </cutscene>
-        <cutscene type="Gameplay" cutNum="334" location="Beast'sCastle">
+        <cutscene type="Gameplay" cutNum="334" location="BeastsCastle">
 
         
                 <desc>The two continue to dance. Sora, Donald, and Goofy return to the Gummi
@@ -23541,7 +23539,6 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
 
         
                 <desc>He points to a Gambler Nobody who's flipping a medallion in its hand</desc>
-        </cutscene>
 
         <sp>
                 <speaker>Jack Sparrow</speaker> A medallion! Get it!</sp>
@@ -24638,7 +24635,6 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         
                 <desc>Hades clutches his heart. Sora strikes one more time, but Hades teleports to
                         the edge of the river of death. Hades backs away</desc>
-        </cutscene>
 
         <sp>
                 <speaker>Hades</speaker> It's...not over...yet...</sp>
@@ -26979,7 +26975,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         against it. Unable to retrieve any more answers from this place, Sora,
                         Donald, and Goofy return to the Gummi Ship and fly to Hollow Bastion, where
                         Heartless are running around</desc>
-        </cutscene><cutscene type="Normal" cutNum="395" location="HallowBastion">
+        </cutscene><cutscene type="Normal" cutNum="395" location="HollowBastion">
         
 
         <sp>
@@ -27033,7 +27029,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         Donald, almost hitting him. Several Strafer Heartless appear. After
                         defeating them, the door to Merlin's House opens and Yuffie walks out</desc>
         </cutscene>
-        </cutscene><cutscene type="Gameplay" cutNum="396" location="HallowBastion">
+        <cutscene type="Gameplay" cutNum="396" location="HollowBastion">
 
         <sp>
                 <speaker>Yuffie</speaker> Come on in!</sp>
@@ -27081,7 +27077,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Cid</speaker> Accordin' to Leon, anyway... He went on over to Ansem's study
                 to find out what all the ruckus was about.</sp>
         </cutscene>
-        </cutscene><cutscene type="Normal" cutNum="397" location="HallowBastion">
+        <cutscene type="Normal" cutNum="397" location="HollowBastion">
 
         
                 <desc>Leon and Aerith walk into the Study. Leon enters the passageway to the
@@ -27113,7 +27109,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Yuffie</speaker> That MCP sure doesn't know when to quit, does it?</sp>
         </cutscene>
-        </cutscene><cutscene type="Gameplay" cutNum="398" location="HallowBastion">
+        <cutscene type="Gameplay" cutNum="398" location="HollowBastion">
 
         <sp>
                 <speaker>Cid</speaker> That's a computer program for ya.</sp>
@@ -27161,7 +27157,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         
                 <desc>Donald and Goofy nod. The three proceed to the Postern</desc>
         </cutscene>
-        </cutscene><cutscene type="Normal" cutNum="399" location="HallowBastion">
+        <cutscene type="Normal" cutNum="399" location="HollowBastion">
 
         <sp>
                 <speaker>Yuna</speaker> Liars!</sp>
@@ -27274,7 +27270,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         and finds the Gull Wing Keychain. They continue to Ansem's Study. Leon hears
                         someone enter and whirls around with his Gunblade</desc>
         </cutscene>
-        </cutscene><cutscene type="Gameplay" cutNum="400" location="HallowBastion">
+        <cutscene type="Gameplay" cutNum="400" location="HollowBastion">
 
         <sp>
                 <speaker>Goofy</speaker> Gawrsh, it's only us!</sp>
@@ -27333,7 +27329,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Leon</speaker> Thanks. And watch your backs.</sp>
         </cutscene>
-        </cutscene><cutscene type="Normal" cutNum="401" location="SpaceParanoids">
+        <cutscene type="Normal" cutNum="401" location="SpaceParanoids">
 
         
                 <desc>Sora walks up the computer, it's threat message still displayed on the
@@ -27364,7 +27360,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Donald</speaker> Let's go!</sp>
         </cutscene>
-        </cutscene><cutscene type="Normal" cutNum="402" location="HallowBastion">
+        <cutscene type="Normal" cutNum="402" location="HollowBastion">
 
         
                 <desc>They access the game grid. Leon enters Merlin's House, where Cid is typing
@@ -27431,7 +27427,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         arrive at the game grid. Sora sees Tron amongst Heartless running
                         everywhere</desc>
         </cutscene>
-        </cutscene><cutscene type="Normal" cutNum="403" location="SpaceParanoids">
+        <cutscene type="Normal" cutNum="403" location="SpaceParanoids">
 
         <sp>
                 <speaker>Sora</speaker> Tron!</sp>
@@ -27454,7 +27450,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         
                 <desc>They defeat the Heartless and return to the Pit Cell</desc>
         </cutscene>
-        </cutscene><cutscene type="Gameplay" cutNum="404" location="SpaceParanoids">
+        <cutscene type="Gameplay" cutNum="404" location="SpaceParanoids">
 
         <sp>
                 <speaker>Tron</speaker> You really saved me.</sp>
@@ -27504,7 +27500,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
         <sp>
                 <speaker>Tron</speaker> Let's go!</sp>
         </cutscene>
-        </cutscene><cutscene type="Normal" cutNum="405" location="SpaceParanoids">
+        <cutscene type="Normal" cutNum="405" location="SpaceParanoids">
 
         
                 <desc>They run through the Canyon and take a transport to the I/O Tower. Leon runs
@@ -27527,7 +27523,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>They defeat the Heartless and head for the Communications Room. Leon hurries
                         into the computer room and types on the keyboard</desc>
         </cutscene>
-        </cutscene><cutscene type="Normal" cutNum="406" location="HallowBastion">
+        <cutscene type="Normal" cutNum="406" location="HollowBastion">
         
 
         <sp>
@@ -27564,7 +27560,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>Aerith celebrates and Leon crosses his arms. In the Communications Room, they
                         stand around the center system</desc>
         </cutscene>
-        </cutscene><cutscene type="Normal" cutNum="407" location="SpaceParanoids">
+        <cutscene type="Normal" cutNum="407" location="SpaceParanoids">
 
         <sp>
                 <speaker>Tron</speaker> Nothing's come in yet.</sp>
@@ -27620,14 +27616,14 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <speaker>Tron</speaker> We'll need a sailer to reach the MCP, so let's get to the
                 simulation hangar!</sp>
         </cutscene>
-        </cutscene><cutscene type="Normal" cutNum="408" location="SpaceParanoids">
+        <cutscene type="Normal" cutNum="408" location="SpaceParanoids">
 
         
                 <desc>They run to the Simulation Hanger, just outside the Hallway, and board a solar
                         sailer simulation. Tron accesses the device and it's wings appear. The
                         sailer leaves the hangar across the data stream</desc>
         </cutscene>
-        </cutscene><cutscene type="Normal" cutNum="409" location="SpaceParanoids">
+        <cutscene type="Normal" cutNum="409" location="SpaceParanoids">
         
 
         <sp>
@@ -27640,7 +27636,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         threaten to make it fall. Luckily, they defeat the Heartless before that
                         could happen. The solar sailer stops at the Central Computer Mesa</desc>
         </cutscene>
-        </cutscene><cutscene type="Normal" cutNum="410" location="SpaceParanoids">
+        <cutscene type="Normal" cutNum="410" location="SpaceParanoids">
 
         <sp>
                 <speaker>Tron</speaker> The MCP is straight ahead.</sp>
@@ -27668,7 +27664,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>They defeat Sark's Heartless, then take on Sark himself. The Commander tries
                         to stand, but weakly</desc>
         </cutscene>
-        </cutscene><cutscene type="Normal" cutNum="411" location="SpaceParanoids">
+        <cutscene type="Normal" cutNum="411" location="SpaceParanoids">
 
         <sp>
                 <speaker>Sark</speaker> You're very persistent, Tron.</sp>
@@ -27731,7 +27727,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                         heart of the MCP. The MCP turns blue and vanishes. The data streams in Sark
                         become corrupt and he disappears. Tron jumps for joy</desc>
         </cutscene>
-        </cutscene><cutscene type="Normal" cutNum="412" location="SpaceParanoids">
+        <cutscene type="Normal" cutNum="412" location="SpaceParanoids">
 
         <sp>
                 <speaker>Tron</speaker> We did it!</sp>
@@ -27817,7 +27813,7 @@ ebb: Isn't this the OLD schema from last year? I've associated Austin's new sche
                 <desc>There is a large rumbling and several systems come back online. Yuffie runs
                         into the computer room</desc>
         </cutscene>
-        </cutscene><cutscene type="Normal" cutNum="413" location="HallowBastion">
+        <cutscene type="Normal" cutNum="413" location="HallowBastion">
 
         <sp>
                 <speaker>Yuffie</speaker> Things are settling down in town! The only Heartless left

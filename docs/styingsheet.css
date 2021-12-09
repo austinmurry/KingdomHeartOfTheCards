@@ -18,6 +18,13 @@ h1.about{
     margin-left: 30px;
 }
 
+h1.about2{
+    position: relative;
+    /*margin-left: 50px;*/
+    text-align: center;
+    margin-top: 300px;
+}
+
 h1.network{
     text-align: center;
 }
@@ -330,8 +337,67 @@ div.legend {
   background-color: orange;
 }
 
-div.soraGif {
-    position: absolute;
-    left: 350px;
-    bottom: -250px;
+.soraGif{
+    width: 100px;
+    display: inline-flex;
 }
+
+.soraGif img{
+    margin: auto 150px;
+    margin-top: -200px;
+    width: 700px;
+    height: 700px;
+}
+
+.goofyGif{
+    width: 100px;
+    display: inline-flex;
+}
+
+.goofyGif img{
+    margin: auto 950px;
+    margin-top: -850px;
+    width: 1000px;
+    height: 1000px;
+}
+
+.donaldGif{
+    width: 100px;
+    display: inline-flex;
+}
+
+.donaldGif img{
+    margin: auto 650px;
+    margin-top: -1100px;
+    width: 1500px;
+    height: 1500px;
+}
+
+div.container {
+    text-align: center;
+    display: block;
+}
+
+p.khText {
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 2.5em;
+}
+
+/* section#graph {
+    color:maroon; 
+    display: flex; 
+    justify-content:flex-start; 
+    flex-direction:row;
+    padding-top: 5em;
+}
+
+section#graph p {
+    flex:1;
+}
+
+section#graph div#KHGraph {
+    flex:3;
+    background: white;
+}*/
+
